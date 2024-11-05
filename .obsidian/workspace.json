@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "lecture notes/CS-1371/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Vectors"
             }
           },
           {
@@ -179,18 +179,21 @@
   },
   "active": "8cb1fea996e9762c",
   "lastOpenFiles": [
+    "lecture notes/CS-1371/Untitled.md",
+    "lecture notes/CS-1371/Vectors.md",
+    "readme.md",
+    "media/Pasted image 20241105133511.png",
+    "media/Pasted image 20241018195352.png",
     "media/Pasted image 20241105133158.png",
     "lecture notes/CS-1371/Exam Notes.md",
     "lecture notes/CS-1371/Plotting.md",
     "projects/Fusion Basics.md",
-    "media/Pasted image 20241018195352.png",
     "lecture notes/CS-1371/class intro.md",
     "Untitled.md",
     "Class Notes/CS-1371/Untitled 1.md",
     "media/readme.md",
     "media",
     "projects/Quantum Notes.md",
-    "readme.md",
     "productivity/Morning Check.md",
     "productivity",
     "projects/Fusion Notes",
@@ -201,7 +204,6 @@
     "Fireship Cryptography.md",
     "misc",
     "untitled folder",
-    "lecture notes/CS-1371/Vectors.md",
     "lecture notes/CS-1371/Structs.md",
     "lecture notes/CS-1371/Strings.md",
     "lecture notes/CS-1371/Matrices.md",
