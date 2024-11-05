@@ -1,0 +1,6 @@
+- Calls the press a fourth branch of government
+- Says the main power of the president is the power to persuade
+- Says that the government is not actually seperated
+- "The essence of a President's persuasive task is to convince such men that what the White House wants of them is what they ought to do for their sake and on their authority."
+	-Holds their "authority" above their head
+-

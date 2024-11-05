@@ -1,0 +1,66 @@
+Today's presidency
+- Formal and Informal Powers
+- Head of their major political party
+	- Influence other leaders
+	- Informal power
+	- Much more powerful today than before
+	- Took advantage of vauge powers
+- Enumerated powers
+	- Formally given to president
+	- Stuff like the ability to act as the commander and chief
+- Veto
+	- President can veto a bill
+	- 2/3 vote can overrule
+	- Pocket veto is when the president doesn't sign it off
+	- The threat of a veto can alter the format of a bill until they approve of it
+	- Even though they seldom use it, it's still very powerful
+- Appointments
+	- Can appoint people to executive branches
+	- Can appoint to courts
+	- Senate can reject an appointment
+	- Often given as awards to people who helped with the campaign
+	- Appointments to the judicial branch allows presidents to leave a lasting change, longer than the president's term.
+- Executive Orders
+	- Bypass congress
+	- Have become more powerful with time
+	- Used during war. You can pass stuff a lot faster.
+	- There are rules, you can't overstep
+		- The truman steel mill was found to be unconstitutional; it overstepped.
+		- If 1/3 of congress will NOT challenge the order, you can effectively pass bills without congress's approval
+- Executive Agreements and Signing Statements
+	- Between US and other countries
+	- Similar to treaties, just a little weaker.
+	- Treaties need senate approval, these don't.
+	- Signing Statements are the president's interpretation of a bill.
+- Administrative and Financial Resources
+	- Different agencies are created by presidents
+		- Department of homeland security (Bush)
+		- Space Force (Trump)
+	- White House Staff
+		- Serve to the president; not controlled by congress
+		- Manage presidential duties
+		- Strategists, spokesperson
+	- Executive Office of the President (EOP)
+		- "Nerve center of the presidency"
+		- Provides expertise to the president
+		- Some parts of the EOP (OMB) stay in place from president to president.
+			- These are legislative and exist by congress
+			- Senate must approve people  
+			- OMB stands for Office of Management and Budget
+		- Most parts can be controlled by the president
+	- Vice Presidency
+		- The 2nd place in the election used to be the vice president
+		- Now they are elected as a team
+		- Must come from a different state from the president
+		- Vice president didn't really do much except for political appeal, but now that's changed.
+		- Vice president needs to keep up with what the president is doing
+		- They are a key advisor to the president.
+		- They cast high-ranking votes in the senate
+		- Much more active in recent eras, since WWII
+- Is the presidency too powerful?
+	- Some people say it is. "Leader of the free world."
+	- Congress can withhold money from presidential policies 
+	- Impeachment is for treason.
+		- Less powerful than intended.
+		- Turned into a political tool.
+		- Nobody has actually been removed from office.

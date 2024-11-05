@@ -1,0 +1,87 @@
+ - Deals with 9000 bills per year nowadays, ~500 get passed
+ - 10,000 official registered lobbyists 
+ - "Institutionalized" meaning that congress grew more internally litigious as it got older; they made their own rules
+ - Party leaders
+	 - Elected to the party's cacus
+	 - Solve coordination issues; get everyone to vote with their party
+	 - House members vote for the speaker of the house
+		 - 3rd in line for presidential backup
+	 - Senate majority leader is the head of the party holding the most seats 
+	 - Reed's Rules
+		 - Guidelines that the majority party uses to elect the members on its committees, orders of business, and how to limit the power of the minority party
+	 - Whip
+		 - Member of house or senate elected by the party who helps coordinate party members.
+	 - There is a majority leader and a majority whip, AND a minority leader and minority whip.
+	 - Majority leader determine which leaders are considered/ignored.
+	 - Both majority and minority appoint committee members and choose who is allowed to speak from the floor.
+	 - Parties are limited in power in America due to the individualism; people aren't very loyal to their party.
+ - Committees:
+	 - Types of committees:
+		 - Standing committees
+			 - Agriculture committee, usually run by people deeply vested in the topic
+		 - Special (or select) committees
+			 - Formed for a special purposed, dissolved when complete
+			 - Deficit reduction committee is an example
+			 - Sometimes end up being permanent 
+		 - Joint committees
+			 - ?
+		 - Conference committees
+			 - Formed by both chambers
+			 - Specific to a given bill
+			 - Craft a bill that both houses approve
+		 - Rules committee
+			 - Approve a bill and send it out for consideration by the entire chamber
+			 - Decides the types of amendments that are permitted
+	 - Committee membership
+		 - Each committee has a chair that is very powerful
+			 - They can alter the bill in many ways
+		 - Sub committees exist
+		 - Committee assignment is very political.
+		 - Assigned by party leaders, can be used to punish/reward unloyal/loyal members
+		 - Committees allow people to specialize in key topics.
+ - Caucuses
+	 - No formal legislative power
+	 - Allows a group of members to work together
+	 - Separate from committees
+ - Congressional Staff
+	 - Work directly for a committee under a member
+	 - Do everything for members of congress
+	 - Over 11k of them
+	 - Hire staff to help with re-election
+
+Lawmaking
+- Proposals
+	- House or senate member submits a bill
+		- **Only** members of congress can submit a bill, nobody else, including the president.
+		- They can be written by anyone, but they need to get submitted by a member of congress.
+	- ~9000 proposed bills per year
+	- A committee is assigned the bill, the selection depends on the topic
+	- Most proposed bills are ignored so that they can stay focused
+	- Many lawmakers will propose bills knowing they will get ignored for bragging reasons.
+- Referrals
+	- Where a bill gets referred
+	- The Speaker can strategically ignore a bill by referring it to a committee that is likely to ignore it 
+	- Split referral: Allows the speaker to split a bill into sections and to assign each section to a different committee
+- Committee Action
+	- Committee and subcommittee chairs ignore almost all bills
+	- The subcommittee can mark up a bill, then pass it to the main committee, which then can make further amendments
+	- **mark-up** is the process where committees and subcommittees edit and amend bills
+- Moving bills to the floor
+	- If the committee gives the green flag, they report it to the floor with a written report arguing in its favor
+	- The rules committee can assert:
+		- Open rule: Where any amendment can be proposed
+			- Allows an unrestricted process to gut or kill a bill
+		- Closed rule: Where no amendments can be proposed
+			- This is to prevent the floor from amending the bill to death until it is useless
+		- Restricted (or modified) rule - only certain kinds of amendments can be proposed
+- Senate Distinctiveness
+	- Senate is different from the house in the way that bills get moved to the floor
+	- Unanimous consent agreements: All members must agree for a bill to progress—a single person can stop it
+	- **Filibuster**: A member of the senate speaks for a expended period of time in attempt to block the rest of the senate from voting on a bill. You can also invoke a filibuster without actually talking for that long
+	- **Cloture**: Limits debate on a bill to so many hours. 60 votes is required to end the filibuster
+- Floor Action
+	- **Veto** - The president can reject a bill
+	- A lot of time people take this time to advertise themselves in front of the camera
+	- Votes are public
+	- If a bill can't be reconciled between house and senate through the conference committee, it will die, but this is pretty uncommon.
+	- If the president doesn't sign a bill within 10 days that it is passed to him, it will be a **pocket veto**
