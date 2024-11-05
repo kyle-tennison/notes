@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/CS-1371/Vectors.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors"
+              "title": "readme"
             }
           },
           {
@@ -179,8 +179,9 @@
   },
   "active": "8cb1fea996e9762c",
   "lastOpenFiles": [
-    "lecture notes/CS-1371/Untitled.md",
+    "media/Pasted image 20241105133928.png",
     "lecture notes/CS-1371/Vectors.md",
+    "lecture notes/CS-1371/Untitled.md",
     "readme.md",
     "media/Pasted image 20241105133511.png",
     "media/Pasted image 20241018195352.png",
@@ -214,7 +215,6 @@
     "lecture notes/INTA-1200/The Power to Persuade.md",
     "lecture notes/INTA-1200/The Bureaucracy.md",
     "lecture notes/INTA-1200/Primaries, Caucuses, and the Electoral College.md",
-    "lecture notes/INTA-1200/Legislative Part 2.md",
     "lecture notes/INTA-1200",
     "lecture notes"
   ]
