@@ -61,13 +61,13 @@ This may be a silly question, but does the kinetic energy change depending on th
 In one scenario, the total kinetic energy here is
 $$E=KE_1+\cancel{KE_2} = \frac12 m (2v)^2 = 2mv^2$$
 
-![[../../Excalidraw/Drawing 2024-11-05 21.57.01.excalidraw]]
+![[../../media/excalidraw/excalidraw-2024-11-05-22.38.04.excalidraw]]
 
 In another scenario, we can have:
 
 $$E = KE_1+KE_2 = \frac12mv^2 +\frac12 mv^2 = mv^2$$
 
-![[../../Excalidraw/Drawing 2024-11-05 22.01.32.excalidraw]]
+![[../../media/excalidraw/excalidraw-2024-11-05-22.38.50.excalidraw]]
 
 To me, it appears that the kinetic energy is dependent on the reference frame, which should not be the case...
 
