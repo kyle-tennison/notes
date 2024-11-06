@@ -14,7 +14,9 @@ where $e$ is the elementary charge, because $q_1$ and $q_2$ are $+1$ charged hyd
 
 However, evaluating the potential energy in this case would yield:
 
+
 $$ U_{coulomb} = (8.99\times 10^9 \frac{Nm^2}{C^2})\frac{(1.602\times 10^{-19} C)^2}{2.128\times 10^{-15}m} \approx 677\ keV$$
+
 where $r$ is approximately the bonding radius.
 A $677keV$ barrier exists, *according to classical laws* that the particle must overcome in order to fuse. However, if this were true, we would expect to see no fusion on the sun. In reality, **quantum tunneling** plays a role in how particles can fuse
 
@@ -25,7 +27,9 @@ Quantum tunneling is a quantum principle that, under certain conditions, particl
 The [**Gamow Factor**](https://en.wikipedia.org/wiki/Gamow_factor) greatly simplifies this calculation and explains quantum tunneling as a probability. For *any energy*, there is a probability that two particles can overcome their electrostatic barrier.
 
 The *Gamow energy* is defined as:
+
 $$E_G = 2m_rc^2(π\alpha Z_a Z_b)^2$$
+
 where:
 - $m_r$ is the reduced mass of the particles, i.e., $\frac{m_a m_b}{m_a+m_b}=m_r$ 
 - $\alpha$ is the *fine structure constant*, also known as the "Sommerfeld Constant"
@@ -34,7 +38,9 @@ where:
 - $Z_a$ and $Z_b$ are the atomic numbers of each particle.
 
 The *probability of any two particles overcoming their potential energy barrier* is given by the function:
+
 $$P_G(E) = e^{- \sqrt{\frac{E_G}{E}}}$$
+
 where:
 - $P_G$ is the probability, $0 < P_G < 1$  (don't take these bounds as gospel)
 - $E_G$ is the aforementioned Gamow energy
@@ -59,6 +65,7 @@ We need a, say, $60 keV$ collision for the particles to have a decent chance to 
 This may be a silly question, but does the kinetic energy change depending on the reference frame when two particles collide?
 
 In one scenario, the total kinetic energy here is
+
 $$E=KE_1+\cancel{KE_2} = \frac12 m (2v)^2 = 2mv^2$$
 
 ![[../../media/excalidraw/excalidraw-2024-11-05-22.38.04.excalidraw]]
@@ -80,7 +87,9 @@ In the lab frame frame, the *absolute* kinetic energy is higher, but the collisi
 According to [wikipedia](https://en.wikipedia.org/wiki/Kinetic_energy): "The total kinetic energy of a system depends on the [inertial frame of reference](https://en.wikipedia.org/wiki/Inertial_frame_of_reference "Inertial frame of reference"): it is the sum of the total kinetic energy in a [center of momentum frame](https://en.wikipedia.org/wiki/Center_of_momentum_frame "Center of momentum frame") and the kinetic energy the total mass would have if it were concentrated in the [center of mass](https://en.wikipedia.org/wiki/Center_of_mass "Center of mass")."
 
 The kinetic energy in the center of mass frame is given as:
+
 $$ KE = \int \frac{v^2}2 dm = \frac12 mv^2$$
+
 So, if we stick with the center of mass frame, there is no additional kinetic energy to account for. 
 
 > I'm not a huge fan of this, but I'll stick with it for now and see if I get some reasonable numbers
@@ -90,5 +99,7 @@ So, if we stick with the center of mass frame, there is no additional kinetic en
 Because the net kinetic energy of the collision can be described as the sum of the two particles kinetic energies when viewed from a center-of-mass frame. 
 
 An electron volt is defined as the energy required to accelerate an elementary charge in a $1V$ potential:
+
 $$1 eV = 1 V \cdot e\ C=1 \cancel{V} |\frac{\frac J{\cancel C}}{\cancel{V}} | \cdot e \cancel C = 1.60\times10^{-19}J$$
+
 Because the charge of a deuterium ion is also $+1$, or $1e$, a $1V$ potential will accelerate it to a kinetic energy of $1eV$. Hence, a $60kV$ potential will accelerate it to $60keV$ of kinetic energy. And, if the collision energy is the sum of the individual particle's kinetic energies, the collision energy will be $120keV$ if both particles collide head-on—increasing the Gamow probability of fusion to about 40% per collision.
