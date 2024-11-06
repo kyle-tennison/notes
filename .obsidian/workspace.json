@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45091b19e50bcb50",
+        "id": "c25135502a048770",
         "type": "tabs",
         "children": [
           {
-            "id": "05cbd84a9053db75",
+            "id": "1eb06f40281de17d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,13 +160,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05cbd84a9053db75",
+  "active": "1eb06f40281de17d",
   "lastOpenFiles": [
-    "media/Pasted image 20241105214223.webp",
+    "Excalidraw/Drawing 2024-11-05 22.01.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-05 21.57.01.excalidraw.md",
     "projects/fusor/Primary Theory.md",
+    "projects/fusor/Untitled.md",
+    "Excalidraw/Drawing 2024-11-05 21.56.38.excalidraw.md",
+    "Excalidraw",
+    "media/Pasted image 20241105214223.webp",
     "projects/fusor/Fusion Basics.md",
     "media/Pasted image 20241105210429.webp",
     "media/Pasted image 20241105214129.webp",
@@ -200,15 +206,11 @@
     "CS-1371/Vectors.md",
     "CS-1371/Structs.md",
     "CS-1371/Untitled.md",
-    "CS-1371/Strings.md",
-    "CS-1371/Plotting.md",
-    "CS-1371/Matrices.md",
     "CS-1371",
     "lecture notes/ME-3322 (thermodynamics)",
     "media",
     "productivity",
     "projects/Fusion Notes",
-    "projects",
-    "misc"
+    "projects"
   ]
 }
