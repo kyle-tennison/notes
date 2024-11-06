@@ -19,6 +19,14 @@
   legend('Sine Curve');               % Add legend
   ```
 
+Some key markers
+- `ro` red circle
+- `*k` black stars
+- `g+` green pluses
+- `bs` blue squares
+In generally, the color and symbol are interchangeable. All the examples above continue to work when the characters are reversed.
+
+
 ### Multiple Plots in the Same Graph
 To plot multiple lines on the same graph, you can use the `plot` function with multiple `x, y` pairs:
   ```matlab
@@ -39,6 +47,9 @@ If you want multiple plots in one figure window, you can use the `subplot` funct
   title('Cosine Wave');
   ```
 
+You effectively select the subplot, then run commands that will automatically map to that subplot.
+
+If you want to make an axis square, you can run the `axis square;` command.
 ### 3D Plots
 MATLAB supports 3D plotting as well. Common types are surface plots, mesh plots, and 3D line plots.
 
@@ -63,3 +74,17 @@ MATLAB also includes built-in functions for various types of specialized plots:
 - **Bar Plot**: `bar(x, y);`
 - **Scatter Plot**: `scatter(x, y);`
 - **Pie Chart**: `pie(data);`
+
+### Hold
+If you want to draw two plots atop each other, you can use `hold on` and `hold off`. When you toggle `hold on`, consecutive plots will not clear the canvas and multiple plots can be drawn atop each other.
+
+```matlab
+% Plot the first set of points (e.g., black stars)
+plot(x, y1, 'k*', 'MarkerSize', 10);
+hold on;          % Retain the current plot, so the next plot overlays it
+
+% Plot the second set of points (e.g., green pluses)
+plot(x, y2, 'g+', 'MarkerSize', 10);
+hold off;         % Turn off hold
+```
+

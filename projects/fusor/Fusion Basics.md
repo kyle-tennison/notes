@@ -49,10 +49,8 @@ There are probably some government regulations for neutron production, so I'll w
 
 ## What you see online
 Many people online claiming to make "fusors" are really just ionizing the surrounding air (even though it is mostly in a vacuum). The purple seen is identical to that in a high voltage nitrogen tube: 
-![[Pasted image 20241019100312.png]]
 
 ## X-Ray Radiation
-![[Pasted image 20241019100714.png]]
 
 X-Rays are produced in X-Ray tubes by accelerating an electron in an electron field, then rapidly decelerating it by crashing it into the "target".
 
