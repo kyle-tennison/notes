@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "430a37cb44fa40ae",
+        "id": "4a55b51a62ffe57b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef0f756772b857c",
+            "id": "aa9a10f0931b3241",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 526,
     "collapsed": true
   },
   "right": {
@@ -179,12 +179,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5ef0f756772b857c",
+  "active": "aa9a10f0931b3241",
   "lastOpenFiles": [
-    "productivity/Assignments.md",
-    "lecture notes/MSE-2001 (material science)/Material Defects.md",
-    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.dark.png",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles.md",
+    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.light.png",
+    "lecture notes/MSE-2001 (material science)/Material Defects.md",
+    "productivity/Assignments.md",
     "media/IMG_8896.webp",
     "media/Pasted image 20241107143122.webp",
     "media/Pasted image 20241107140939.png",
@@ -219,8 +221,6 @@
     "media/Pasted image 20241105223445.webp",
     "media/excalidraw",
     "media/Pasted image 20241105214223.webp",
-    "media/Pasted image 20241105210429.webp",
-    "media/Pasted image 20241105214129.webp",
     "projects/fusor",
     "gtsr",
     "lecture notes/CS-1371 (matlab)",

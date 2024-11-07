@@ -129,9 +129,12 @@ $$\frac{p_2}{p_1} =\frac{p_3}{p_4} = \frac{p_{3r}}{p_{4r}}$$
 After finding $p_{3r}$ for $T_3$, you can solve the equation above for $p_{4r}$ and interpolate to find $h_4$ and $T_4$. 
 
 
-##### Energy Balence
+##### Energy Balance
 
-![[../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw]]
+
+![|541](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.light.png)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md), and the [dark exported image](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.dark.png)%%
+
 
 The energy analysis for the control volume when considering the boundary drawn above is:
 
