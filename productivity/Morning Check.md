@@ -4,21 +4,21 @@ For my daily activities.
 
 
 
-- [ ] Check Emails
-	- [ ] Personal
-	- [ ] Georgia Tech
-	- [ ] Ansys
-- [ ] Check Canvas
-	- [ ] INTA-1200
-	- [ ] CS-1371
-	- [ ] MSE-2001
-	- [ ] COE-2001
-	- [ ] ME-3322
-	- [ ] Calendar
-- [ ] Duolingo
-- [ ] Anki 
-- [ ] Slack
-- [ ] [Personal Tasks](Personal%20Tasks.md)
+- [x] Check Emails
+	- [x] Personal
+	- [x] Georgia Tech
+	- [x] Ansys
+- [x] Check Canvas, load [Assignments](Assignments.md)
+	- [x] INTA-1200
+	- [x] CS-1371
+	- [x] MSE-2001
+	- [x] COE-2001
+	- [x] ME-3322
+	- [x] Calendar
+- [x] Duolingo
+- [x] Anki 
+- [x] Slack
+- [x] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar
 - [ ] Daily Habits
 

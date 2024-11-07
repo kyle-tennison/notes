@@ -94,3 +94,53 @@ Creating an effective heat exchanger is often difficult; this can be the source 
 You need to start considering $h_2$ instead of $h_{2s}$ . 
 
 $$\dot Q_c = \dot m (h_1-h_4)$$ 
+
+### Brayton Refrigeration Cycles
+
+Brayton cycles can also be run in reverse to work as a refrigeration cycle:
+
+![](../../media/Pasted%20image%2020241107140939.png)
+
+In one of these cycles, the working fluid is still air. To solve a problem like this, you are usually given the *pressure ratio.*
+
+The pressure ratio is defined as $\frac{p_2}{p_1}$ .
+
+To solve a problem like this, you will need to find the enthalpy at each state.
+
+---
+#### Example Analysis
+
+##### Finding Enthalpies
+
+The enthalpy at $1$ can be found if $T_1$ is known from the ideal gas tables for Air.
+
+If the pressure ratio is known, you can assert:
+
+$$\frac{p_2}{p_1} = \frac{p_{2r}}{p_{1r}}$$ 
+If the enthalpy is known for the ideal gas, $p_{1r}$ can also be found, meaning that: 
+
+$$p_{2r} = \frac{p_2}{p_1}p_{1r}$$
+If we solve for $p_{2r}$, we can interpolate on the ideal gas tables find the corresponding temperature, enthalpy, and entropy at state $2$.
+
+A similar process can be applied to find $h_3$ and $h_4$. In a Brayton cycle, it is assumed that $p_2 = p_3$ and $p_4 = p_1$ ; therefore, 
+
+$$\frac{p_2}{p_1} =\frac{p_3}{p_4} = \frac{p_{3r}}{p_{4r}}$$
+
+After finding $p_{3r}$ for $T_3$, you can solve the equation above for $p_{4r}$ and interpolate to find $h_4$ and $T_4$. 
+
+
+##### Energy Balence
+
+![[../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw]]
+
+The energy analysis for the control volume when considering the boundary drawn above is:
+
+$$\cancel{\frac{dE}{dt}} = \cancel{\dot Q_{cv}} + \dot W_{cv} + \dot m (h_1+h_3)-\dot m(h_2+h_4)$$
+
+$$\dot W_{cv} = \dot m (h_2+h_4-h_1-h_3)$$
+
+This is a convenient way to get the net work without having to analyze each component.
+
+> This concept of drawing the system boundary around both the turbine and the compressor can greatly reduce the amount of math needed.
+
+
