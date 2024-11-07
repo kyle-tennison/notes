@@ -132,9 +132,8 @@ After finding $p_{3r}$ for $T_3$, you can solve the equation above for $p_{4r}$ 
 ##### Energy Balance
 
 
-![|541](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.light.png)
-%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md), and the [dark exported image](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.dark.png)%%
-
+![](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md)%%
 
 The energy analysis for the control volume when considering the boundary drawn above is:
 
