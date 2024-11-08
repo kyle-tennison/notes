@@ -30,7 +30,8 @@ The **Cañada ENGR 210** (which *corresponds to ME 1670*) class really throws a 
 | ME 3340 (Fluids)                               | 3       |
 | ME 1670 (Engineering Graphics & Design)        | 3       |
 | **Total**                                      | **16**  |
-^ This looks like hell 
+
+> This looks like hell 
 
 #### Fall 2025
 
