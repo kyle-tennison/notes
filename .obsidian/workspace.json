@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ef4213fe3fd0b7",
+        "id": "e6d4b976ed3065ec",
         "type": "tabs",
         "children": [
           {
-            "id": "36e25934eb71dfef",
+            "id": "4138b4b0306cefe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/school/Spring 2025 Planning.md",
+                "file": "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring 2025 Planning"
+              "title": "Refrigeration Cycles (Textbook)"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -185,8 +186,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -194,31 +195,44 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36e25934eb71dfef",
+  "active": "4138b4b0306cefe0",
   "lastOpenFiles": [
+    "projects/Quantum Notes.md",
+    "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
+    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw-1-1.webp",
+    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.webp",
+    "media/excalidraw/excalidraw-2024-11-08-18.20.01.excalidraw.md",
+    "media/Pasted image 20241108182931.webp",
+    "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Lecture).md",
+    "media/excalidraw/excalidraw-2024-11-08-18.20.01.excalidraw.svg",
+    "productivity/Personal Tasks.md",
+    "lecture notes/MSE-2001 (material science)/Amorphous Solids.md",
+    "productivity/Assignments.md",
+    "media/excalidraw/excalidraw-2024-11-08-15.02.27.excalidraw.md",
+    "productivity/Morning Check.md",
+    "misc/Statics HW 8 confused.md",
+    "media/excalidraw/excalidraw-2024-11-08-15.02.27.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.md",
+    "productivity/school/Spring 2025 Planning.md",
+    "projects/fusor/Power Supply Considerations.md",
+    "projects/fusor/Flyback Transformers.md",
+    "media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.svg",
+    "media/Pasted image 20241107204842.webp",
+    "projects/fusor/Primary Theory.md",
     "productivity/school",
     "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md",
-    "productivity/school/Spring 2025 Planning.md",
-    "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles.md",
     "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.dark.png",
-    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.light.png",
     "lecture notes/MSE-2001 (material science)/Material Defects.md",
-    "productivity/Assignments.md",
-    "media/IMG_8896.webp",
-    "media/Pasted image 20241107143122.webp",
-    "media/Pasted image 20241107140939.png",
     "lecture notes/CS-1371 (matlab)/Structs.md",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
     "lecture notes/MSE-2001 (material science)/Untitled.md",
-    "lecture notes/MSE-2001 (material science)/Amorphous Solids.md",
-    "media/Pasted image 20241107093911.png",
     "lecture notes/MSE-2001 (material science)",
     "private/ansys/Conversion to Asyncio.md",
     "lecture notes/CS-1371 (matlab)/Class Intro.md",
@@ -226,26 +240,13 @@
     "lecture notes/CS-1371 (matlab)/Conditionals.md",
     "lecture notes/CS-1371 (matlab)/Matrices.md",
     "lecture notes/CS-1371 (matlab)/Vectors.md",
-    "lecture notes/CS-1371 (matlab)/File IO.md",
-    "lecture notes/CS-1371 (matlab)/Exam Notes.md",
-    "lecture notes/CS-1371 (matlab)/Untitled.md",
-    "readme.md",
-    "private/ansys/PyAnsysCloud Threading.md",
     "private/ansys",
     "private",
-    "media/Pasted image 20241106071600.png",
-    "media/Pasted image 20241106071519.webp",
     "productivity",
-    "projects/fusor/Primary Theory.md",
-    "media/excalidraw/excalidraw-2024-11-05-22.38.04.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-05-22.38.50.excalidraw.md",
-    "projects/fusor/Power Supply Considerations.md",
-    "media/Pasted image 20241105223445.webp",
     "media/excalidraw",
     "projects/fusor",
     "gtsr",
     "lecture notes/CS-1371 (matlab)",
-    "CS-1371",
-    "lecture notes/ME-3322 (thermodynamics)"
+    "CS-1371"
   ]
 }

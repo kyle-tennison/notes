@@ -1,4 +1,7 @@
 
+
+
+
 ### Hydrogels
 Hydrogels are not soluble in water because of their cross links.
 ![](../../media/Pasted%20image%2020241107093911.png)

@@ -26,7 +26,7 @@ Quantum tunneling is a quantum principle that, under certain conditions, particl
 
 The [**Gamow Factor**](https://en.wikipedia.org/wiki/Gamow_factor) greatly simplifies this calculation and explains quantum tunneling as a probability. For *any energy*, there is a probability that two particles can overcome their electrostatic barrier.
 
-The *Gamow energy* is defined as:
+The #gamow energy is defined as:
 
 $$E_G = 2m_rc^2(π\alpha Z_a Z_b)^2$$
 
@@ -51,7 +51,7 @@ Plotting this gives:
 
 > This is different from when I first did it, there may be an error.
 
-From this graph, we can see that for about $50\ keV$, there is an ~16% chance of fusion to occur. Using an n-body simulation, it might be possible to estimate the number of fusion events per second with this probability, but this exceeds the scope of my project. 
+From this graph, we can see that for about $50\ keV$, there is an ~16% #chance-of-fusion to occur. Using an n-body simulation, it might be possible to estimate the number of fusion events per second with this probability, but this exceeds the scope of my project. 
 
 ## Fusor Implementation Ideation
 
@@ -96,10 +96,10 @@ So, if we stick with the center of mass frame, there is no additional kinetic en
 
 #### Accelerating Particles
 
-Because the net kinetic energy of the collision can be described as the sum of the two particles kinetic energies when viewed from a center-of-mass frame. 
+The net kinetic energy of the collision can be described as the sum of the two particles kinetic energies when viewed from a center-of-mass frame. 
 
 An electron volt is defined as the energy required to accelerate an elementary charge in a $1V$ potential:
 
 $$1 eV = 1 V \cdot e\ C=1 \cancel{V} |\frac{\frac J{\cancel C}}{\cancel{V}} | \cdot e \cancel C = 1.60\times10^{-19}J$$
 
-Because the charge of a deuterium ion is also $+1$, or $1e$, a $1V$ potential will accelerate it to a kinetic energy of $1eV$. Hence, a $60kV$ potential will accelerate it to $60keV$ of kinetic energy. And, if the collision energy is the sum of the individual particle's kinetic energies, the collision energy will be $120keV$ if both particles collide head-on—increasing the Gamow probability of fusion to about 40% per collision.
+Because the charge of a deuterium ion is also $+1$, or $1e$, a $1V$ potential will accelerate it to a kinetic energy of $1eV$. Hence, a $60kV$ potential will accelerate it to $60keV$ of kinetic energy. And, if the collision energy is the sum of the individual particle's kinetic energies, the collision energy will be $120keV$ if both particles collide head-on—increasing the Gamow *probability of fusion* to *about 40%  #chance-of-fusion per collision*.
