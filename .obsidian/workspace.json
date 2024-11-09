@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d4b976ed3065ec",
+        "id": "eddbf978fae1d6e9",
         "type": "tabs",
         "children": [
           {
-            "id": "bf088a61c16290f3",
+            "id": "afd3c9ee213d542d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,30 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Refrigeration Cycles (Textbook)"
-            }
-          },
-          {
-            "id": "4138b4b0306cefe0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-2024-11-08-20.27.08.excalidraw"
-            }
-          },
-          {
-            "id": "010035e2db69553a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-2024-11-08-19.28.25.excalidraw"
             }
           }
         ]
@@ -224,45 +200,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf088a61c16290f3",
+  "active": "afd3c9ee213d542d",
   "lastOpenFiles": [
-    "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
+    "media/excalidraw/excalidraw-2024-11-09-12.41.34.excalidraw.md",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
-    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-09-12.27.17.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-09-12.41.34.excalidraw.svg",
+    "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Lecture).md",
+    "media/excalidraw/excalidraw-2024-11-09-12.27.17.excalidraw.svg",
+    "lecture notes/ME-3322 (thermodynamics)/Untitled.md",
+    "lecture notes/ME-3322 (thermodynamics)/Topics to Study.md",
+    "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
+    "media/excalidraw/excalidraw-2024-11-09-10.09.42.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-09-10.09.41.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-09-10.09.42.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-09-10.09.41.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-09-09.49.44.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-09-09.49.44.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.webp",
+    "productivity/Morning Check.md",
+    "productivity/Personal Tasks.md",
+    "productivity/Assignments.md",
+    "gtsr/Tire Resistance Estimation.md",
+    "misc/Statics HW 8 confused.md",
+    "misc/json web tokens & auth0.md",
+    "misc/Fireship Cryptography.md",
+    "projects/fusor/Flyback Transformers.md",
+    "projects/Magnetic Circuits.md",
+    "media/Pasted image 20241108215840.webp",
+    "media/Screenshot 2024-11-08 at 9.34.08 PM.png",
     "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md",
     "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.webp",
-    "media/Pasted image 20241108202628.webp",
-    "media/Pasted image 20241108202145.webp",
-    "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw-1.webp",
-    "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.webp",
-    "media/Pasted image 20241108192301.webp",
-    "media/Pasted image 20241108191805.webp",
-    "media/Pasted image 20241108191213.webp",
-    "media/Pasted image 20241108185609.webp",
     "projects/Quantum Notes.md",
     "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.md",
     "media/excalidraw/excalidraw-2024-11-08-18.20.01.excalidraw.md",
-    "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Lecture).md",
-    "productivity/Personal Tasks.md",
-    "lecture notes/MSE-2001 (material science)/Amorphous Solids.md",
-    "productivity/Assignments.md",
-    "media/excalidraw/excalidraw-2024-11-08-15.02.27.excalidraw.md",
-    "productivity/Morning Check.md",
-    "misc/Statics HW 8 confused.md",
-    "media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.md",
-    "productivity/school/Spring 2025 Planning.md",
-    "projects/fusor/Power Supply Considerations.md",
-    "projects/fusor/Flyback Transformers.md",
-    "projects/fusor/Primary Theory.md",
     "productivity/school",
-    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md",
-    "lecture notes/MSE-2001 (material science)/Material Defects.md",
-    "lecture notes/CS-1371 (matlab)/Structs.md",
-    "lecture notes/MSE-2001 (material science)/Untitled.md",
     "lecture notes/MSE-2001 (material science)",
-    "private/ansys/Conversion to Asyncio.md",
-    "lecture notes/CS-1371 (matlab)/Class Intro.md",
     "private/ansys",
     "private",
     "productivity",

@@ -7,12 +7,12 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] MSE-2001 HW 9 @{2024-11-10}
-- [ ] ME-3322 HW 9 @{2024-11-10}
+- [ ] COE-2001 HW 8 @{2024-11-10}
 
 
 ## In Progress
 
-- [ ] COE-2001 HW 8 @{2024-11-10}
+- [ ] ME-3322 HW 9 @{2024-11-10}
 
 
 ## Complete

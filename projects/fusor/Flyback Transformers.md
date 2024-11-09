@@ -17,7 +17,22 @@ Then, the switch on the primary is opened and the current falls to zero. The **m
 ![](../../media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.md)%%
 
-If
+The voltage spike rises until the load limits it, and then the current dies down like a ramp.
+
+This cycle is repeated. If the current in the secondary drops to zero, the transformer is said to operate in *discontinuous mode*. If the current never reaches zero, then it's in *continuous mode*. 
+
+### [Falstad Circuit POC](https://tinyurl.com/228kms9j)
+
+![|576](../../media/Screenshot%202024-11-08%20at%209.34.08%20PM.png)
+
+
+This not-so-realistic Falstad simulation shows how the secondary voltage can peak to insane values the moment after the switch is opened.  
+
+## Physical Considerations
+
+
+
+
 
 
 ## References

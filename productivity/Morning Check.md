@@ -20,6 +20,6 @@ For my daily activities.
 - [x] Slack
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
-- [x] Daily Habits
+- [ ] Daily Habits
 
 

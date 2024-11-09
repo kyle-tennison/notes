@@ -143,6 +143,8 @@ The mass flow rates in the two cycles may or may not be the same, and there may 
 
 #### Intercooling 
 
+##### Intercooling Principle
+
 From [Control Volume Work](Control%20Volume%20Work.md), it is known that the work *in a control volume* is:
 
 $$ \frac{\dot W_{cv}}{\dot m} = - \int \limits _1^2 vdp$$
@@ -160,4 +162,75 @@ The dark shaded region is the *work saved*. The component diagram for this looks
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md)%%
 
 Intercooling is used in regenerative gas turbines alongside vapor refrigeration cycles; the principle is identical—all you're doing is reducing compressor work.
+
+##### Integration with Refrigeration Cycle
+
+You can combine this intercooling with a larger refrigeration cycle. The diagram for this is shown below:
+
+![|736](../../media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.md)%%
+
+The T-s diagram for this system is:
+![|432](../../media/excalidraw/excalidraw-2024-11-09-09.49.44.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-09.49.44.excalidraw.md)%%
+
+The **flash chamber** *separates the two-phase liquid-vapor* coming into at state 6 into two streams. *Saturated vapor is diverted into the heat exchanger* and *saturated liquid* is diverted to state 7. 
+
+The *mass flow rate* of saturated vapor out of the flash chamber *is related to the quality* of the steam. The fraction of saturated vapor flow rate is $x$ and the fraction of saturated liquid flow rate is $(1-x)$. 
+
+### Absorption Refrigeration
+
+Instead of compressing a vapor between the evaporator and the condenser, an absorption refrigeration cycle uses an *absorbent*, which is a secondary substance, to absorb the refrigerant and turn it into a *liquid solution*. The liquid solution is then *pumped* to the higher pressure.
+
+By pumping a liquid instead of compressing a gas, you can significantly reduce the amount of work required because the average specific volume of the liquid is much less than the specific volume of the vapor. 
+
+These absorption cycles need to then retrieve the refrigerant from the absorbed solution, which generally entails a high-temperature source. This is often derived from waste heat that already exists. 
+
+![](../../media/excalidraw/excalidraw-2024-11-09-10.09.41.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-10.09.41.excalidraw.md)%%
+
+The Generator receives heat and *recovers the refrigerant from the solution* and pumps the absorbent back. The process of absorption is an exothermic process, hence the cooling water required. The overall result of this cycle is a *reduced work input, but an increased heat input.*
+
+One final addition you can make is to add a **rectifier** before the condenser, which removes any traces of water from the refrigerant before it enters the condenser. If water is in the refrigerant, it might freeze and expand, damaging the condenser.
+
+You can also place a heat exchanger between the weak solution return pip and the strong solution pipe to recover some of the absorbent heat: 
+
+![|528](../../media/excalidraw/excalidraw-2024-11-09-10.09.42.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-10.09.42.excalidraw.md)%%
+
+
+### Heat Pump Systems
+
+Heat pumps operate similar to refrigeration cycles, except their objective is to deliver $\dot Q_{out}$, instead of $\dot Q_{in}$ in a refrigeration cycle.
+
+In a **Carnot heat pump**, the maximum coefficient of performance is: 
+
+$$ \gamma_{max} = \frac{T_H}{T_H-T_C}$$
+
+This coefficient of performance is never less than 1. If there is no cold reservoir, the coefficient becomes 1.
+
+However, like refrigeration cycles, heat pumps seldom pull off a true Carnot cycle; instead, *vapor-compression heat pumps* are used, which have the same basic components as a vapor-compression refrigeration cycle.
+
+### Gas Refrigeration Systems
+
+In a gas refrigeration system, the working fluid remains a gas for the entire cycle. The **Brayton Refrigeration Cycle** is an example of one of these cycles. It operates just like a Brayton power cycle, just in reverse.
+
+![](../../media/excalidraw/excalidraw-2024-11-09-12.27.17.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-12.27.17.excalidraw.md)%%
+
+Some key equations are:
+
+$$ \frac{\dot W_c}{\dot m} = h_2 - h_1,\ \ \frac{\dot W_t}{\dot m} = h_3 - h_4$$
+
+$$ \frac{\dot Q_{in}}{\dot m} = h_1 - h_4 $$
+
+In a Brayton refrigeration cycle, *the turbine work is non-negligible*—unlike vapor refrigeration cycles.
+
+#### Additional Gas Refrigeration Applications
+
+Gas refrigeration cycles are usually less realistic than vapor refrigeration cycles, however, they can achieve much lower temperatures (around -150°C) than vapor refrigeration cycles.
+
+Aircrafts also take advantage of their large jet engine compressors to cool the cabin.
+![](../../media/excalidraw/excalidraw-2024-11-09-12.41.34.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-12.41.34.excalidraw.md)%%
 
