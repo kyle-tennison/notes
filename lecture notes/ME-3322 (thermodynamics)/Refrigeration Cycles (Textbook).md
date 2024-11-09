@@ -74,7 +74,7 @@ Note that, **across an ideal expansion valve, entropy is not constant.** If entr
 
 The coefficient of performance of a refrigeration cycle is
 
-$$ \beta = \frac{\dot Q_{in}/\dot m}{\dot W_c / \dot m}= \frac{h_1-h_4}{h_2-h_1}$$
+$$ \beta = \frac{\dot Q_{in}/\dot m}{\dot W_c / \dot m}= \frac{h_1-h_4}{h_2-h_1} \tag{9.2e}$$
 
 ### Analyzing real vapor-compression systems
 
@@ -167,7 +167,7 @@ Intercooling is used in regenerative gas turbines alongside vapor refrigeration 
 
 You can combine this intercooling with a larger refrigeration cycle. The diagram for this is shown below:
 
-![|736](../../media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.svg)
+![|570](../../media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-09-09.44.50.excalidraw.md)%%
 
 The T-s diagram for this system is:

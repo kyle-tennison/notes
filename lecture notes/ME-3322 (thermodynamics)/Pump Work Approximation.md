@@ -1,0 +1,7 @@
+
+You can approximate the work of an *isentropic* pump on an *incompressible fluid* with:
+
+$$ (\frac{\dot W_p}{\dot m})_s \approx v_1(p_2-p_1)$$
+
+where state $1$ is the input to the pump and state $2$ is the exit of the pump.
+

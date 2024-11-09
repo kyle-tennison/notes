@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Fix Bracelet
 - [ ] EKG Appointment for December
+- [ ] Ansys Food Receipts
 
 
 ## Blocked
