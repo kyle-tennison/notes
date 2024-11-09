@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
+                "file": "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refrigeration Cycles (Textbook)"
+              "title": "Control Volume Work"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "bf088a61c16290f3",
   "lastOpenFiles": [
-    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
+    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md",
     "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.md",
     "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
     "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.svg",
