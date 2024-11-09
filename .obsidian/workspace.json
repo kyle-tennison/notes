@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4138b4b0306cefe0",
+            "id": "bf088a61c16290f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,30 @@
               },
               "icon": "lucide-file",
               "title": "Refrigeration Cycles (Textbook)"
+            }
+          },
+          {
+            "id": "4138b4b0306cefe0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw-2024-11-08-20.27.08.excalidraw"
+            }
+          },
+          {
+            "id": "010035e2db69553a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw-2024-11-08-19.28.25.excalidraw"
             }
           }
         ]
@@ -200,46 +224,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4138b4b0306cefe0",
+  "active": "bf088a61c16290f3",
   "lastOpenFiles": [
-    "projects/Quantum Notes.md",
+    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.md",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
+    "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.md",
+    "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
+    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-08-20.27.08.excalidraw.webp",
+    "media/Pasted image 20241108202628.webp",
+    "media/Pasted image 20241108202145.webp",
+    "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw-1.webp",
+    "media/excalidraw/excalidraw-2024-11-08-19.28.25.excalidraw.webp",
+    "media/Pasted image 20241108192301.webp",
+    "media/Pasted image 20241108191805.webp",
+    "media/Pasted image 20241108191213.webp",
+    "media/Pasted image 20241108185609.webp",
+    "projects/Quantum Notes.md",
     "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw-1-1.webp",
-    "media/excalidraw/excalidraw-2024-11-08-18.20.02.excalidraw.webp",
     "media/excalidraw/excalidraw-2024-11-08-18.20.01.excalidraw.md",
-    "media/Pasted image 20241108182931.webp",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Lecture).md",
-    "media/excalidraw/excalidraw-2024-11-08-18.20.01.excalidraw.svg",
     "productivity/Personal Tasks.md",
     "lecture notes/MSE-2001 (material science)/Amorphous Solids.md",
     "productivity/Assignments.md",
     "media/excalidraw/excalidraw-2024-11-08-15.02.27.excalidraw.md",
     "productivity/Morning Check.md",
     "misc/Statics HW 8 confused.md",
-    "media/excalidraw/excalidraw-2024-11-08-15.02.27.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.md",
     "productivity/school/Spring 2025 Planning.md",
     "projects/fusor/Power Supply Considerations.md",
     "projects/fusor/Flyback Transformers.md",
-    "media/excalidraw/excalidraw-2024-11-07-20.55.35.excalidraw.svg",
-    "media/Pasted image 20241107204842.webp",
     "projects/fusor/Primary Theory.md",
     "productivity/school",
     "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-07-14.18.21.excalidraw.dark.png",
     "lecture notes/MSE-2001 (material science)/Material Defects.md",
     "lecture notes/CS-1371 (matlab)/Structs.md",
     "lecture notes/MSE-2001 (material science)/Untitled.md",
     "lecture notes/MSE-2001 (material science)",
     "private/ansys/Conversion to Asyncio.md",
     "lecture notes/CS-1371 (matlab)/Class Intro.md",
-    "lecture notes/CS-1371 (matlab)/Iterators.md",
-    "lecture notes/CS-1371 (matlab)/Conditionals.md",
-    "lecture notes/CS-1371 (matlab)/Matrices.md",
-    "lecture notes/CS-1371 (matlab)/Vectors.md",
     "private/ansys",
     "private",
     "productivity",
