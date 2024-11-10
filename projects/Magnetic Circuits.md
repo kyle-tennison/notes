@@ -27,16 +27,90 @@ From this, we can see that $\mathcal F$ is analogous to electrical voltage, $\Ph
 
 ![|366](../media/Pasted%20image%2020241108215840.webp)
 
-## Magnetomotive Force
+### Magnetomotive Force
 
-It's confusing how this is considered a "driving" force, even though nothing is moving. "The MMF represents the potential that a hypothetical [magnetic charge](https://en.wikipedia.org/wiki/Magnetic_monopole "Magnetic monopole") would gain by completing the loop." (1)
+It's confusing how this is considered a "driving" force, even though nothing is moving. It "pushes" the magnetic flux through the magnetic components of the system.  "The MMF represents the potential that a hypothetical [magnetic charge](https://en.wikipedia.org/wiki/Magnetic_monopole "Magnetic monopole") would gain by completing the loop." (1)
 
 The MMF is defined as:
 
-$$ \mathcal F = \oint \textbf{H} \cdot d l $$
-Where $H$ is the *magnetic field strength,* which is similar to the $B$ field, which is *magnetic flux density*. In a vacuum, the two values are related by vacuum permeability:
+$$ \mathcal F = \oint \textbf{H} \cdot d \vec l $$
 
-$$\frac{\textbf B}{\mu _0} = \textbf H $$
+Where $H$ is the *magnetic field strength,* which is similar to the $B$ field, which is *magnetic flux density*. In a medium with permeability $\mu$ , the two values are related by:
+
+$$\frac{\textbf B}{\mu} = \textbf H $$
+
+
+Sometimes the magnetomotive force is expressed in units of *gilbert (Gb)*, which are proportional to ampere-turns:
+
+$$ 1Gb = \frac{10}{4π} At$$
+
+
+### Magnetic Flux
+
+The magnetic flux is the amount of a magnetic field crossing through a surface orthogonally. The magnetic flux is a *net number*, meaning "5" magnetic field lines going one way through a membrane would cancel out another "5" magnetic field lines.
+
+Mathematically, the magnetic flux is the integral over some surface in a B field:
+
+$$ \Phi_m \equiv \iint _S \textbf{B} \cdot d \vec S $$
+
+Magnetic flux takes on units of SI webers, but sometimes other equivalent units are used.
+
+### Reluctance
+
+The magnetic reluctance, also called magnetic resistance, is analogous to electrical resistance. A magnetic field will follow the path of least reluctance. Reluctance is scalar and extensive, just like resistance.
+
+From Hopkinson's law, reluctance is defined as:
+
+$$ \mathcal R = \frac{\mathcal F}{\Phi}$$
+
+Hence, it's unit is ampere-turns per weber, which is equivalent to *turns per henry*. 
+
+The inverse of reluctance is **permeance**, which is in units of *henry*—though distinct from inductance:
+
+$$ \mathcal P = \frac1{\mathcal R}$$ 
+The reluctance of magnetically uniform material can be calculated with:
+
+$$ \mathcal R = \frac{l}{\mu A} $$
+
+where:
+- $l$ is the length of the element
+- $\mu$ is the permeability of the material
+- $A$ is the cross-sectional area
+
+> Notice how similar this is to $R = \frac{l}{A} \rho$ ; it's like the inverse of permeability is analogous to the resistivity of the material. 
+
+The *inverse of permeability* is accordingly named **magnetic relativity**, which is analogous to resistivity. (i called it bro)
+
+**Air Gaps** are used to to reduce the effects of magnetic saturation by increasing the reluctance in the magnetic circuit. This allows more energy to be stored in the magnetic circuit.
+
+
+## Limits of Magnetic Circuit Analogy
+
+> Applies specifically to resistance-reluctance models. Different models will have different strengths and weaknesses.
+
+A lot of this magnetic circuit stuff is created to follow some of the laws of electric circuits for some quick, intuitive understanding. There are limits to this analogy:
+
+- Magnetic fields have no concept of flow. Nothing is moving; it's a snapshot of how the magnetic flux is positioned through some material.
+- Not all of the magnetic field if confined within the magnetic circuit. There is some leakage flux that is not accounted for in the simple circuit.
+- Electric resistance is constant; magnetic resistance is not. After the magnetic medium reaches its *saturation magnetization*, it becomes difficult for the flux through it to increase; after this point *reluctance increases rapidly*.
+- Ferromagnetic materials that have *hysteresis* make the magnetic circuit not only on the instantaneous MMF, but the history of the MMF. When the MMF is off, hysteresis can cause lasting flux with no MMF.
+- Mixing magnetic circuits with electrical circuits can cause issues with the analysis of stored energy. For energy analyses, the **gyrator–capacitor model** is recommended.
+
+> ^ Come back to this gyrator model, it sounds interesting.
+
+## Circuit Laws (resistance-reluctance model)
+
+This resistance-reluctance model considers Hopkinson's law and can be useful in calculating some magnetic phenomina. However, the [shortcomings](#Limits%20of%20Magnetic%20Circuit%20Analogy) if this model, described
+
+
+The *sum of magnetic reluctances* is the same as resistors:
+
+$$ \mathcal R_T = \sum _i \mathcal R_i = \mathcal R_1+\mathcal R_2+\mathcal R_3+\cdots$$
+
+The sum of fluxes into any node is always zero, following [Kirchhoff's first law](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws#Kirchhoff's_current_law):
+
+$$ 0= \sum _i\Phi_i$$
+
 
 
 
