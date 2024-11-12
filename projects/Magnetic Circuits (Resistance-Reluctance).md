@@ -1,5 +1,5 @@
 
-### Fundementals
+### Fundamentals
 
 Magnetic currents are similar to electric currents, but instead of the movement of charged particles, they look at the redirection of flux.
 
@@ -70,7 +70,7 @@ The inverse of reluctance is **permeance**, which is in units of *henry*—thoug
 $$ \mathcal P = \frac1{\mathcal R}$$ 
 The reluctance of magnetically uniform material can be calculated with:
 
-$$ \mathcal R = \frac{l}{\mu A} $$
+$$ $$
 
 where:
 - $l$ is the length of the element

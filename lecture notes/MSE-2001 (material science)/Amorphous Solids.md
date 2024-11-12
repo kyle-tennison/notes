@@ -1,6 +1,42 @@
 
+## Glasses
+
+Glasses are *non-crystalline* solids. They are *disordered*, meaning they are *amorphous solids*. 
+
+Amorphous solids don't have any LRO (long-range order).
+
+LRO is found in only crystalline substances, whereas amorphous materials only have SRO. 
+
+The **x-ray diffraction** of amorphous solids will produec a hump, rather than discrete spikes. Below, $SiO_2$ is amorphous, and the others are crystalline. Although all these substances have the same elements, their structure makes them behave much differently. 
+
+![](../../media/Pasted%20image%2020241110161932.webp)
 
 
+Glasses can be thought of as a **supercooled liquid**. As liquids are cooled, their viscosity (usually) increases. This is because atoms have stop having the energy required to move between each other. 
+
+> TODO: Still need some info about glass transition point
+
+## Refractive Index
+
+You can approximate the refractive index by looking at the electron density of a material. *The refractive index is roughly proportional to electron density*. 
+
+If stoichometry is constant, the refractive index is roughly proportional to density:
+
+![](../../media/Pasted%20image%2020241110162532.webp)
+
+## Modifiers
+
+Adding modifiers to a material makes its structure less ordered/directional. In turn, this makes a material *less rigid* and decreases the glass glass transition temperature.
+
+The amount of modifier in a glass increases its refractive index
+
+![](../../media/excalidraw/excalidraw-2024-11-10-16.30.00.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-10-16.30.00.excalidraw.md)%%
+
+
+These modifiers add **wiggle-ability** (idk if its actually called that), which basically means that atoms are more free to move around.
+
+As a consequence, the glass transition temperature usually decreases when modifies are added.
 
 ### Hydrogels
 Hydrogels are not soluble in water because of their cross links.

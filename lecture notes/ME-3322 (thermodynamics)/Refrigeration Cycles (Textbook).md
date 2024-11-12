@@ -226,6 +226,8 @@ $$ \frac{\dot Q_{in}}{\dot m} = h_1 - h_4 $$
 
 In a Brayton refrigeration cycle, *the turbine work is non-negligible*—unlike vapor refrigeration cycles.
 
+> If given a **compression ratio**, just know that equates to $r_c = \frac{p_2}{p_1}$ 
+
 #### Additional Gas Refrigeration Applications
 
 Gas refrigeration cycles are usually less realistic than vapor refrigeration cycles, however, they can achieve much lower temperatures (around -150°C) than vapor refrigeration cycles.
