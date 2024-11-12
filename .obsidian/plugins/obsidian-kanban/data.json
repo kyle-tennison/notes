@@ -1,4 +1,17 @@
 {
   "date-display-format": "MM/DD",
-  "full-list-lane-width": true
+  "full-list-lane-width": true,
+  "move-dates": false,
+  "tag-colors": [
+    {
+      "tagKey": "#MSE-2001",
+      "color": "rgba(209, 77, 77, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#COE-2001",
+      "color": "rgba(110, 147, 165, 1)",
+      "backgroundColor": ""
+    }
+  ]
 }

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1354aa33c3e16ab",
+            "id": "288fd127049fee15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/Morning Check.md",
+                "file": "lecture notes/MSE-2001 (material science)/Defects in Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morning Check"
+              "title": "Defects in Materials"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MSE-2001",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,44 +200,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1354aa33c3e16ab",
+  "active": "288fd127049fee15",
   "lastOpenFiles": [
+    "media/Pasted image 20241112104146.webp",
+    "media/Pasted image 20241112103710.webp",
+    "media/excalidraw/excalidraw-2024-11-12-10.00.54.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-10.21.40.excalidraw.md",
+    "lecture notes/MSE-2001 (material science)/Defects in Materials.md",
+    "media/excalidraw/excalidraw-2024-11-12-10.21.40.excalidraw.svg",
+    "media/Pasted Image 20241112102241_804.png",
+    "media/Pasted image 20241112101124.webp",
+    "media/excalidraw/excalidraw-2024-11-12-10.05.10.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-10.05.10.excalidraw.svg",
+    "media/Pasted Image 20241112100609_382.png",
+    "lecture notes/COE-2001 (statics)/Beams.md",
+    "media/excalidraw/excalidraw-2024-11-12-10.00.54.excalidraw.svg",
+    "lecture notes/MSE-2001 (material science)/Untitled 1.md",
+    "lecture notes/MSE-2001 (material science)/Untitled.md",
+    "lecture notes/MSE-2001 (material science)/ex.md",
+    "lecture notes/MSE-2001 (material science)/Material Defects.md",
+    "media/excalidraw/excalidraw-2024-11-12-09.48.15.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-09.48.15.excalidraw.svg",
+    "media/Pasted image 20241112093855.webp",
+    "media/excalidraw/excalidraw-2024-11-12-09.37.46.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-09.37.46.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-12-08.55.12.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-09.03.56.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-08.47.36.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-08.31.38.excalidraw.md",
+    "productivity/Morning Check.md",
+    "lecture notes/COE-2001 (statics)",
+    "productivity/Assignments.md",
+    "productivity/Personal Tasks.md",
     "projects/fusor/Flyback Transformers.md",
     "projects/fusor/Untitled.md",
     "media/excalidraw/excalidraw-2024-11-11-21.08.07.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-11-21.08.07.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-11-21.08.07.excalidraw.webp",
     "media/excalidraw/excalidraw-2024-11-11-21.04.09.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-11-21.04.09.excalidraw.svg",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Textbook).md",
-    "productivity/Personal Tasks.md",
     "projects/Magnetic Circuits (Resistance-Reluctance).md",
     "lecture notes/ME-3322 (thermodynamics)/Refrigeration Cycles (Lecture).md",
-    "productivity/Morning Check.md",
-    "projects/Gyrator-Capacitor Model.md",
-    "media/excalidraw/excalidraw-2024-11-10-21.24.52.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-10-21.24.52.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.webp",
-    "lecture notes/MSE-2001 (material science)/Structure of Polymers.md",
-    "lecture notes/MSE-2001 (material science)/Amorphous Solids.md",
-    "media/excalidraw/excalidraw-2024-11-10-17.17.11.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-10-17.17.11.excalidraw.svg",
-    "lecture notes/MSE-2001 (material science)/ex.md",
-    "media/excalidraw/excalidraw-2024-11-10-17.04.04.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-10-17.04.04.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-10-17.02.17.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-10-17.04.04.excalidraw-1.webp",
-    "media/excalidraw/excalidraw-2024-11-10-17.04.04.excalidraw.webp",
-    "lecture notes/MSE-2001 (material science)/Untitled 1.md",
-    "media/excalidraw/excalidraw-2024-11-10-16.30.00.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-10-14.04.53.excalidraw.md",
-    "productivity/Untitled.md",
-    "misc/Spanish Things.md",
-    "misc/Statics HW 8 confused.md",
-    "media/excalidraw/excalidraw-2024-11-09-12.27.17.excalidraw.md",
-    "lecture notes/ME-3322 (thermodynamics)/Pump Work Approximation.md",
     "productivity/school",
     "lecture notes/MSE-2001 (material science)",
     "private/ansys",
@@ -247,7 +247,6 @@
     "media/excalidraw",
     "projects/fusor",
     "gtsr",
-    "lecture notes/CS-1371 (matlab)",
-    "CS-1371"
+    "lecture notes/CS-1371 (matlab)"
   ]
 }
