@@ -1,3 +1,4 @@
+# Beams
 Beams are members that specifically *resist bending*. Their loads are typically applied perpendicular to their longitudinal axis.
 
 Many beam problems will be statically indeterminant, so it's important to look at the number of knowns versus the number of unknowns. 
@@ -73,5 +74,15 @@ $$ \int \limits _{M_0}^M dM = \int \limits_{x_0}^xV\ dx$$
 
 where $M_0$ is the bending moment at $x_0$.
 
+### Tricks
 
+God im literally citing chatgpt but, it looks like, for a point load, the change in shear is equal to the magnitude of that point load.
 
+For instance,
+![|411](../../media/Pasted%20image%2020241115105719.webp)
+
+The corresponding shear-moment diagram is:
+
+![|346](../../media/Pasted%20image%2020241115105734.webp)
+
+Notice that, as we cross the point load, the shear drops by exactly $4\ kN$, which is exactly the magnitude of that point load.

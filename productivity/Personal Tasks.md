@@ -18,7 +18,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] GTSR Batteries Presentation @{2024-11-09}
 
 
 ***
@@ -28,6 +27,7 @@ kanban-plugin: board
 - [ ] Housing Application
 - [ ] Spring Registration Planning
 - [ ] Timecard @{2024-11-09}
+- [ ] GTSR Batteries Presentation @{2024-11-09}
 
 %% kanban:settings
 ```

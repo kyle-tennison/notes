@@ -1068,7 +1068,7 @@
 
 /* Edge hover style */
 [data-resize-edge="true"] {
-    outline: 10px solid rgba(223, 176, 242, 0.51) !important;
+    outline: 10px solid var(--interactive-accent) !important;
     cursor: nwse-resize !important;
 }
 
@@ -1076,4 +1076,67 @@
 [data-resize-active="true"] {
     outline: 2px solid var(--interactive-accent) !important;
     cursor: nwse-resize !important;
+}
+
+
+/* Convert current note */
+/* //////////////////////////////////////////////// */
+.image-convert-modal {
+    padding: 1rem;
+}
+
+.modal-header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.modal-subtitle {
+    margin-top: -18px;
+}
+
+.modal-warning {
+    margin-top: -10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--background-modifier-message);
+}
+
+.settings-container {
+    margin-top: 1rem;
+}
+
+.button-container {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.resize-input-setting,
+.enlarge-reduce-setting {
+    margin-top: 1em;
+}
+
+.conditional-settings {
+    margin-top: 1em;
+    padding: 1em;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+}
+
+.format-quality-container,
+.resize-container,
+.skip-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+}
+
+
+/* /////
+ */
+
+.image-resize-enabled img {
+    touch-action: none;
+    -webkit-user-select: none;
+    user-select: none;
 }

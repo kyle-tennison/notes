@@ -6,5 +6,7 @@
   "terminal",
   "image-converter",
   "obsidian-advanced-slides",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-filename-heading-sync",
+  "execute-code"
 ]
