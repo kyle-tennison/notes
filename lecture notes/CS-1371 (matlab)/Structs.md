@@ -1,3 +1,4 @@
+# Structs
 
 ## Syntax
 `st = struct(fieldname, value, fieldname2, value2, ...)`

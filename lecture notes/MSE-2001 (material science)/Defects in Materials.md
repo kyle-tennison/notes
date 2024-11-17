@@ -1,3 +1,4 @@
+# Defects in Materials
 
 There are different dimensions of the defects to consider:
 - Point Defects (0-D)
@@ -11,7 +12,7 @@ There are different dimensions of the defects to consider:
 	- Boundaries misplaced, stacking fault
 	- ![](../../media/Pasted%20image%2020241112093855.webp)
 - Volume Defects (3-D)
-	- Pores, cracks, etc.
+	- Pores, cracks, inclusions, etc.
 
 Generally, it takes energy to form a defect; the potential energy of the material is higher with defects than without defects.
 

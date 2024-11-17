@@ -32,6 +32,8 @@ Crystalline directions with the highest linear packing density (atoms per unit l
 
 Slip Systems = Slip Planes + Slip Directions
 
+Notation is `{family of planes}<family of directions>`
+
 The greater the number of *unique* slip systems in a material, the easier it is to plastically deform (generally).
 
 To be a **unique** slip system, *slip planes cannot be parallel to each other, and slip directions cannot be collinear.*
@@ -46,8 +48,30 @@ By adding solute atoms, large particles, or other types of defects, it can make 
 
 The bond type and atomic packing density will influence how much the material is strengthened. 
 
-*Solution hardening* adds solute atoms into the lattice.
+*Solid Solution hardening* adds solute atoms into the lattice. The yield strength is related to the concerntration of the impurity by: 
+
+$$ \sigma _y \propto \sqrt {c}$$
+
+where $c$ is the concentration percent and $\sigma_y$ is the yield strength.
 
 *Precipitation Hardening* adds a large precipitate particle. This strengthens in two ways:
 - Cuts through dislocation slices
 - Increases the path of least resistance required to glide.
+
+### Burger Vectors
+
+Shows how a dislocation slip changes the crystal.
+
+To find the burger vector,
+1. Count the number of atoms in the grid on the top, then on the right, then on the bottom, then on the left. Basically jut find the shape of the lattice sample.
+2. If you end up where you started, there is no burger vector, but if you finish at another point, the burger vector points between your finish and your start
+
+![](../../media/Pasted%20image%2020241115215637.webp)
+
+You have to take *the same number of steps* in either parallel direction (3 and 4 in the example above).
+
+## Work Hardening
+
+After a material reaches its yield strength and then is unloaded, its yield strength will increase because it has be **work hardened.** 
+
+

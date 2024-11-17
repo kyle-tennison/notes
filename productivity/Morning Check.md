@@ -1,4 +1,5 @@
 # Morning Check
+ # Morning Check
 For my daily activities.
 
 ![](../media/Pasted%20image%2020241106071600.png)
@@ -20,11 +21,11 @@ For my daily activities.
 - [x] Anki 
 - [x] Slack
 - [x] [Personal Tasks](Personal%20Tasks.md)
-- [ ] Google Calendar
-- [ ] Daily Habits
+- [x] Google Calendar
+- [x] Daily Habits
 
 
-*Reset cheks:*
+*Reset checks:*
 ```python
 os.system("sed -i '' 's/\\[x\\]/[ ]/g' \"productivity/Morning Check.md\"")
 ```

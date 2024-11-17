@@ -1,3 +1,4 @@
+# Gyrator-Capacitor Model
 
 The Gyrator-Capacitor model (AKA the *capacitor-permeance model*) is another type of [Magnetic Circuit](Magnetic%20Circuits%20(Resistance-Reluctance).md) model. As *opposed* to the **resistance-reluctance model** the Gyrator-Capacitor model makes permeance analogous to electrical capacitance. 
 

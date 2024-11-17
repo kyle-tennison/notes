@@ -1,3 +1,4 @@
+# Plotting
 
 ### Basic 2D Plots
 - **Command**: `plot()`
@@ -19,12 +20,30 @@
   legend('Sine Curve');               % Add legend
   ```
 
-Some key markers
-- `ro` red circle
-- `*k` black stars
-- `g+` green pluses
-- `bs` blue squares
-In generally, the color and symbol are interchangeable. All the examples above continue to work when the characters are reversed.
+
+The pattern for plot style follows `{color} {linetype} {marker type}`. 
+
+For example,
+- `ro` has color `r`, no line type (so no line), and `o` type markers
+- `b--d` is a dashed blue line with diamond markers
+
+The *line options* are:
+- `-` solid
+- `:` dotted
+- `-.` dashdot
+- `--` dashed
+-  leave empty for no line
+
+The *marker options* are:
+- `.` point
+- `o` circle
+- `x` x-mark
+- `+` plus
+- `*` start
+- `s` square
+- `d` diamond
+- `p` pentagram
+
 
 
 ### Multiple Plots in the Same Graph
