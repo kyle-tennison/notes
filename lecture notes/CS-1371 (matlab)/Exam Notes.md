@@ -18,3 +18,10 @@
 - Don't index multiple values with `{}`. Use `cell2mat(ca)` is you want a numeric array. Index it directly for cell arrays for strings.
 - Remember that all items in a struct array must have the same attributes. You can't append something after changing its attribute.
 - An array of structs is identical to a struct array.
+
+You can flatten a pixel with:
+```matlab
+pixel = img(y, xi, :);
+
+pixel = pixel(:)';
+```

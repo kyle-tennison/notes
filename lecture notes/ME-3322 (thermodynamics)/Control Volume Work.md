@@ -1,3 +1,4 @@
+# Control Volume Work
 
 The equation 
 
@@ -50,4 +51,27 @@ $$ \frac{\dot W_{cv}}{\dot m} = - \int \limits _1^2 vdp \tag{10}$$
 Visualized, this is:
 
 ![](../../media/Pasted%20image%2020241108202145.webp)
+
+
+
+## Alternate Derivation
+
+
+
+
+When working in a **closed system** the *boundary work* is expressed by:
+
+$$W=  \int \limits_1^2 p \ dV \tag{Closed System}$$
+
+However, **flow work** in a control volume in an **adiabatic environment**, where *KE and PE are neglected* is:
+
+$$ \dot W_{cv} = \dot m(h_1-h_2) \Rightarrow \frac{\dot W_{cv}}{\dot m} = (h_1-h_2)  $$
+
+That change in enthalpy, which represents the flow work, can be expressed as:
+
+$$ (h_1-h_2) = -\int _1^2 v\ dp$$
+
+If the process is reversible and adiabatic and reversible, meaning:
+
+$$ \frac{\dot W_{cv}}{\dot m} = - \int \limits _1^2 v\ dp \tag{Control Volume}$$
 
