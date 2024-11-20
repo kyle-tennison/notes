@@ -40,7 +40,7 @@ Our elementary circuit shifts the sine wave up, making the peak 2x what it was. 
 
 We *rectify this shifted sine wave* with the circuit **shown in green** using a simple diode and capacitor. The result of this is a DC output with voltage of the blue doubler.
 
-Next, we add another doubler, *identical to the one in blue* to the circuit—**shown in red**. Between points a and b, the voltage is identical to the voltage between c and d (assuming ideal components). **The only difference is that the wave is now relative to 9V** (in this case) **instead of ground.**
+Next, we add another doubler, *identical to the one in blue* to the circuit—**shown in red**. Between points a and b, the waveform is similar to the voltage between c and d. **The main difference is that the wave is now relative to 9V** (in this case) **instead of ground.**
 
 ![](excalidraw-2024-11-17-22.09.52.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](excalidraw-2024-11-17-22.09.52.excalidraw.md)%%
@@ -50,6 +50,11 @@ We can continue this pattern, by rectifying the second shift, adding a third dou
 ![](../Pasted%20image%2020241117221611.webp)
 
 You can continue to add doublers and rectifiers until the voltage increases massively. In this example the $5VAC$ is converted into $65VDC$. 
+
+
+## Power Draw
+
+> I need to figure how much current I could realistically draw from something like this.
 
 
 

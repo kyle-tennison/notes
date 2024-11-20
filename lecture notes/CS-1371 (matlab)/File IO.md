@@ -1,3 +1,4 @@
+# File IO
 ```matlab
 fh = fopen('example.txt') # get a file handle
 

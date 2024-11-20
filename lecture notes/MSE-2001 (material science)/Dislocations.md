@@ -74,4 +74,33 @@ You have to take *the same number of steps* in either parallel direction (3 and 
 
 After a material reaches its yield strength and then is unloaded, its yield strength will increase because it has be **work hardened.** 
 
+This is the same effect as cold rolling a material. You are inducing dislocations.
+
+- Internal stresses are formed
+- Grains are deformed
+- Dislocations are added
+- Decreases ductility but increases yield strength.
+
+**Hot working**:
+- Above the recrystallization temp
+- Doesn't influence internal stresses or grain
+- No dislocations are added
+- Keeps lower yield point and higher ductility
+
+## Grain Boundary Hardening
+
+You can change grain size by adding nucleates. The smaller your grains, the higher shear strength.
+
+> I don't really understand this. Do the nucleates increase or decrease grain size?
+
+## Total Yield Strength
+
+
+$$ \tau _y  = \tau_{lattice} + \tau _{ss} + \tau_{ppt} + \tau_{d}+\tau_{gb}$$
+
+- $\tau_{ss}$ is from solid solution
+- $\tau_{ppt}$ is from precipitate
+- $\tau_{d}$ is from dislocations
+- $\tau_{gb}$ is from grain boundaries
+- $\tau_{lattice}$ is from the lattice itself and cannot be changed
 

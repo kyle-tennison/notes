@@ -1,3 +1,4 @@
+# Flyback Transformers
 
 Flyback transformers were developed in order to drive high voltage CRTs for early televisions. "Unlike conventional transformers, a flyback transformer is not fed with a signal of the same waveshape as the intended output current." (1)
 
@@ -73,6 +74,8 @@ When the switch is opened, the change in current, which is proportional to the c
 This change in magnetic flux is felt across the entire magnetic circuit, and the energy stored in the air gap seems to "propel" this process. I think you need to use the [Gyrator-Capacitor Model](../Gyrator-Capacitor%20Model.md) to calculate this value.
 
 If you *put a diode* on the secondary, you can prevent the changing flux (represented as positive in the drawing above) from inducing current in the loop. However, once the change in flux switched direction, current is allowed to flow in the reverse direction. Because *this is the only outlet for the stored energy*, a massive emf is induced in the secondary.
+
+
 
 
 

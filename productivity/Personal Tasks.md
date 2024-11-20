@@ -9,15 +9,16 @@ kanban-plugin: board
 - [ ] Fix Bracelet
 - [ ] EKG Appointment for December
 - [ ] Ansys Food Receipts
+- [ ] ENGR 240 Transfer
 
 
 ## Blocked
 
-- [ ] ENGR 210 Transfer
 
 
 ## In Progress
 
+- [ ] ENGR 210 Transfer
 
 
 ***

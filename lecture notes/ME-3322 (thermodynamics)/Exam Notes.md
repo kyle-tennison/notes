@@ -49,3 +49,4 @@ $$-\dot m \int \limits _1^2 v\ dp = -\dot m R T_1 ln \frac{p_2}{p_1}$$
 - 8.20.13
 - 8.20.59 (exit velocity)
 - 8.20.69 (work)
+- Something with fractional flow
