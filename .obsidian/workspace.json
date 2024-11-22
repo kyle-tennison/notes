@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0fbec38f77a99a13",
+        "id": "4cf56d0bbe382826",
         "type": "tabs",
         "children": [
           {
-            "id": "c5498202ee9355c8",
+            "id": "4c65a962cf1f92dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/CS-1371 (matlab)/File IO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "File IO"
-            }
-          },
-          {
-            "id": "8ed05e56e3322cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/CS-1371 (matlab)/Exam 3 Practice Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exam 3 Practice Test"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "password-protection:Unlock password protection": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -216,44 +197,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ed05e56e3322cc3",
+  "active": "4c65a962cf1f92dd",
   "lastOpenFiles": [
-    "lecture notes/CS-1371 (matlab)/File IO.md",
-    "lecture notes/CS-1371 (matlab)/Exam Notes.md",
-    "lecture notes/CS-1371 (matlab)/Exam 3 Practice Test.md",
-    "lecture notes/ME-3322 (thermodynamics)/Exam Notes.md",
-    "private/UC Transfer Applications.md",
-    "lecture notes/MSE-2001 (material science)/Dislocations.md",
-    "lecture notes/MSE-2001 (material science)/Fracture.md",
-    "lecture notes/MSE-2001 (material science)/Defects in Materials.md",
-    "lecture notes/COE-2001 (statics)/Friction.md",
-    "lecture notes/COE-2001 (statics)/Misc Notes.md",
-    "media/excalidraw/excalidraw-2024-11-19-09.09.15.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-19-09.09.15.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-19-09.01.29.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-19-09.01.29.excalidraw.svg",
-    "productivity/Personal Tasks.md",
+    "lecture notes/ME-3322 (thermodynamics)/Air-Water Mixtures.md",
+    "lecture notes/ME-3322 (thermodynamics)/Psychrometrics.md",
+    "lecture notes/ME-3322 (thermodynamics)/Thermodynamic Relations.md",
+    "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
+    "private/daily-notes/2024-11-21.md",
     "lecture notes/COE-2001 (statics)/Beams.md",
     "productivity/Morning Check.md",
-    "projects/fusor/Circuit Prototyping.md",
-    "projects/fusor/Flyback Transformers.md",
-    "productivity/school/Spring 2025 Planning.md",
-    "media/excalidraw/Cockcroft-Walton multipliers.md",
+    "Notes.md",
+    "private/New PyAnsysCloud Architecture.md",
+    "private/UC Transfer Applications.md",
+    "private/iets not that badd.md",
+    "projects/Gyrator-Capacitor Model.md",
+    "private/daily-notes/Untitled.md",
+    "private/daily-notes/Untitled 1.md",
+    "2024-11-21.md",
+    "private/daily-notes",
+    "private/ansys/PySimBuilder Thread Safety.md",
+    "private/ansys/Conversion to Asyncio.md",
+    "media/Pasted image 20241121150245.webp",
+    "media/excalidraw/excalidraw-2024-11-21-14.14.21.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-21-14.14.21.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-21-14.12.44.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-21-14.12.44.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-20-11.35.56.excalidraw.md",
+    "lecture notes/CS-1371 (matlab)/File IO.md",
+    "media/excalidraw/excalidraw-2024-11-20-11.35.56.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-20-11.12.21.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-20-11.12.21.excalidraw.svg",
+    "lecture notes/CS-1371 (matlab)/Exam 3 Practice Test.md",
+    "lecture notes/CS-1371 (matlab)/Exam Notes.md",
+    "lecture notes/ME-3322 (thermodynamics)/Exam Notes.md",
+    "lecture notes/MSE-2001 (material science)/Dislocations.md",
+    "media/excalidraw/excalidraw-2024-11-19-09.09.15.excalidraw.svg",
+    "media/excalidraw/excalidraw-2024-11-19-09.01.29.excalidraw.svg",
     "media/Pasted image 20241117221611.webp",
-    "media/excalidraw/excalidraw-2024-11-17-22.09.52.excalidraw.md",
     "media/Pasted Image 20241117221240_213.png",
     "media/excalidraw/excalidraw-2024-11-17-22.09.52.excalidraw.svg",
-    "media/Pasted Image 20241117221052_892.png",
-    "media/excalidraw/excalidraw-2024-11-17-21.59.52.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-17-20.58.17.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-17-21.59.52.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-11-17-21.59.52.excalidraw.webp",
-    "media/Pasted Image 20241117220053_371.webp",
-    "media/excalidraw/excalidraw-2024-11-17-20.58.17.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-17-20.56.31.excalidraw.md",
-    "media/excalidraw/excalidraw-2024-11-17-20.53.56.excalidraw.md",
-    "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
-    "media/excalidraw/excalidraw-2024-11-17-20.51.52.excalidraw.md",
     "lecture notes/COE-2001 (statics)",
     "productivity/school",
     "lecture notes/MSE-2001 (material science)",
@@ -262,7 +244,6 @@
     "productivity",
     "media/excalidraw",
     "projects/fusor",
-    "gtsr",
-    "lecture notes/CS-1371 (matlab)"
+    "gtsr"
   ]
 }

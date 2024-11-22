@@ -17,12 +17,12 @@ For my daily activities.
 	- [x] COE-2001
 	- [x] ME-3322
 	- [x] Calendar
-- [x] Duolingo
-- [x] Anki 
-- [x] Slack
-- [x] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
-- [x] Daily Habits
+- [ ] Duolingo
+- [ ] Anki 
+- [ ] Slack
+- [ ] [Personal Tasks](Personal%20Tasks.md)
+- [ ] Google Calendar
+- [ ] Daily Habits
 
 
 *Reset checks:*

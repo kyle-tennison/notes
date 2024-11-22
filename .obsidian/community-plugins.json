@@ -3,10 +3,9 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "calendar",
-  "terminal",
   "image-converter",
-  "obsidian-advanced-slides",
   "table-editor-obsidian",
   "obsidian-filename-heading-sync",
-  "execute-code"
+  "execute-code",
+  "password-protection"
 ]
