@@ -18,7 +18,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] ENGR 210 Transfer
 
 
 ***
@@ -29,6 +28,7 @@ kanban-plugin: board
 - [ ] Spring Registration Planning
 - [ ] Timecard @{2024-11-09}
 - [ ] GTSR Batteries Presentation @{2024-11-09}
+- [ ] ENGR 210 Transfer
 
 %% kanban:settings
 ```

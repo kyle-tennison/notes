@@ -6,8 +6,10 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] COE-2001 HW 9 @{2024-11-18}
-- [ ] MSE-2001 HW 10 @{2024-11-16}
+- [ ] Check CS Grade
+- [ ] Study for Thermo
+- [ ] Statics HW 10 @{2024-12-02}
+- [ ] Study for MSE
 
 
 ## In Progress
@@ -22,6 +24,8 @@ kanban-plugin: board
 
 ## Archive
 
+- [ ] MSE-2001 HW 10 @{2024-11-16}
+- [ ] COE-2001 HW 9 @{2024-11-18}
 - [ ] MSE-2001 HW 9 @{2024-11-10}
 - [ ] ME-3322 HW 9 @{2024-11-10}
 - [ ] CS-1371 HW 8 @{2024-11-04}
@@ -31,6 +35,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%

@@ -1,28 +1,32 @@
 # Morning Check
- # Morning Check
-For my daily activities.
+For daily activities
 
 ![](../media/Pasted%20image%2020241106071600.png)
 
+## Checklist
 
-
-- [x] Check Emails
-	- [x] Personal
-	- [x] Georgia Tech
-	- [x] Ansys
-- [x] Check Canvas, load [Assignments](Assignments.md)
-	- [x] INTA-1200
-	- [x] CS-1371
-	- [x] MSE-2001
-	- [x] COE-2001
-	- [x] ME-3322
-	- [x] Calendar
+- [ ] Check Emails
+	- [ ] Personal
+	- [ ] Georgia Tech
+	- [ ] Ansys
+- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [ ] INTA-1200
+	- [ ] CS-1371
+	- [ ] MSE-2001
+	- [ ] COE-2001
+	- [ ] ME-3322
+	- [ ] Calendar
 - [ ] Duolingo
 - [ ] Anki 
 - [ ] Slack
 - [ ] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar
-- [ ] Daily Habits
+- [ ] [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] **Done**
+
+
+Check and modify the calendar. After checking **Done**, oblige yourself to follow the day you have planned. Don't make any changes unless absolutely necessary.
+
 
 
 *Reset checks:*
