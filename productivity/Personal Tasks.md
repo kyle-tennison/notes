@@ -29,6 +29,7 @@ kanban-plugin: board
 - [ ] Timecard @{2024-11-09}
 - [ ] GTSR Batteries Presentation @{2024-11-09}
 - [ ] ENGR 210 Transfer
+- [ ] Ansys Extension Letter
 
 %% kanban:settings
 ```

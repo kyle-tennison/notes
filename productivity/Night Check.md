@@ -5,12 +5,13 @@ Getting ready for the next day
 
 ---
 
-- [ ] Hygiene
-	- [ ] Brush Teeth
-	- [ ] Skincare
+- [x] Hygiene
+	- [x] Brush Teeth
+	- [x] Skincare
 - [ ] Tomorrow
 	- [ ] Fill Google Calendar
 - [ ] Fill out [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] Daily Note
 
 
 

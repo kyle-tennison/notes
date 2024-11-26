@@ -1,5 +1,7 @@
 # Poor Spelling Words
 
+- [ ] beliefs
+- [ ] constituent
 - [x] crustacean
 - [x] corporate
 - [x] miscellaneous
@@ -59,4 +61,3 @@
 - [x] campaign
 - [x] consecutive
 - [x] resilience
-- [ ] beliefs
