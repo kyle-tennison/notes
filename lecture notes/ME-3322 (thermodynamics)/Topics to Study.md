@@ -1,5 +1,0 @@
-- Assumptions and application of relative pressure and volume
-	- I believe it's only for ideal gasses undergoing isentropic processes, but double check
-- Equations for the isentropic efficiency
-	- $$\eta_c =\frac{\dot W_{cs}}{\dot W_c} = \frac{h_{2s}-h_1}{h_2-h_1}$$
-- 

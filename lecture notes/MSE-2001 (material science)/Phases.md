@@ -4,7 +4,7 @@
 
 --- 
 
-	A phase is made up of **components**. A component is a pure element and/or compound which a material is composed. For instance, graphite has only one component because it's made of only carbon.
+A phase is made up of **components**. A component is a pure element and/or compound which a material is composed. For instance, graphite has only one component because it's made of only carbon.
 
 Components are parts of a phase.
 

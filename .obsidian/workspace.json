@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/Morning Check.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morning Check"
-            }
-          },
-          {
-            "id": "0a22758fef7fb18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/MSE-2001 (material science)/Phases.md",
+                "file": "lecture notes/ME-3322 (thermodynamics)/0. Pump Work Approximation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phases"
+              "title": "0. Pump Work Approximation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +198,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "284968d57bb71a47",
+  "active": "770eaa2a94476c2e",
   "lastOpenFiles": [
-    "media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw.md",
+    "lecture notes/ME-3322 (thermodynamics)/Topics to Study.md",
+    "lecture notes/ME-3322 (thermodynamics)/0. Pump Work Approximation.md",
+    "lecture notes/ME-3322 (thermodynamics)/11. Psychrometrics.md",
+    "lecture notes/ME-3322 (thermodynamics)/0. Exam Notes.md",
+    "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Future of Refrigeration Cycles.md",
+    "lecture notes/ME-3322 (thermodynamics)/11. Air-Water Mixtures.md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Textbook).md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Lecture).md",
+    "lecture notes/ME-3322 (thermodynamics)/10. Thermodynamic Relations.md",
+    "productivity/Morning Check.md",
     "lecture notes/MSE-2001 (material science)/Phases.md",
+    "media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw.md",
     "media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw-1.webp",
     "media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw.webp",
@@ -234,7 +230,6 @@
     "productivity/School Tasks.md",
     "productivity/Personal Tasks.md",
     "misc/Poor Spelling Words.md",
-    "productivity/Morning Check.md",
     "productivity/Night Check.md",
     "private/daily-notes/2024-11-23.md",
     "misc/Vocabulary.md",
@@ -242,15 +237,6 @@
     "productivity/app.dailyhabits.xyz.md",
     "lecture notes/MSE-2001 (material science)/Amorphous Solids.md",
     "media/kyle-sudu-Wn1VBR6CMKo-unsplash.webp",
-    "private/daily-notes/2024-11-22.md",
-    "lecture notes/ME-3322 (thermodynamics)/Air-Water Mixtures.md",
-    "lecture notes/ME-3322 (thermodynamics)/Psychrometrics.md",
-    "lecture notes/ME-3322 (thermodynamics)/Thermodynamic Relations.md",
-    "lecture notes/ME-3322 (thermodynamics)/Control Volume Work.md",
-    "private/daily-notes/2024-11-21.md",
-    "lecture notes/COE-2001 (statics)/Beams.md",
-    "Notes.md",
-    "private/New PyAnsysCloud Architecture.md",
     "private/daily-notes",
     "lecture notes/COE-2001 (statics)",
     "productivity/school",
