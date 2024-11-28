@@ -1,7 +1,5 @@
 # Vocabulary 
 
-I have a historically awful vocabulary, so many of these are very simple to most people. I figured that I have to start somewhere to fix it.
-
 ---
 
 - [ ] Pedantic

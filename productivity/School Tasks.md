@@ -7,17 +7,19 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Study for Thermo
-- [ ] Statics HW 10 @{2024-12-02}
-- [ ] Study for MSE
 - [ ] Statics Bonus Assignments @{2024-12-03}
+- [ ] UC Applications
 
 
 ## In Progress
 
+- [ ] Study for MSE
+- [ ] Copy statics HW
 
 
 ## Complete
 
+- [ ] Statics HW 10 @{2024-12-02}
 
 
 ***
