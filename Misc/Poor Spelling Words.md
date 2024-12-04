@@ -1,8 +1,27 @@
 # Poor Spelling Words
 
-- [ ] beliefs
-- [ ] constituent
-- [ ] sacrificial
+- [ ] humidity
+- [x] grammatically
+- [x] beneficial
+- [x] envious
+- [x] forties
+- [x] distribution
+- [x] susceptible
+- [x] imprecisions
+- [x] naive
+- [x] gussets
+- [x] grapple
+- [x] abstinence
+- [x] immediately
+- [x] testament
+- [x] beliefs
+- [x] constituent
+- [x] sacrificial
+- [x] chemistry
+- [x] droughts
+- [x] career
+- [x] hurricanes
+- [x] gospel
 - [x] crustacean
 - [x] corporate
 - [x] miscellaneous

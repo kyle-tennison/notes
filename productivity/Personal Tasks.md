@@ -7,7 +7,6 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Fix Bracelet
-- [ ] EKG Appointment for December
 - [ ] Ansys Food Receipts
 - [ ] ENGR 240 Transfer
 
@@ -30,6 +29,8 @@ kanban-plugin: board
 - [ ] GTSR Batteries Presentation @{2024-11-09}
 - [ ] ENGR 210 Transfer
 - [ ] Ansys Extension Letter
+- [ ] EKG Appointment for December
+- [ ] Grammar Rules
 
 %% kanban:settings
 ```
