@@ -1,3 +1,4 @@
+# Structure of Polymers
 
 Polymers are chains of repeat units called **monomers**. This is the polymer's SRO.
 
@@ -101,7 +102,9 @@ $$ De = \frac{time\ of\ relaxation}{time\ of\ observation}$$
 
 #### Glass Transition in Polymers
 
-A polymer will be rubbery until its below its glass transition temperature, where it becomes glassy
+A polymer will be rubbery until its below its glass transition temperature, where it becomes glassy.
+
+Below the glass transition temperature, everything becomes glassy. 
 
 ## Thermosets vs Thermoplastics
 

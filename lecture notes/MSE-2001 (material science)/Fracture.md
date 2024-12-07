@@ -39,3 +39,6 @@ $$ r_y = \frac{\sigma_{remote} ^2 c}{\sigma ^2 _y}$$
 
 $$K_{1c} \propto \sqrt{r_y}$$
 
+The longer the crack, the larger the $K_{1c}$.
+
+

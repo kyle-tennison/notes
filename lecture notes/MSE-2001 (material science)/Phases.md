@@ -76,4 +76,6 @@ Faster nucleation tends to make smaller grain.
 ![](../../media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-26-10.33.03.excalidraw.md)%%
 
+> You apparently only really need to look at where the intersection is
+
 

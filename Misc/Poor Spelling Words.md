@@ -1,6 +1,14 @@
 # Poor Spelling Words
 
 - [ ] humidity
+- [ ] equilibrium
+- [ ] significantly
+- [ ] vacancies
+- [ ] incompetence
+- [ ] disappointed
+- [ ] separate
+- [ ] guarantee
+- [ ] coefficient
 - [x] grammatically
 - [x] beneficial
 - [x] envious

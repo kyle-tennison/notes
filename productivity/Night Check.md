@@ -9,9 +9,9 @@ Getting ready for the next day
 	- [x] Shower
 	- [x] Brush Teeth
 	- [x] Skincare
-- [ ] Daily Note
-- [ ] Tomorrow
-	- [ ] Fill Google Calendar
+- [x] Daily Note
+- [x] Tomorrow
+	- [x] Fill Google Calendar
 - [ ] Fill out [Daily Habits](https://app.dailyhabits.xyz)
 
 
