@@ -1,3 +1,4 @@
+# Statics HW 8 confused
 
 
 

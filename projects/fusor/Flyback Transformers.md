@@ -33,7 +33,7 @@ This not-so-realistic Falstad simulation shows how the secondary voltage can pea
 
 #### Ferrite Cores
 
-*The permeability of ferrite is larger than iron*, which is used in most power transformers. From the [Resistance-Reluctance model](../Magnetic%20Circuits%20(Resistance-Reluctance).md), it is seen that the reluctance in the magnetic circuit is inversely proportional to permeability:
+*The permeability of ferrite is larger than iron*, which is used in most power transformers. From the [Resistance-Reluctance model](../../independent%20study/electromagnetism/Magnetic%20Circuits%20(Resistance-Reluctance).md), it is seen that the reluctance in the magnetic circuit is inversely proportional to permeability:
 
  $$\mathcal R = \frac{l}{\mu A} $$
 
@@ -71,7 +71,7 @@ When the switch is opened, the change in current, which is proportional to the c
 ![](../../media/excalidraw/excalidraw-2024-11-11-21.08.07.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-11-21.08.07.excalidraw.md)%%
 
-This change in magnetic flux is felt across the entire magnetic circuit, and the energy stored in the air gap seems to "propel" this process. I think you need to use the [Gyrator-Capacitor Model](../Gyrator-Capacitor%20Model.md) to calculate this value.
+This change in magnetic flux is felt across the entire magnetic circuit, and the energy stored in the air gap seems to "propel" this process. I think you need to use the [Gyrator-Capacitor Model](../../independent%20study/electromagnetism/Gyrator-Capacitor%20Model.md) to calculate this value.
 
 If you *put a diode* on the secondary, you can prevent the changing flux (represented as positive in the drawing above) from inducing current in the loop. However, once the change in flux switched direction, current is allowed to flow in the reverse direction. Because *this is the only outlet for the stored energy*, a massive emf is induced in the secondary.
 

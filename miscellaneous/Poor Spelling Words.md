@@ -16,6 +16,7 @@
 - [ ] hilarious
 - [ ] schottky
 - [ ] balance
+- [ ] additive
 - [x] grammatically
 - [x] beneficial
 - [x] envious

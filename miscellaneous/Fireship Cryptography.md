@@ -1,3 +1,4 @@
+# Fireship Cryptography
 ## Hasing
 Just scrambling some sort of data. Starts at any length, ends at fixed length.
 Inputs will always yield the same output. It has to be hard to go backwards.

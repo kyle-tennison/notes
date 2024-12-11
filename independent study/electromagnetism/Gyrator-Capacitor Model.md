@@ -14,8 +14,8 @@ However, wherein the *resistance reluctance model* magnetic flux $\Phi$ is analo
 
 A gyrator is a two-port element, meaning it has two pairs of terminals. Voltage one one port will transform/control the current on the other port, and the same is true in reverse.
 
-![](../media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](../media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.md)%%
+![](../../media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.md)%%
 
 In a Gyrator:
 
@@ -53,8 +53,8 @@ Magnetic capacitance is expressed in a few different ways:
 $$C_M = \mathcal P = \frac{\iint_S \textbf B \cdot dS}{\int _C \textbf H \cdot d \vec l} = \frac{\Phi}{\mathcal F}$$
 
 For a bar of uniform cross section, the magnetic permanence is:
-![](../media/excalidraw/excalidraw-2024-11-10-21.24.52.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](../media/excalidraw/excalidraw-2024-11-10-21.24.52.excalidraw.md)%%
+![](../../media/excalidraw/excalidraw-2024-11-10-21.24.52.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-10-21.24.52.excalidraw.md)%%
 
 
 ### Magnetic Inductance
