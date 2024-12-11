@@ -117,3 +117,12 @@ Thermoplastics can be recycled, whereas thermo sets cannot (at least for now).
 ![](../../media/excalidraw/excalidraw-2024-11-10-17.17.11.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-10-17.17.11.excalidraw.md)%%
 
+#### Flame Polishing
+
+Thermoplastics can be melted and reformed, they can be polished with a flame polished to clean up their surface.
+
+![](../../media/Pasted%20image%2020241208154832.webp)
+
+This image shows acrylic being flame polished to remove the rough edge, making it appear more transparent. 
+
+This process is mainly aesthetic, but it can end up hardening or softening the surface of the material, depending on the thermoset being used. 

@@ -9,6 +9,13 @@
 - [ ] separate
 - [ ] guarantee
 - [ ] coefficient
+- [ ] propagate
+- [ ] apparent
+- [ ] achieved
+- [ ] relevant
+- [ ] hilarious
+- [ ] schottky
+- [ ] balance
 - [x] grammatically
 - [x] beneficial
 - [x] envious

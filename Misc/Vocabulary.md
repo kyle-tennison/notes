@@ -36,6 +36,6 @@
 	- "It's your prerogative to approve or deny the request."
 - [x] Equivocal
 	- More than one interpretation; ambiguous  
-- [ ] 
+- [ ] pejorative
 
 

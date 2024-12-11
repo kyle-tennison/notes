@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Fix Bracelet
 - [ ] Ansys Food Receipts
 - [ ] ENGR 240 Transfer
+- [ ] UCSD California Residency Stuff
 
 
 ## Blocked

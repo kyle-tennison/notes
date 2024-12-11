@@ -20,7 +20,7 @@ For daily activities
 - [x] Anki 
 - [x] Slack
 - [x] [Personal Tasks](Personal%20Tasks.md)
-- [ ] Google Calendar
+- [x] Google Calendar
 - [ ] Pledge
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**

@@ -15,7 +15,20 @@ The **x-ray diffraction** of amorphous solids will produec a hump, rather than d
 
 Glasses can be thought of as a **supercooled liquid**. As liquids are cooled, their viscosity (usually) increases. This is because atoms have stop having the energy required to move between each other. 
 
-> TODO: Still need some info about glass transition point
+
+### Glass Transition
+
+Depending on how fast you cool a glass, you get different properties.
+
+![](../../media/excalidraw/excalidraw-2024-12-07-18.15.21.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-12-07-18.15.21.excalidraw.md)%%
+
+This **glass transition temperature** is the point where the T-v diagram deviates from that of the liquid; this correlates to when the glass solidifies. In reality, it's not as sharp as this diagram—there's a gradual region.
+
+As the glass cools, crystals form, so by cooling quicker, you can force the glass to be stuck in an amorphous phase before crystals can form. The quicker the cooling, the less time for crystallization.
+
+The **fictive temperature** is the hypothetical temperature that is achieved by tracing solid line back to the liquid line. This fictive temperature describes the temperature that the glass would need to be quenched at (assuming the quench transfers heat instantly) to achieve an equivalent solid. It describes what temperature the glass is frozen in on that liquid curve.
+
 
 ## Refractive Index
 
