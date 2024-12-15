@@ -10,17 +10,12 @@ For daily activities
 	- [x] Georgia Tech
 	- [x] Ansys
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
-	- [x] INTA-1200
-	- [x] CS-1371
-	- [x] MSE-2001
-	- [x] COE-2001
-	- [x] ME-3322
 	- [x] Calendar
 - [x] Duolingo
-- [x] Anki 
-- [x] Slack
-- [x] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
+- [ ] Anki 
+- [ ] Slack
+- [ ] [Personal Tasks](Personal%20Tasks.md)
+- [ ] Google Calendar
 - [ ] Pledge
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**

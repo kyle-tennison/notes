@@ -23,41 +23,103 @@ This function $F$ is called a Lagrangian. You can see how this [eq. 2](#^eq-2) i
 
 ### Deriving Euler-Lagrange Equation
 
-Let's imagine that our function $f(x)$ is already optimized and satisfies [eq. 2](#^eq-2). Now, let's *transform* $f(x)$ such that it's a non-optimized function by adding some error.
+Let an idealized function $q(t)$ be the optimized path to minimize the following:
 
-$$\hat f(x) = f(x) + s \cdot \delta f (x) \tag3$$
+$$I[q] = \int \limits_{t_0}^{t_1}F(t, q, \dot q)dt$$
+
+We can make this path **unoptimized** by adding **variation** to it. We'll add an *arbitrary function* $\delta q(t)$ to the function times some scalar $\epsilon$.
+
+$$\hat q = q+\epsilon \cdot \delta q \tag3$$
+^eq-3
+
+$\hat q$ is our new unoptimized path, shown below:
+
 
 ![](../../media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.md)%%
 
-Because we want the endpoints of the two functions to remain equal, the $\delta f(x)$ term must be zero at $x_1$ (A) and $x_2$ (B). 
+Note that the **variation is arbitrary**, the value of $\delta q$ does not matter, so long that it is nonzero and satisfies the condition that:
 
-Let's transform the entirety of [eq. 2](#^eq-2) with the same transformation that lead to [eq. 3](#^eq-3):
+$$\delta q (t_0) = \delta q(t_1) = 0 \tag 4$$
+^eq-4
 
-$$I[\hat f] + s \delta f = \int \limits_{x_1}^{x_2} F(x, \hat f, \hat f')\; dx \tag 4$$
+We can see what this means geometrically in the figure above; in order for $\hat q$ to share the same endpoints as $q$, $\delta q$ must shrink to zero at both endpoints.
 
-Then, using the **Leibniz rule** of integration, we can rewrite this as:
 
-$$ \frac{d\ I[\hat f]}{ds} = \int \limits _{x_1}^{x_2} \partial s\cdot F(x, \hat f, \hat f')\;dx \tag 5$$
+We can write the lagrangian for this new function $\hat q$:
+
+$$I[\hat q] = \int\limits_{t_0}^{t_1} F(t, \hat q, \dot {\hat q})dt \tag 5$$
 ^eq-5
 
-> Note, this video uses strange notation. $I[\hat f]$ is a constant, I believe.
+From the relationship in [eq. 3](#^eq-3), we can see that, if we were to parameterize $I[\hat q]$ in [eq. 5](#^eq-5) we would get a relationship like:
 
-If we have a function $h(x, y)$, where $x$ and $y$ are dependent to $t$, and we subject h to:
+![|342](../../media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.md)%%
 
-$$\partial t \cdot f(x, y)$$ We can use the chain rule to say:
-
-$$\partial t \cdot f(x, y) = \partial x (f)\cdot \partial t (x) + \partial y (f) \cdot \partial t (y) $$
-
-> I'm not following this, I think I might be reading the notation wrong, but I'm not too interested with the mathematical techniques used here.
-
-We can use this chain rule property for multivariable functions on [eq. 5](#^eq-5) to get:
-
-$$\frac{\partial I[t]}{\partial s} = \int \limits _{x_1}^{x_2}\partial s\cdot F$$
+The lowest value $I[\hat q]$ will come where $\epsilon = 0$. This point is also critical, where $\frac{dI[\hat q]}{d \epsilon}=0$. So, knowing this, let's take the derivative of [eq. 5](#^eq-5) with respect to $\epsilon$:
 
 
+$$\frac{d I[\hat q]}{d\epsilon} |_{\epsilon \to 0}=0= \frac{d}{d \epsilon} \int \limits _{t_0}^{t_1} F(t, \hat q, \dot{\hat q})  dt \tag 6$$
+^eq-6
+Then, we can use the [Leibniz Rule](https://www.youtube.com/watch?app=desktop&v=wkh1Y7R1sOw), which states that...
 
+$$\frac{d}{dt}\int\limits_{a}^{b}f(x)\ dx = \int\limits_{a}^{b} \frac{\partial}{\partial t} f(x)\ dx$$
+..., to move the $\frac{d}{d \epsilon}$ in [eq. 6](#^eq-6) into the integral to get:
 
+$$0 = \int\limits _{t_0}^{t_1} \frac{\partial}{\partial \epsilon}  F(t, \hat q, \dot{\hat q}) dt \bigg |_{\epsilon \to 0} = \int\limits _{t_0}^{t_1} (\frac{\partial F}{\partial t} \cdot \frac{\partial t}{\partial \epsilon} + \frac{\partial F}{\partial \hat q} \cdot \frac{\partial \hat q }{\partial \epsilon} + \frac{\partial F}{\partial \dot{\hat q}}\cdot \frac{\partial \dot{\hat q}}{\partial \epsilon} ) \bigg |_{\epsilon \to 0} \ dt \tag 7$$
+^eq-7
+
+There are a few things to notice here. Firstly, $\partial t / \partial \epsilon = 0$ because $t$ is independent of $\epsilon$. Secondly, we can derive expressions for ${\partial \hat q}/{\partial \epsilon}$ and ${\partial \dot{\hat q}}/{\partial \epsilon}$  from [eq. 3](#^eq-3). 
+
+If we derive [eq. 3](#^eq-3), we get:
+
+$$\dot {\hat q} = \dot q + \epsilon \cdot \delta \dot q \tag 8$$
+^eq-8
+
+Then, by differentiating [eq. 3](#^eq-3) and [eq. 8](#^eq-8) with respect to $\epsilon$, we'll get:
+
+$$\frac{\partial \hat q}{\partial \epsilon}=\delta q \text{\;\;\;and\;\;\;} \frac{\partial \dot{\hat q}}{\partial \epsilon} = \delta \dot q \tag 9$$
+
+By substituting these values into [eq. 7](#^eq-7), the expression becomes:
+
+$$0 = \int \limits _{t_0}^{t_1} (\frac{\partial F}{\partial \hat q}\cdot\delta q+\frac{\partial F}{\partial \dot{\hat q}}\cdot \delta \dot q) \bigg |_{\epsilon \to 0} dt \tag {10}$$
+
+Now, notice that as $\epsilon \to 0$, we see $\hat q \to q$ ? If we say that $\epsilon = 0$, we can replace these values of $\hat q$ and $\dot {\hat q}$ with $q$ and $\dot q$ respectively.
+
+$$0 = \int \limits _{t_0}^{t_1} (\frac{\partial F}{\partial q}\cdot\delta q+\frac{\partial F}{\partial \dot{ q}}\cdot \delta \dot q) \bigg |_{\epsilon = 0} dt \tag {10}$$
+^eq-10
+
+This is a valid substitution because we know the LHS will only actually equal zero at $\epsilon = 0$. 
+
+This [eq. 10](#^eq-10) is known as the **weak form** of the first variation of $F$. This is the weak form because an $\delta \dot q$ still appears, instead of just a $\delta q$. 
+
+Using **integration by parts**, we can turn [eq. 10](#^eq-10) into its strong form. First, we'll break the integral apart at its addition operator:
+
+$$0 = \int \limits _{t_0}^{t_1} \frac{\partial F}{\partial q}\cdot\delta q \ dt +\int \limits _{t_0}^{t_1}\frac{\partial F}{\partial \dot{ q}}\cdot \delta \dot q \ dt $$
+
+Let's isolate the rightmost integral:
+
+$$\int \limits _{t_0}^{t_1}\frac{\partial F}{\partial \dot{ q}}\cdot \delta \dot q \ dt$$
+
+This lets us define $u=\frac{\partial F}{\partial \dot q}$ and $dv = \delta \dot q \;dt$, such that $v = \int dv = \delta q$ . We can also see that $\frac{du}{dt}=\frac{d}{dt}(\frac{\partial F}{\partial \dot q})$  such that $du = \frac{d}{dt}(\frac{\partial F}{\partial \dot q})dt$ .
+
+Then, by integration by parts, we can say:
+
+$$\int \limits _{t_0}^{t_1}\frac{\partial F}{\partial \dot{ q}}\cdot \delta \dot q \ dt = \frac{\partial F}{\partial \dot q } \cdot \delta q \bigg |_{t_0}^{t_1} - \int \limits_{t_0}^{t_1} \delta q \cdot \frac{d}{dt}(\frac{\partial F}{\partial \dot q})\ dt $$
+
+The $\frac{\partial F}{\partial \dot q } \cdot \delta q \bigg |_{t_0}^{t_1}$ term will evaluate to zero because $\delta q (t_0) = \delta q(t_1) = 0$, as was established in [eq. 4](#^eq-4). This means we can reduce the expression to:
+
+$$\int \limits _{t_0}^{t_1}\frac{\partial F}{\partial \dot{ q}}\cdot \delta \dot q \ dt =  - \int \limits_{t_0}^{t_1} \delta q \cdot \frac{d}{dt}(\frac{\partial F}{\partial \dot q})\ dt $$
+
+Now, we can finally substitute this expression back into [eq. 10](#^eq-10):
+
+$$0 = \int \limits _{t_0}^{t_1} \left( \frac{\partial F}{\partial q} \cdot \delta q \ - \delta q \cdot \frac{d}{dt}(\frac{\partial F}{\partial \dot q})\right)\ dt = \int \limits _{t_0}^{t_1} \delta q(\frac{\partial F}{\partial q}- \frac{d}{dt}(\frac{\partial F}{\partial \dot q}))=0 \tag {11} $$
+
+Remember, $\partial q$ is **arbitrary**; it can take on whatever value so long that it abides by the boundary conditions. For this reason, in order for the integral to evaluate to zero, we know that the other factor $\frac{\partial F}{\partial q}- \frac{d}{dt}(\frac{\partial F}{\partial \dot q})$ is what must evaluate to zero. Therefore, we can pull this out of the integral and state:
+
+$$\frac{\partial F}{\partial q}- \frac{d}{dt}(\frac{\partial F}{\partial \dot q}) = 0$$
+
+This is the **Euler-Lagrange Equation**, which is a fundamental relationship in mechanics with even more applications in other fields.
 
 
 
@@ -67,3 +129,8 @@ $$\frac{\partial I[t]}{\partial s} = \int \limits _{x_1}^{x_2}\partial s\cdot F$
 ```vid
 https://www.youtube.com/watch?v=SQLxrr9N8zM
 ```
+
+```vid
+https://www.youtube.com/watch?v=VCHFCXgYdvY&t=633s
+```
+
