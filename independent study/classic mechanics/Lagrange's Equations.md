@@ -85,6 +85,8 @@ $$\frac{d}{dt}(\frac{\partial L}{\partial \dot q_ i}) - \frac{\partial L}{\parti
 
 This equation is called *Lagrange's Equation*. If the *Lagrangian* is known for a mechanical system, [eq. 7](#^eq-7) will yield the relationships of coordinates, velocities, and accelerations. 
 
+The derivation of this is described in more detail in [Deriving Euler-Lagrange Equation](Calculus%20of%20Variations.md#Deriving%20Euler-Lagrange%20Equation). 
+
 #### Summing Lagrangians
 
 [Equation 7](#^eq-7) is a second order partial differential equation. For this reason, the general solution contains $2\cdot s$ arbitrary constants; two for each physical degree of freedom. These arbitrary constants can be determined in a few ways, one of which is knowledge of coordinates and velocities at a given instant.
@@ -114,7 +116,9 @@ We can find the action of $L'$ with:
 
 $$S'\ = \int \limits _{t_1}^{t_2} L'(q, \dot q, t)\ dt = \int \limits _{t_1}^{t_2} L(q, \dot q, t)\ dt + \int \limits _{t_1}^{t_2} \frac{df}{dt} dt =  S+f(q^{(2)}, t_2) -f(q^{(1)},t_1)$$
 
+Because this added partition will be zero upon variation (because it is sampled at points $t_1$ and $t_2$), we can say that $\delta S' = \delta S = 0$. This reveals that *the Lagrangian is not uniquely defined to a single system*; instead, it applies to a family of systems that differ only by a function of the *total time derivative* (not the partial derivative) of a function of *coordinates and time*.
 
+> I'm not sure mathematically how you would obtain a total time derivative from a function of both time and another variable. I suppose that, because $q$ is dependent on time, you could
 
 
 

@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae88245427e81d96",
+            "id": "c4fdabd295c08d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/classic mechanics/Calculus of Variations.md",
+                "file": "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus of Variations"
+              "title": "Landu-Lifshitz Course on Mechanics"
             }
           },
           {
-            "id": "10926a19726fb322",
+            "id": "d6e91460613f2903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/classic mechanics/Calculus of Variations.md",
+                "file": "independent study/classic mechanics/Galileo's Relativity Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus of Variations"
+              "title": "Galileo's Relativity Principle"
+            }
+          },
+          {
+            "id": "93a4903f95f91312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "independent study/classic mechanics/Lagrange's Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lagrange's Equations"
             }
           }
         ],
@@ -214,17 +228,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10926a19726fb322",
+  "active": "d6e91460613f2903",
   "lastOpenFiles": [
+    "independent study/classic mechanics/Lagrange's Equations.md",
+    "independent study/classic mechanics/Galileo's Relativity Principle.md",
+    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
+    "independent study/classic mechanics/Calculus of Variations.md",
     "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.md",
     "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.svg",
-    "independent study/classic mechanics/Calculus of Variations.md",
-    "independent study/classic mechanics/Lagrange's Equations.md",
     "media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.md",
     "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
     "private/ansys/New PyAnsysCloud Syntax.md",
-    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
     "miscellaneous/Statics HW 8 confused.md",
     "lecture notes/COE-2001 (statics)/Beams.md",
     "miscellaneous/Poor Spelling Words.md",
