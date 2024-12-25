@@ -18,6 +18,8 @@
 - [ ] balance
 - [ ] opposite
 - [ ] additive
+- [ ] infinitesimal
+- [ ] Galileo
 - [x] grammatically
 - [x] beneficial
 - [x] envious

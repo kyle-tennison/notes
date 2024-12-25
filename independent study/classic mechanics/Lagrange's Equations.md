@@ -107,11 +107,16 @@ The author says:
 
 *The way I interpret this* is that, if we leave $c_1L_A$ and $c_2L_B$, the constants remain unconstrained; by adding [eq. 8](#^eq-8), we constrain the values that $c_1$ and $c_2$ can take on. Without [eq. 8](#^eq-8), varying a $c$ would proportionally vary the action, meaning that there would be no effect on the equations of motion. To remain satisfactory with the additive property, both Lagrangians must **share the same constants**—i.e., $c_1 = c_2$ . 
 
+
+> Coming back from [Galileo's Relativity Principle](Galileo's%20Relativity%20Principle.md), we can think of the ability to multiply the lagrangian by an arbitrary constant without changing the equations of motion as simply changing the mass in $L=\frac{1}{2}mv^2$.  If $m'=2m$, the laws of physics would remain unchanged.
+
 #### Varied Lagrangians
 
 Say we have a second lagrangian $L'$ which varies from $L$ by some time-derivative of a function $f$:
 
 $$L'(q, \dot q, t) = L(q, \dot q, t) +\frac{d}{dt} f(q, t) \tag9$$
+^eq-9
+
 We can find the action of $L'$ with:
 
 $$S'\ = \int \limits _{t_1}^{t_2} L'(q, \dot q, t)\ dt = \int \limits _{t_1}^{t_2} L(q, \dot q, t)\ dt + \int \limits _{t_1}^{t_2} \frac{df}{dt} dt =  S+f(q^{(2)}, t_2) -f(q^{(1)},t_1)$$

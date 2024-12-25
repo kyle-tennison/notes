@@ -11,7 +11,7 @@ For daily activities
 	- [x] Ansys
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] Calendar
-- [x] Duolingo
+- [ ] Duolingo
 - [ ] Anki 
 - [ ] Slack
 - [ ] [Personal Tasks](Personal%20Tasks.md)

@@ -10,22 +10,22 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Study for MSE
 
 
 ## Complete
 
-- [ ] Statics Bonus Assignments @{2024-12-03}
-- [ ] Study for Thermo
-- [ ] Copy statics HW
-- [ ] UC Applications
-- [ ] Statics HW 10 @{2024-12-02}
 
 
 ***
 
 ## Archive
 
+- [ ] Study for MSE
+- [ ] Statics Bonus Assignments @{2024-12-03}
+- [ ] Study for Thermo
+- [ ] Copy statics HW
+- [ ] UC Applications
+- [ ] Statics HW 10 @{2024-12-02}
 - [ ] MSE-2001 HW 10 @{2024-11-16}
 - [ ] COE-2001 HW 9 @{2024-11-18}
 - [ ] MSE-2001 HW 9 @{2024-11-10}
