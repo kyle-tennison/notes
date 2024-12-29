@@ -86,9 +86,71 @@ $$L = \frac{1}{2}(\dot x^2 + \dot y ^2 + \dot z^2) \tag {10}$$
 In a **closed system**, particles *can interact* with each other, but no other bodies. If we take the independent-particle in [eq. 9](#^eq-9) Lagrangian and modify it by a function $U$ of the coordinates that varies depending on the nature of the interaction, we can generically express the lagrangian of a closed system as:
 
 $$L = \sum _i \frac12 m_i \textbf v_i^2-U(\textbf r_1, \textbf r_2, \dots) \tag{11}$$
+^eq-11
 
 From this, we can extract $T=\frac12m\textbf v^2$ and call it **kinetic energy**. We also call $U$ the **potential energy** of the system.
 
 The fact that $U$ is independent of time reveals the nature of *instantaneous propagation* in classical mechanics. You can dive deep into this, but if the potential energy also depended on time, i.e if its propagation to other particles was not instantaneous, then not all frames would have the same equations of motion and Galileo's Relativity Principle would be invalidated. This is a key assumption in classical mechanics.
+
+We also notice that, if time were to be somehow reversed, the lagrangian would remain unchanged; therefore, any classical motion could be reverse.
+
+### Deriving Newton's Equations
+
+Using the [Euler Lagrange equation](Calculus%20of%20Variations.md#^euler-lagrange),
+
+$$\frac{d}{dt}(\frac{\partial L}{\partial \dot q}) =\frac{\partial L}{\partial q}$$
+
+ we can substitute [eq. 11](#^eq-11) to get:
+ 
+$$m_i\frac{d \textbf v_i}{dt}=-\frac{\partial U}{\partial \textbf r_i}$$
+
+If we let $\frac{d\textbf v_i}{dt} = \textbf a_i$ , and call $\textbf F = - {\partial U}/{\partial \textbf r_a}$, we get:
+
+$$m_i a_i = F$$
+
+which is **newton's second law.**
+
+Like $U$, $\textbf F$ is also only dependent on coordinates. This might seem contradictory, but remember, but remember that this is restricted to a closed system. In a pendulum, for instance, it is evident how the force on a member is solely dependent of the position it is in.
+
+### Generalized-Coordinate Lagrangian
+
+The Lagrangian for a closed system can be generalized to be:
+
+$$L = \frac12 \sum_{i,k}a_{ik}(q)\dot q_i \dot q_k-U(q) \tag{12}$$
+^eq-12
+
+This $\sum _{i,k}$ means we sum over every permutation of $i$ and $k$, with $n^2$ iterations. $q_i$ and $q_k$ are simply arbitrary indexes, and $q$ is the set of all $q$. 
+
+### Motion in an External Field
+
+Say a system A interacts with a system B. We can expand [eq. 11](#^eq-11) to the two systems to say that the total system of A+B (assuming it is closed) is:
+
+$$L=L_A+L_B=T_A(q_A, \dot q_A)+T_B(q_B,\dot q_B)-U(q_A,q_B)$$
+
+Where $T$ is the potential energy of each system and $U$ is the combined potential energy function. If $A$ moves relative to $B$, *we can describe $q_B$ as a function of time* from $A$'s frame. Preforming this substitution gives:
+
+$$L = T_A(q_A, \dot q_A) + T_B(q_B(t), \dot q_B(t)) - U(q_A, q_B(t))$$
+
+Now, because $T_B$ is a function of *only time*, it could be a total time derivative of a function of time.
+
+> I'm not going to check this myself, but I can believe that property.
+
+As was determined in [Lagrange's Equations eq. 9](Lagrange's%20Equations.md#^eq-9), the Lagrangian will remain unchanged if it varies by a total time derivative; therefore, we can neglect this term to get:
+
+$$L=T_A(q_A, \dot q_A)-U(q_A, q_B(t)) \tag{12}$$
+
+Now, in the presence of an external field, the potential energy function may indeed depend on time. 
+
+For a single particle, this lagrangian would be:
+
+$$L = \frac12 mv^2-U(\textbf r, t) \tag{13}$$
+
+And, by solving the Euler-Lagrange equation, the equations of motion would be:
+
+$$m \dot {\textbf v} = - \frac{\partial U}{\partial \textbf r} \tag{14} $$
+
+It may be the case that the force in a field is the same at all points; in this case, the field is said to be **uniform** and the potential energy can be expressed as $U=- \textbf F \cdot \textbf r$. 
+
+
 
 

@@ -118,6 +118,7 @@ $$0 = \int \limits _{t_0}^{t_1} \left( \frac{\partial F}{\partial q} \cdot \delt
 Remember, $\partial q$ is **arbitrary**; it can take on whatever value so long that it abides by the boundary conditions. For this reason, in order for the integral to evaluate to zero, we know that the other factor $\frac{\partial F}{\partial q}- \frac{d}{dt}(\frac{\partial F}{\partial \dot q})$ is what must evaluate to zero. Therefore, we can pull this out of the integral and state:
 
 $$\frac{\partial F}{\partial q}- \frac{d}{dt}(\frac{\partial F}{\partial \dot q}) = 0$$
+^euler-lagrange
 
 This is the **Euler-Lagrange Equation**, which is a fundamental relationship in mechanics with even more applications in other fields.
 
