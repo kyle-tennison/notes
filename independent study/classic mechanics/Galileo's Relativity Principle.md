@@ -150,7 +150,10 @@ And, by solving the Euler-Lagrange equation, the equations of motion would be:
 $$m \dot {\textbf v} = - \frac{\partial U}{\partial \textbf r} \tag{14} $$
 
 It may be the case that the force in a field is the same at all points; in this case, the field is said to be **uniform** and the potential energy can be expressed as $U=- \textbf F \cdot \textbf r$. 
+*Notice the negative sign!* 
+
+> I'm not sure why the potential energy is defined as negative? 
 
 
 
-
+  
