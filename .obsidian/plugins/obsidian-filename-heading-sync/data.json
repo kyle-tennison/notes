@@ -1,6 +1,9 @@
 {
   "userIllegalSymbols": [],
-  "ignoredFiles": {},
+  "ignoredFiles": {
+    "private/ansys/adr/auth-integration.md": null,
+    "private/ansys/adr/hybrid-async-sync.md": null
+  },
   "ignoreRegex": "README*",
   "useFileOpenHook": true,
   "useFileSaveHook": true,

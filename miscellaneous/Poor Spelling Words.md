@@ -5,6 +5,7 @@
 - [ ] significantly
 - [ ] vacancies
 - [ ] incompetence
+- [ ] extracurricular
 - [ ] disappointed
 - [ ] separate
 - [ ] guarantee
@@ -19,6 +20,7 @@
 - [ ] opposite
 - [ ] additive
 - [ ] infinitesimal
+- [ ] emerge
 - [ ] Galileo
 - [x] grammatically
 - [x] beneficial

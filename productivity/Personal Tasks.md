@@ -6,9 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Fix Bracelet
-- [ ] Ansys Food Receipts
-- [ ] ENGR 240 Transfer
 - [ ] UCSD California Residency Stuff
 
 

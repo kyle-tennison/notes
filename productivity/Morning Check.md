@@ -11,13 +11,13 @@ For daily activities
 	- [x] Ansys
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] Calendar
-- [ ] Duolingo
-- [ ] Anki 
-- [ ] Slack
-- [ ] [Personal Tasks](Personal%20Tasks.md)
-- [ ] Google Calendar
-- [ ] Pledge
-- [ ] [Daily Habits](https://app.dailyhabits.xyz)
+- [x] Duolingo
+- [x] Anki 
+- [x] Slack
+- [x] [Personal Tasks](Personal%20Tasks.md)
+- [x] Google Calendar
+- [x] Pledge
+- [x] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**
 
 
