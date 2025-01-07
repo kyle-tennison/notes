@@ -11,6 +11,7 @@ For daily activities
 	- [x] Ansys
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] ECE-3710
+	- [x] ME-2016
 	- [x] ME-2110
 	- [x] ISYE-3025
 	- [x] PHIL-3127

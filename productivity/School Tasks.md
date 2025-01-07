@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] ECE-3710: Module 1
+- [ ] ISYE-3025: Module 2 reading
+- [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
+- [ ] ISYE-3025: Lab 0 @{2025-01-09}
 
 
 ## In Progress
