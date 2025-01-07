@@ -1,3 +1,10 @@
 # Notes
 
-This repo is a record of general notes I take for school and personal study. This uses [Obsidian Git](https://github.com/Vinzent03/obsidian-git), which allows free note backups to github. I figured I'd make this public in case I need to share notes with anyone. Feel free to audit me lol.
+![](media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.svg)
+
+This repo is a record of **generic notes** that I take for **university & personal study.** 
+
+---
+
+This archive is maintained using [Obsidian Git](https://github.com/Vinzent03/obsidian-git) alongside some other obsidian plugins. Feel free to ask questions, point out mistakes, or reference these yourself.
+

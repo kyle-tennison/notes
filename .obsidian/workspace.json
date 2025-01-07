@@ -11,10 +11,14 @@
             "id": "3241bd5429da751b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -197,6 +201,10 @@
   },
   "active": "3241bd5429da751b",
   "lastOpenFiles": [
+    "media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.md",
+    "media/Pasted Image 20250106222406_368.png",
+    "media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.svg",
+    "README.md",
     "private/daily-notes/2025-01-06.md",
     "productivity/Night Check.md",
     "productivity/Morning Check.md",
@@ -224,9 +232,6 @@
     "productivity/School Tasks.md",
     "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.md",
     "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.md",
-    "private/ansys/New PyAnsysCloud Syntax.md",
-    "miscellaneous/Statics HW 8 confused.md",
     "media/excalidraw/excalidraw-2024-12-11-17.19.43.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-12-11-16.59.38.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.svg",
@@ -238,8 +243,6 @@
     "independent study",
     "media/Pasted image 20241208154832.webp",
     "media/Pasted image 20241208152417.webp",
-    "media/excalidraw/excalidraw-2024-12-08-15.08.40.excalidraw.svg",
-    "media/Pasted image 20241208150742.webp",
     "private/daily-notes",
     "lecture notes/COE-2001 (statics)",
     "productivity/school"
