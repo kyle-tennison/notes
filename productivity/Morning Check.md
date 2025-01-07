@@ -10,6 +10,11 @@ For daily activities
 	- [x] Georgia Tech
 	- [x] Ansys
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [x] ECE-3710
+	- [x] ME-2110
+	- [x] ISYE-3025
+	- [x] PHIL-3127
+	- [x] APPH-1040
 	- [x] Calendar
 - [x] Duolingo
 - [x] Anki 
@@ -18,7 +23,7 @@ For daily activities
 - [x] Google Calendar
 - [x] Pledge
 - [x] [Daily Habits](https://app.dailyhabits.xyz)
-- [ ] **Done**
+- [x] **Done**
 
 
 Check and modify the calendar. After checking **Done**, oblige yourself to follow the day you have planned. Don't make any changes unless absolutely necessary.

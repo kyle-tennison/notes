@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b78c6e35037036d6",
+        "id": "15db883fa200f36c",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3efb4070e660cd",
+            "id": "3241bd5429da751b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/daily-notes/2024-12-22.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-12-22"
+              "title": "New tab"
             }
           }
         ]
@@ -199,12 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b3efb4070e660cd",
+  "active": "3241bd5429da751b",
   "lastOpenFiles": [
-    "private/daily-notes/2025-01-05.md",
-    "productivity/Personal Tasks.md",
-    "private/ansys/adr/auth-integration.md",
+    "private/daily-notes/2025-01-06.md",
+    "productivity/Night Check.md",
     "productivity/Morning Check.md",
+    "productivity/Personal Tasks.md",
+    "lecture notes/ME-2110 (design)",
+    "private/daily-notes/2025-01-05.md",
+    "media/excalidraw/excalidraw-2025-01-05-20.15.10.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-05-20.15.10.excalidraw.svg",
+    "private/daily-notes/2024-12-22.md",
+    "private/daily-notes/2024-12-04.md",
+    "private/daily-notes/2024-12-03.md",
+    "private/ansys/adr/auth-integration.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "independent study/classic mechanics/Lagrange's Equations.md",
     "private/ansys/adr/hybrid-async-sync.md",
@@ -217,22 +221,16 @@
     "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Textbook).md",
     "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Lecture).md",
     "lecture notes/ME-3322 (thermodynamics)/10. Thermodynamic Relations.md",
-    "private/daily-notes/2024-12-22.md",
     "productivity/School Tasks.md",
     "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.md",
     "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.md",
     "private/ansys/New PyAnsysCloud Syntax.md",
     "miscellaneous/Statics HW 8 confused.md",
-    "lecture notes/COE-2001 (statics)/Beams.md",
-    "private/ansys/PyAnsysCloud Asyncio.md",
-    "media/excalidraw/excalidraw-2024-12-11-17.19.43.excalidraw.md",
     "media/excalidraw/excalidraw-2024-12-11-17.19.43.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-12-11-16.59.38.excalidraw.md",
     "media/excalidraw/excalidraw-2024-12-11-16.59.38.excalidraw.svg",
     "media/excalidraw/excalidraw-2024-12-10-23.24.19.excalidraw.svg",
     "independent study/math",
-    "media/excalidraw/excalidraw-2024-12-10-22.36.03.excalidraw.md",
     "media/excalidraw/excalidraw-2024-12-10-22.36.03.excalidraw.svg",
     "independent study/classic mechanics",
     "independent study/electromagnetism",
@@ -242,10 +240,8 @@
     "media/Pasted image 20241208152417.webp",
     "media/excalidraw/excalidraw-2024-12-08-15.08.40.excalidraw.svg",
     "media/Pasted image 20241208150742.webp",
-    "media/Pasted image 20241208150617.webp",
     "private/daily-notes",
     "lecture notes/COE-2001 (statics)",
-    "productivity/school",
-    "lecture notes/MSE-2001 (material science)"
+    "productivity/school"
   ]
 }
