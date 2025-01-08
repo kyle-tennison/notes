@@ -14,6 +14,7 @@
 - [ ] apparent
 - [ ] achieved
 - [ ] relevant
+- [ ] persists
 - [ ] hilarious
 - [ ] schottky
 - [ ] balance

@@ -4,44 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "742e7db16a4c1b71",
+        "id": "2002ce97c826a9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "117d56abe556923f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "productivity/School Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "School Tasks"
-            }
-          },
-          {
-            "id": "190de3d23167aea8",
+            "id": "5dd6c4409646b8de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/1. Circuit Basics.md",
+                "file": "lecture notes/ME-2110 (design)/Addressing Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Circuit Basics"
+              "title": "Addressing Problems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -220,47 +199,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "190de3d23167aea8",
+  "active": "5dd6c4409646b8de",
   "lastOpenFiles": [
+    "media/Pasted image 20250108091021.webp",
+    "lecture notes/ME-2110 (design)/Addressing Problems.md",
+    "productivity/School Tasks.md",
+    "productivity/Morning Check.md",
+    "private/Meal Plan.md",
+    "productivity/Night Check.md",
+    "private/daily-notes/Global Note.md",
+    "private/Untitled 1.md",
+    "private/daily-notes/Untitled.md",
+    "private/daily-notes/2024-12-03.md",
+    "private/daily-notes/2024-12-02.md",
+    "private/daily-notes/2024-12-04.md",
+    "private/daily-notes/2025-01-05.md",
+    "private/daily-notes/2024-12-22.md",
+    "private/daily-notes/2025-01-07.md",
+    "media/excalidraw/excalidraw-2025-01-07-21.29.07.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-07-21.29.07.excalidraw.svg",
+    "media/Pasted Image 20250107212931_354.png",
+    "media/Pasted image 20250107212900.webp",
+    "miscellaneous/Poor Spelling Words.md",
+    "lecture notes/ECE-3710 (circuits)/1. Circuit Basics.md",
     "media/Pasted image 20250107104720.webp",
     "media/Pasted image 20250107104511.webp",
     "media/Pasted image 20250107104456.webp",
     "media/excalidraw/excalidraw-2025-01-07-10.06.30.excalidraw.md",
     "media/excalidraw/excalidraw-2025-01-07-10.06.30.excalidraw.svg",
-    "lecture notes/ECE-3710 (circuits)/1. Circuit Basics.md",
     "media/Pasted image 20250107094640.webp",
-    "productivity/School Tasks.md",
     "lecture notes/ECE-3710 (circuits)",
-    "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
     "README.md",
     "media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.md",
     "media/Pasted Image 20250106222406_368.png",
     "media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.svg",
     "private/daily-notes/2025-01-06.md",
-    "productivity/Night Check.md",
     "lecture notes/ME-2110 (design)",
-    "private/daily-notes/2025-01-05.md",
     "media/excalidraw/excalidraw-2025-01-05-20.15.10.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-05-20.15.10.excalidraw.svg",
-    "private/daily-notes/2024-12-22.md",
-    "private/daily-notes/2024-12-04.md",
-    "private/daily-notes/2024-12-03.md",
     "private/ansys/adr/auth-integration.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
-    "independent study/classic mechanics/Lagrange's Equations.md",
-    "private/ansys/adr/hybrid-async-sync.md",
-    "independent study/classic mechanics/Calculus of Variations.md",
     "private/ansys/adr",
-    "miscellaneous/Poor Spelling Words.md",
-    "private/Create-X Ideas.md",
-    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
-    "lecture notes/ME-3322 (thermodynamics)/11. Air-Water Mixtures.md",
-    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Textbook).md",
-    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Lecture).md",
-    "media/excalidraw/excalidraw-2024-12-14-16.55.55.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-12-11-17.19.43.excalidraw.svg",
-    "media/excalidraw/excalidraw-2024-12-11-16.59.38.excalidraw.svg",
     "independent study/math",
     "independent study/classic mechanics",
     "independent study/electromagnetism",
