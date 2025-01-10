@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "568cf27bade5e0a9",
+        "id": "108f0f7d2a962a28",
         "type": "tabs",
         "children": [
           {
-            "id": "7debe652dfc3a6c6",
+            "id": "34bd54aa1c398366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Create-X Ideas.md",
+                "file": "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create-X Ideas"
+              "title": "2. Resistive Circuits"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Euler-l",
+                "query": "nodes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -199,17 +201,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7debe652dfc3a6c6",
+  "active": "34bd54aa1c398366",
   "lastOpenFiles": [
+    "media/Pasted image 20250110135538.webp",
+    "media/Pasted image 20250110133635.webp",
+    "media/Pasted image 20250110133358.webp",
+    "productivity/Morning Check.md",
+    "lecture notes/ECE-3710 (circuits)/1. Circuit Basics.md",
+    "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
+    "productivity/School Tasks.md",
+    "private/daily-notes/Global Note.md",
+    "productivity/Personal Tasks.md",
+    "private/Create-X Ideas.md",
     "private/Meal Plan.md",
     "private/iets not that badd.md",
     "private/Untitled 1.md",
     "private/Untitled.md",
-    "private/daily-notes/Global Note.md",
-    "productivity/Morning Check.md",
     "lecture notes/ME-2110 (design)/Addressing Problems.md",
     "media/Pasted image 20250108091021.webp",
-    "productivity/School Tasks.md",
     "productivity/Night Check.md",
     "private/daily-notes/Untitled.md",
     "private/daily-notes/2024-12-03.md",
@@ -223,22 +232,15 @@
     "media/Pasted Image 20250107212931_354.png",
     "media/Pasted image 20250107212900.webp",
     "miscellaneous/Poor Spelling Words.md",
-    "lecture notes/ECE-3710 (circuits)/1. Circuit Basics.md",
     "media/Pasted image 20250107104720.webp",
     "media/Pasted image 20250107104511.webp",
     "media/Pasted image 20250107104456.webp",
     "media/excalidraw/excalidraw-2025-01-07-10.06.30.excalidraw.md",
     "media/excalidraw/excalidraw-2025-01-07-10.06.30.excalidraw.svg",
-    "media/Pasted image 20250107094640.webp",
     "lecture notes/ECE-3710 (circuits)",
-    "productivity/Personal Tasks.md",
     "README.md",
     "media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.md",
-    "media/Pasted Image 20250106222406_368.png",
-    "private/daily-notes/2025-01-06.md",
     "lecture notes/ME-2110 (design)",
-    "media/excalidraw/excalidraw-2025-01-05-20.15.10.excalidraw.md",
-    "private/ansys/adr/auth-integration.md",
     "private/ansys/adr",
     "independent study/math",
     "independent study/classic mechanics",

@@ -8,7 +8,9 @@ kanban-plugin: board
 
 - [ ] ISYE-3025: Module 2 reading
 - [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
-- [ ] ECE_3710: Lab 0 @{2025-01-09}
+- [ ] ME-2016: Homework 1 @{2025-01-14}
+- [ ] ME-2110: Paper tower report @{2025-01-14}
+- [ ] ME-2110: HW 1 @{2025-01-13}
 
 
 ## In Progress
@@ -18,6 +20,7 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] ECE_3710: Lab 0 @{2025-01-09}
 - [ ] ECE-3710: Module 1 Lectures
 
 
