@@ -805,6 +805,264 @@
     width: 100%;
 }
 
+
+
+
+.image-info-container {
+    padding: 8px 0px 0 0;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    margin-bottom: 8px;
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+}
+
+.input-label {
+    min-width: 45px;
+}
+
+.image-name-input,
+.image-path-input {
+    flex: 1;
+    min-width: 200px;
+}
+
+
+/* Image Positioning  */
+/* /////////////////////////////////////////////////// */
+/* .markdown-reading-view img,
+.markdown-source-view img,
+.internal-embed.image-embed {
+    display: inline-block !important;
+    max-width: 100%;
+    vertical-align: top;
+    pointer-events: auto;
+    position: relative !important;
+    z-index: 2;
+} */
+
+.markdown-reading-view img,
+.markdown-source-view img,
+.internal-embed.image-embed {
+    vertical-align: top;
+    max-width: 100%;
+}
+
+.image-wrap.image-position-left,
+.image-wrap.internal-embed.image-embed.image-position-left,
+.image-wrap.image-position-right,
+.image-wrap.internal-embed.image-embed.image-position-right,
+.image-no-wrap.image-position-left,
+.image-no-wrap.internal-embed.image-embed.image-position-left,
+.image-no-wrap.image-position-right,
+.image-no-wrap.internal-embed.image-embed.image-position-right,
+.image-position-center,
+.internal-embed.image-embed.image-position-center,
+.markdown-source-view.mod-cm6 .image-wrap.image-position-left,
+.markdown-source-view.mod-cm6 .image-wrap.internal-embed.image-embed.image-position-left,
+.markdown-source-view.mod-cm6 .image-wrap.image-position-right,
+.markdown-source-view.mod-cm6 .image-wrap.internal-embed.image-embed.image-position-right,
+.markdown-source-view.mod-cm6 .image-position-center,
+.markdown-source-view.mod-cm6 .internal-embed.image-embed.image-position-center,
+.markdown-source-view.mod-cm6 .image-no-wrap.image-position-left,
+.markdown-source-view.mod-cm6 .image-no-wrap.internal-embed.image-embed.image-position-left {
+    display: inline-block !important;
+    max-width: 100%;
+    vertical-align: top;
+    pointer-events: auto;
+    position: relative !important;
+    z-index: 2;
+}
+
+/* Preserve image dimensions */
+.markdown-reading-view img[style*="width"],
+.markdown-source-view img[style*="width"] {
+    height: auto !important;
+}
+
+/* ===== Reading Mode Styles ===== */
+
+/* Positioning styles WITH wrap */
+.image-wrap.image-position-left,
+.image-wrap.internal-embed.image-embed.image-position-left {
+    float: left !important;
+    margin: 0.5em 1em 0.5em 0;
+    clear: left !important;
+}
+
+.image-wrap.image-position-right,
+.image-wrap.internal-embed.image-embed.image-position-right {
+    float: right !important;
+    margin: 0.5em 0 0.5em 1em;
+    clear: right !important;
+}
+
+/* Positioning styles WITHOUT wrap */
+.image-no-wrap.image-position-left,
+.image-no-wrap.internal-embed.image-embed.image-position-left {
+    display: block !important;
+    margin:auto !important;;
+    margin-left: 0 !important;
+    clear: both !important;
+    float: none !important;
+}
+
+.image-no-wrap.image-position-right,
+.image-no-wrap.internal-embed.image-embed.image-position-right {
+    display: block !important;
+    margin: auto !important;
+    margin-right: 0 !important;
+    clear: both !important;
+    float: none !important;
+}
+
+/* Center positioning (always no wrap) */
+.image-position-center,
+.internal-embed.image-embed.image-position-center {
+    display: block !important;
+    margin: auto !important;
+    clear: both !important;
+    float: none !important;
+}
+
+/* ===== Live Preview Specific Styles ===== */
+
+
+/* Live Preview positioning WITH wrap */
+.markdown-source-view.mod-cm6 .image-wrap.image-position-left,
+.markdown-source-view.mod-cm6 .image-wrap.internal-embed.image-embed.image-position-left {
+    float: left !important;
+    margin: 0 1em 0.5em 0;
+    clear: left !important;
+}
+
+.markdown-source-view.mod-cm6 .image-wrap.image-position-right,
+.markdown-source-view.mod-cm6 .image-wrap.internal-embed.image-embed.image-position-right {
+    float: right !important;
+    margin: 0em 0 0.5em 1em;
+    clear: right !important;
+}
+
+
+/* Image Container for Live Preview */
+.image-container[class*="image-position-"],
+.image-container[class*="image-wrap"],
+.image-container[class*="image-no-wrap"] {
+    display: contents;
+    line-height: 0;
+}
+.markdown-source-view.mod-cm6 .cm-line:has(img[width][style*="position"]) { 
+    text-indent: 0;
+    padding-inline-start: 0;
+}
+/* Live Preview positioning WITHOUT wrap */
+.markdown-source-view.mod-cm6 .image-no-wrap.image-position-left,
+.markdown-source-view.mod-cm6 .image-no-wrap.internal-embed.image-embed.image-position-left {
+    display: block !important;
+    margin: auto !important;
+    margin-left: 0 !important;
+    clear: both !important;
+    float: none !important;
+}
+
+.markdown-source-view.mod-cm6 .image-no-wrap.image-position-right,
+.markdown-source-view.mod-cm6 .image-no-wrap.internal-embed.image-embed.image-position-right {
+    display: block !important;
+    margin: auto !important;
+    margin-right: 0 !important;
+    clear: both !important;
+    float: none !important;
+}
+
+/* Live Preview center positioning (always no wrap) */
+.markdown-source-view.mod-cm6 .image-position-center,
+.markdown-source-view.mod-cm6 .internal-embed.image-embed.image-position-center {
+    display: block !important;
+    margin: auto !important;
+    clear: both !important;
+    float: none !important;
+    text-align: center !important;
+}
+
+/* List image container styles */
+.image-list-container[class*="image-position-"] {
+    width: 100%;
+}
+
+/* --- Image List Container --- */
+
+/* Create a dedicated container for the image within the list item */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(img[width][style*="position"]) .cm-line {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - var(--list-indent, 0px));
+    position: relative;
+    margin-left: var(--list-indent, 0px);
+}
+
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(img[width][style*="position"]) .cm-line > :not(.image-list-container) {
+    position: relative;
+    z-index: 3;
+}
+
+/* Styles for the image container */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(img[width][style*="position"]) .image-list-container {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1;
+}
+
+/* --- List Item Adjustments --- */
+
+/* Reset list item styles for resized images */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(.image-position-left),
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(.image-position-right),
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(.image-position-center) {
+    text-indent: 0 !important;
+    padding-inline-start: 0 !important;
+}
+
+/* --- Image Positioning within the Container --- */
+/* Left alignment */
+.image-list-container.image-position-left {
+    justify-content: flex-start; /* Already the default */
+}
+
+/* Center alignment */
+.image-list-container.image-position-center {
+    justify-content: center;
+}
+
+/* Right alignment */
+.image-list-container.image-position-right {
+    justify-content: flex-end;
+}
+
+/* --- Image Styling --- */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-list-line:has(img[width][style*="position"]) img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
 /* Progress Bar Base */
 .image-converter-progress {
     position: fixed;
@@ -1082,46 +1340,68 @@
     padding: 1rem;
 }
 
-.modal-header {
+.image-convert-modal .image-counts-display-container {
+    margin-top: 20px;
+    /* Add some space above the counts */
+    text-align: center;
+    /* Center-align the counts (optional) */
+}
+
+.image-counts-display {
+    width: fit-content;      /* Adjust width to fit the content */
+    margin-left: auto;      /* Automatic left margin */
+    margin-right: auto;     /* Automatic right margin */
+    text-align: center;
+}
+
+.image-convert-modal .modal-subtitle {
+    font-size: 0.9em;
+    /* Make the subtitle slightly smaller */
+    color: #666;
+    /* Use a lighter color for the subtitle (optional) */
+}
+
+.image-convert-modal .modal-header {
     text-align: center;
     margin-bottom: 1rem;
 }
 
-.modal-subtitle {
+.image-convert-modal .modal-subtitle {
     margin-top: -18px;
 }
 
-.modal-warning {
+.image-convert-modal .modal-warning {
     margin-top: -10px;
     padding: 20px;
     border-radius: 10px;
-    background-color: var(--background-modifier-message);
+    background-color: var(--background-secondary);
 }
 
-.settings-container {
+.image-convert-modal .settings-container {
     margin-top: 1rem;
 }
 
-.button-container {
+.image-convert-modal .button-container {
     margin-top: 1rem;
     text-align: center;
 }
 
-.resize-input-setting,
-.enlarge-reduce-setting {
+.image-convert-modal .resize-input-setting,
+.image-convert-modal .enlarge-reduce-setting {
     margin-top: 1em;
 }
 
-.conditional-settings {
+.image-convert-modal .conditional-settings {
     margin-top: 1em;
     padding: 1em;
     border: 1px solid var(--background-modifier-border);
     border-radius: 4px;
 }
 
-.format-quality-container,
-.resize-container,
-.skip-container {
+.image-convert-modal .image-source-setting-container,
+.image-convert-modal .format-quality-container,
+.image-convert-modal .resize-container,
+.image-convert-modal .skip-container {
     margin-bottom: 20px;
     padding: 10px;
     border: 1px solid var(--background-modifier-border);
@@ -1275,6 +1555,8 @@
 
 .image-annotation-modal .button-group {
     display: flex;
+    gap: 4px;
+    align-items: center;
 }
 
 .image-annotation-modal .button-group button {
@@ -1393,6 +1675,17 @@
     height: 1px;
     margin: 4px 0;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1587,6 +1880,31 @@
     padding: 2px;
 }
 
+.image-annotation-modal .background-color-wrapper {
+    display: flex;
+    align-items: center;
+}
+/* 
+.image-annotation-modal .background-alpha-slider {
+    width: 60px;
+    height: 24px;
+    margin: 0;
+    padding: 0;
+} */
+
+.image-annotation-modal .preset-button .preset-color {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+.image-annotation-modal .preset-button.text-preset .preset-color {
+    position: relative;
+    border-style: solid;
+    border-width: 2px;
+}
+
 .image-annotation-modal .color-picker {
     width: 24px;
     height: 24px;
@@ -1685,6 +2003,47 @@
         padding-left: 4px;
         margin-left: 4px;
     }
+}
+
+
+.image-annotation-modal .control-group {
+    display: flex;
+    gap: 5px;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    align-items: center;
+}
+
+.image-annotation-modal .text-background-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.image-annotation-modal .text-bg-controls {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.image-annotation-modal .background-color-picker {
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 4px;
+}
+
+.image-annotation-modal .layer-controls {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 
@@ -1998,3 +2357,4 @@
         transform: translate(-50%, -50%) scale(1);
     }
 } */
+
