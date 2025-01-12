@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] UCSD California Residency Stuff
 
 
 ## Blocked
@@ -15,6 +14,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] UCSD California Residency Stuff
 
 
 ***
