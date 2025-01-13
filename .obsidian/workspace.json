@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b5f2b1f2bd0c46",
+        "id": "6f7ba8a26009b6d5",
         "type": "tabs",
         "children": [
           {
-            "id": "edcb2156719f6b40",
+            "id": "1040ac6b69fec578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ISYE-3025 (economics)/2. Decision Making Process.md",
+                "file": "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Decision Making Process"
+              "title": "Moore's Law for Everything"
             }
           },
           {
-            "id": "b95e50d54620530b",
+            "id": "86832edf926ca9d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Meal Plan.md",
+                "file": "Superintelligence Fears, Promises and Potentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meal Plan"
+              "title": "Superintelligence Fears, Promises and Potentials"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,16 +215,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edcb2156719f6b40",
+  "active": "86832edf926ca9d2",
   "lastOpenFiles": [
+    "Superintelligence Fears, Promises and Potentials.md",
+    "productivity/Personal Tasks.md",
+    "lecture notes/PHIL-3127 (philosophy)/An Argument Against the Lethality of AI.md",
+    "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
+    "miscellaneous/Poor Spelling Words.md",
+    "lecture notes/PHIL-3127 (philosophy)/reading-notes",
+    "lecture notes/PHIL-3127 (philosophy)",
     "private/Meal Plan.md",
-    "productivity/Morning Check.md",
     "lecture notes/ISYE-3025 (economics)/2. Decision Making Process.md",
+    "productivity/Morning Check.md",
     "README.md",
     "lecture notes/ISYE-3025 (economics)",
     "productivity/School Tasks.md",
-    "productivity/Personal Tasks.md",
-    "miscellaneous/Poor Spelling Words.md",
     "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
     "media/Pasted image 20250110135538.webp",
     "media/Pasted image 20250110133635.webp",
@@ -244,23 +250,18 @@
     "private/daily-notes/2025-01-05.md",
     "private/daily-notes/2024-12-22.md",
     "private/daily-notes/2025-01-07.md",
-    "media/excalidraw/excalidraw-2025-01-07-21.29.07.excalidraw.md",
     "media/excalidraw/excalidraw-2025-01-07-21.29.07.excalidraw.svg",
     "media/Pasted Image 20250107212931_354.png",
     "media/Pasted image 20250107212900.webp",
     "media/Pasted image 20250107104720.webp",
     "media/Pasted image 20250107104511.webp",
     "media/Pasted image 20250107104456.webp",
-    "media/excalidraw/excalidraw-2025-01-07-10.06.30.excalidraw.md",
     "lecture notes/ECE-3710 (circuits)",
-    "media/excalidraw/excalidraw-2025-01-06-22.22.21.excalidraw.md",
     "lecture notes/ME-2110 (design)",
     "private/ansys/adr",
     "independent study/math",
     "independent study/classic mechanics",
     "independent study/electromagnetism",
-    "independent study/quantum",
-    "independent study",
-    "private/daily-notes"
+    "independent study/quantum"
   ]
 }

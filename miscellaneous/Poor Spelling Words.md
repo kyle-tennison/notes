@@ -13,6 +13,7 @@
 - [ ] tragic 
 - [ ] coefficient
 - [ ] propagate
+- [ ] intelligence
 - [ ] apparent
 - [ ] achieved
 - [ ] relevant

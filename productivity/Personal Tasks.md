@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Airfare for Spring Break
 
 
 ## Blocked
@@ -14,7 +15,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] UCSD California Residency Stuff
 
 
 ***
@@ -29,6 +29,7 @@ kanban-plugin: board
 - [ ] Ansys Extension Letter
 - [ ] EKG Appointment for December
 - [ ] Grammar Rules
+- [ ] UCSD California Residency Stuff
 
 %% kanban:settings
 ```
