@@ -9,10 +9,11 @@ Getting ready for the next day
 	- [x] Shower
 	- [x] Brush Teeth
 	- [x] Skincare
-- [ ] Daily Note
-- [ ] Tomorrow
-	- [ ] Fill Google Calendar
-- [ ] Fill out [Daily Habits](https://app.dailyhabits.xyz)
+- [x] Tomorrow
+	- [x] Fill Google Calendar
+- [x] Fill out [Daily Habits](https://app.dailyhabits.xyz)
+- [x] Prepare Lunch ([Meal Plan](../private/Meal%20Plan.md))
+- [x] Daily Note
 
 
 
