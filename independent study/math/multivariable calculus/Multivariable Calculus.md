@@ -44,5 +44,15 @@ Because $y$ is not influenced by the $+h$ term, it is *identical* to a constant 
 
 Consider now that we want a second or nth order partial differential equation.
 
-Before solving this mathematically, let's think about it for a a second. When we solve for a partial differential equation, we get back another multivariable function.
+Before solving this mathematically, let's think about it for a a second. When we solve for a partial differential equation, we get back another multivariable function that represents how the function changes with respect to a change in one of the independent variables. There is no reason we can't take the derivative of this new multivariable function of equal dimension in the same way as we did the first time:
+
+$$\frac{\partial^2f}{\partial x^2}= \frac{\partial }{\partial x}\bigg(\frac{\partial f}{\partial x}\bigg)$$
+
+Sometimes, this will be represented as $f_{xx}$ to show the second order differentiation with respect to x. If we, instead had:
+
+$$\frac{\partial^2f}{\partial y \ \partial x}= \frac{\partial }{\partial y}\bigg(\frac{\partial f}{\partial x}\bigg )$$
+
+the corresponding notation would be $f_{xy}$. 
+
+## Chain Rule
 

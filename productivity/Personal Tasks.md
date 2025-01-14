@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Airfare for Spring Break
 - [ ] ECE Parts Kit
 - [ ] Return coffee machine
+- [ ] Email philosophy professor for grade preview
 
 
 ## Blocked
