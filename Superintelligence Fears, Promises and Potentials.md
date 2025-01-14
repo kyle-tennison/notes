@@ -5,11 +5,12 @@ https://jetpress.org/v25.2/goertzel.pdf
 ---
 
 
-- Advocates for AI development regulation 
+- Other guy Advocates for AI development regulation 
+	- Author doesn't think that it would be possible
 - What if synthetic intelligence is sentience
 	- Would this bring emotions too?
 - We don't have to look as AI as exclusively reward maximizing
-- Progress isn't usually linear in sciecne. We probably are in for a revolution
+- Progress isn't usually linear in science. We probably are in for a revolution
 	- a priori?
 - What if there's a third way of AGI that's not LLMs (obv) but also not synthetic? Is such a thing possible.
 

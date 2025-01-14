@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Airfare for Spring Break
+- [ ] ECE Parts Kit
+- [ ] Return coffee machine
 
 
 ## Blocked

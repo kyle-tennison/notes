@@ -4,36 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "59840de1344261de",
+        "id": "a2e06c06ca6d7ac6",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2543cef3c1d4ac",
+            "id": "1a1c0fa6de5108f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/math/multivariable calculus/Polar Calculus.md",
+                "file": "Multivariable Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polar Calculus"
+              "title": "Multivariable Calculus"
             }
           },
           {
-            "id": "ea5d64d779058967",
+            "id": "d259458b22b86a57",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "media/excalidraw/excalidraw-2025-01-12-22.53.37.excalidraw.md"
+                "file": "productivity/Personal Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-2025-01-12-22.53.37.excalidraw"
+              "icon": "lucide-trello",
+              "title": "Personal Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,25 +221,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff2543cef3c1d4ac",
+  "active": "d259458b22b86a57",
   "lastOpenFiles": [
-    "media/excalidraw/excalidraw-2025-01-12-22.53.37.excalidraw.md",
+    "Multivariable Calculus.md",
     "independent study/math/multivariable calculus/Polar Calculus.md",
-    "media/excalidraw/excalidraw-2025-01-12-22.53.37.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-01-12-22.53.37.excalidraw.webp",
-    "media/excalidraw/excalidraw-2025-01-12-22.44.26.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-12-22.44.26.excalidraw.svg",
-    "media/Pasted image 20250112224050.webp",
-    "independent study/math/multivariable calculus/Parametric Equations.md",
+    "independent study/math/multivariable calculus/Vector Valued Functions.md",
+    "lecture notes/ME-2016 (python)/Euler's Method.md",
+    "productivity/Personal Tasks.md",
+    "productivity/Morning Check.md",
+    "lecture notes/ME-2016 (python)",
+    "productivity/School Tasks.md",
+    "lecture notes/ME-2110 (design)/Addressing Problems.md",
+    "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
+    "media/excalidraw/excalidraw-2025-01-13-11.51.05.excalidraw.md",
+    "media/7292433-512.webp",
+    "media/4481423-512.webp",
+    "media/6361596-512.webp",
+    "media/7286585-512.webp",
+    "media/7411773-512.webp",
+    "media/880941-512.webp",
+    "media/2400939-512-1.webp",
+    "media/2400939-512.webp",
+    "media/6764378-512.webp",
+    "media/7468700-512.webp",
+    "Superintelligence Fears, Promises and Potentials.md",
     "private/Meal Plan.md",
+    "media/excalidraw/excalidraw-2025-01-12-22.53.37.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-12-22.44.26.excalidraw.md",
+    "independent study/math/multivariable calculus/Parametric Equations.md",
     "independent study/math/multivariable calculus",
     "productivity/Night Check.md",
     "private/daily-notes/2025-01-12.md",
     "private/daily-notes/Global Note.md",
-    "productivity/Morning Check.md",
-    "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
-    "Superintelligence Fears, Promises and Potentials.md",
-    "productivity/Personal Tasks.md",
     "lecture notes/PHIL-3127 (philosophy)/An Argument Against the Lethality of AI.md",
     "miscellaneous/Poor Spelling Words.md",
     "lecture notes/PHIL-3127 (philosophy)/reading-notes",
@@ -238,26 +260,14 @@
     "lecture notes/ISYE-3025 (economics)/2. Decision Making Process.md",
     "README.md",
     "lecture notes/ISYE-3025 (economics)",
-    "productivity/School Tasks.md",
     "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
-    "media/Pasted image 20250110135538.webp",
-    "media/Pasted image 20250110133635.webp",
-    "media/Pasted image 20250110133358.webp",
     "lecture notes/ECE-3710 (circuits)/1. Circuit Basics.md",
     "private/Create-X Ideas.md",
     "private/iets not that badd.md",
-    "private/Untitled 1.md",
-    "private/Untitled.md",
-    "lecture notes/ME-2110 (design)/Addressing Problems.md",
-    "media/Pasted image 20250108091021.webp",
-    "private/daily-notes/Untitled.md",
-    "media/excalidraw/excalidraw-2025-01-07-21.29.07.excalidraw.svg",
-    "media/Pasted Image 20250107212931_354.png",
     "lecture notes/ECE-3710 (circuits)",
     "lecture notes/ME-2110 (design)",
     "private/ansys/adr",
     "independent study/math",
-    "independent study/classic mechanics",
-    "independent study/electromagnetism"
+    "independent study/classic mechanics"
   ]
 }

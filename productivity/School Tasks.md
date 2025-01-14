@@ -6,21 +6,24 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ISYE-3025: Module 2 reading
+- [ ] ECE-3710: Module 2 Lectures
 - [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
-- [ ] ME-2016: Homework 1 @{2025-01-14}
 - [ ] ME-2110: Paper tower report @{2025-01-14}
-- [ ] ME-2110: HW 1 @{2025-01-13}
+- [ ] APPH-1040: Wellness reports
 
 
 ## In Progress
 
-- [ ] ECE-3710: Module 2 Lectures
+- [ ] ME-2110: HW 1 @{2025-01-13}
 
 
 ## Complete
 
+- [ ] ME-2016: Homework 1 @{2025-01-14}
 - [ ] ECE_3710: Lab 0 @{2025-01-09}
+- [ ] ISYE-3025: Module 2 reading
+- [ ] PHIL-3127: Reflection 1 @{2025-01-13}
+- [ ] PHIL-2137: Mind map 1
 - [ ] ECE-3710: Module 1 Lectures
 
 
