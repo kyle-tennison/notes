@@ -13,36 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multivariable Calculus.md",
+                "file": "independent study/math/multivariable calculus/Multivariable Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Multivariable Calculus"
             }
-          },
-          {
-            "id": "d259458b22b86a57",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "productivity/Personal Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Personal Tasks"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,13 +200,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d259458b22b86a57",
+  "active": "1a1c0fa6de5108f4",
   "lastOpenFiles": [
-    "Multivariable Calculus.md",
+    "productivity/Personal Tasks.md",
+    "independent study/math/multivariable calculus/Multivariable Calculus.md",
     "independent study/math/multivariable calculus/Polar Calculus.md",
     "independent study/math/multivariable calculus/Vector Valued Functions.md",
     "lecture notes/ME-2016 (python)/Euler's Method.md",
-    "productivity/Personal Tasks.md",
     "productivity/Morning Check.md",
     "lecture notes/ME-2016 (python)",
     "productivity/School Tasks.md",
