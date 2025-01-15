@@ -8,63 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a1c0fa6de5108f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "independent study/math/multivariable calculus/Multivariable Calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multivariable Calculus"
-            }
-          },
-          {
-            "id": "7630cee1177069b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "independent study/math/calculus/Product Rule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Product Rule"
-            }
-          },
-          {
-            "id": "850cbd6d495ac551",
+            "id": "4097fc86ca9d3841",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "media/excalidraw/excalidraw-2025-01-13-22.22.46.excalidraw.md"
+                "file": "media/excalidraw/excalidraw-2025-01-15-10.38.16.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "excalidraw-2025-01-13-22.22.46.excalidraw"
+              "title": "excalidraw-2025-01-15-10.38.16.excalidraw"
             }
           },
           {
-            "id": "533925d441f0c065",
+            "id": "e6df6232800bcc0b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "productivity/Personal Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "private/ansys/Item Interactions — PyAnsysCloud.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Personal Tasks"
+              "icon": "lucide-file",
+              "title": "Item Interactions — PyAnsysCloud"
             }
           }
         ],
@@ -124,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -247,52 +212,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7630cee1177069b2",
+  "active": "e6df6232800bcc0b",
   "lastOpenFiles": [
-    "independent study/math/multivariable calculus/Multivariable Calculus.md",
-    "independent study/math/calculus/Product Rule.md",
-    "media/excalidraw/excalidraw-2025-01-13-22.41.22.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-13-22.41.22.excalidraw.svg",
-    "media/Pasted image 20250113223754.webp",
-    "media/excalidraw/excalidraw-2025-01-13-22.22.46.excalidraw.md",
-    "productivity/Personal Tasks.md",
-    "media/excalidraw/excalidraw-2025-01-13-22.22.46.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-01-13-22.22.46.excalidraw.webp",
-    "independent study/math/calculus/Sum Rule.md",
-    "independent study/math/calculus",
-    "independent study/math/multivariable calculus/Polar Calculus.md",
-    "independent study/math/multivariable calculus/Vector Valued Functions.md",
-    "lecture notes/ME-2016 (python)/Euler's Method.md",
+    "media/excalidraw/excalidraw-2025-01-15-10.38.16.excalidraw.md",
+    "private/ansys/Item Interactions — PyAnsysCloud.md",
+    "independent study/math/multivariable calculus/Multivariable Chain Rule.md",
+    "Untitled.md",
+    "lecture notes/PHIL-3127 (philosophy)/Superintelligence Fears, Promises and Potentials.md",
+    "media/excalidraw/excalidraw-2025-01-15-10.38.16.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-15-10.20.24.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-15-10.20.24.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-15-10.08.09.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-15-10.08.09.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-15-10.00.56.excalidraw.md",
     "productivity/Morning Check.md",
-    "lecture notes/ME-2016 (python)",
-    "productivity/School Tasks.md",
-    "lecture notes/ME-2110 (design)/Addressing Problems.md",
-    "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
-    "media/excalidraw/excalidraw-2025-01-13-11.51.05.excalidraw.md",
-    "media/7292433-512.webp",
-    "media/4481423-512.webp",
-    "media/6361596-512.webp",
-    "media/7286585-512.webp",
-    "media/7411773-512.webp",
-    "media/880941-512.webp",
-    "Superintelligence Fears, Promises and Potentials.md",
+    "productivity/Personal Tasks.md",
     "private/Meal Plan.md",
-    "media/excalidraw/excalidraw-2025-01-12-22.53.37.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-12-22.44.26.excalidraw.md",
-    "independent study/math/multivariable calculus/Parametric Equations.md",
-    "independent study/math/multivariable calculus",
+    "independent study/math/calculus/Chain Rule.md",
     "productivity/Night Check.md",
-    "private/daily-notes/2025-01-12.md",
-    "private/daily-notes/Global Note.md",
-    "lecture notes/PHIL-3127 (philosophy)/An Argument Against the Lethality of AI.md",
-    "miscellaneous/Poor Spelling Words.md",
+    "private/ansys/Stack-traced context.md",
+    "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
+    "lecture notes/APPH-1040 (wellness)/Diverse Clinical Recruitment.md",
+    "private/ansys/New PyAnsysCloud Syntax.md",
+    "media/excalidraw/excalidraw-2025-01-14-16.52.33.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-14-16.52.33.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-14-16.52.33.excalidraw.webp",
+    "miscellaneous/OnPy.md",
+    "guide.md",
+    "lecture notes/APPH-1040 (wellness)",
+    "media/Pasted image 20250114134324.webp",
+    "media/excalidraw/excalidraw-2025-01-14-13.40.57.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-14-13.40.57.excalidraw.svg",
+    "media/Pasted image 20250114133734.webp",
+    "media/excalidraw/excalidraw-2025-01-14-13.28.16.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-14-13.28.16.excalidraw.svg",
+    "media/Pasted Image 20250114132850_912.png",
+    "productivity/School Tasks.md",
+    "independent study/math/multivariable calculus/Multivariable Calculus.md",
+    "media/excalidraw/excalidraw-2025-01-13-22.22.46.excalidraw.md",
+    "independent study/math/calculus/Product Rule.md",
+    "independent study/math/calculus",
+    "lecture notes/ME-2016 (python)",
+    "independent study/math/multivariable calculus",
     "lecture notes/PHIL-3127 (philosophy)/reading-notes",
     "lecture notes/PHIL-3127 (philosophy)",
-    "lecture notes/ISYE-3025 (economics)/2. Decision Making Process.md",
     "lecture notes/ISYE-3025 (economics)",
     "lecture notes/ECE-3710 (circuits)",
     "lecture notes/ME-2110 (design)",
-    "private/ansys/adr",
-    "independent study/math"
+    "private/ansys/adr"
   ]
 }

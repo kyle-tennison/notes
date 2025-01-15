@@ -6,10 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Airfare for Spring Break
-- [ ] ECE Parts Kit
-- [ ] Return coffee machine
-- [ ] Email philosophy professor for grade preview
+- [ ] ra events
 
 
 ## Blocked
@@ -33,6 +30,9 @@ kanban-plugin: board
 - [ ] EKG Appointment for December
 - [ ] Grammar Rules
 - [ ] UCSD California Residency Stuff
+- [ ] Return coffee machine
+- [ ] Airfare for Spring Break
+- [ ] ECE Parts Kit
 
 %% kanban:settings
 ```
