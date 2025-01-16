@@ -10,8 +10,10 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 68
   },
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true
 }
