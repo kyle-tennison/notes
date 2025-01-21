@@ -1,5 +1,4 @@
 # Morning Check
-2# Morning Check
 For daily activities
 
 ![](../media/Pasted%20image%2020241106071600.png)
@@ -21,10 +20,10 @@ For daily activities
 - [x] Duolingo
 - [x] Anki 
 - [x] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
-- [x] Pledge
-- [x] [Daily Habits](https://app.dailyhabits.xyz)
-- [x] **Done**
+- [ ] Google Calendar
+- [ ] Pledge
+- [ ] [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] **Done**
 
 
 Check and modify the calendar. After checking **Done**, oblige yourself to follow the day you have planned. Don't make any changes unless absolutely necessary.

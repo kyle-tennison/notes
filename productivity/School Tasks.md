@@ -6,25 +6,21 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
-- [ ] ME-2110: HW 1 @{2025-01-13}
+- [ ] ECE-3710: 2.11 - 2.12 @{2025-01-25}
+- [ ] ME-2110: Presentation @{2025-01-23}
 
 
 ## In Progress
 
-- [ ] ECE-3710: Module 2 Lectures
-- [ ] APPH-1040: Wellness reports
+- [ ] ME-2110: Report @{2025-01-21}
+- [ ] ME-2110: Peer Review @{2025-01-21}
 
 
 ## Complete
 
-- [ ] ME-2016: Homework 1 @{2025-01-14}
-- [ ] ECE_3710: Lab 0 @{2025-01-09}
-- [ ] ME-2110: Paper tower report @{2025-01-14}
-- [ ] ISYE-3025: Module 2 reading
-- [ ] PHIL-3127: Reflection 1 @{2025-01-13}
-- [ ] PHIL-2137: Mind map 1
-- [ ] ECE-3710: Module 1 Lectures
+- [ ] ECE-3710: Lab Turn in
+- [ ] ME-2110: HW 1 @{2025-01-13}
+- [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
 
 
 ***
@@ -47,6 +43,14 @@ kanban-plugin: board
 - [ ] INTA-1200 Paper
 - [ ] Study for Statics Exam
 - [ ] Check CS Grade
+- [ ] ME-2016: Homework 1 @{2025-01-14}
+- [ ] ECE_3710: Lab 0 @{2025-01-09}
+- [ ] APPH-1040: Wellness reports
+- [ ] ME-2110: Paper tower report @{2025-01-14}
+- [ ] ISYE-3025: Module 2 reading
+- [ ] PHIL-3127: Reflection 1 @{2025-01-13}
+- [ ] PHIL-2137: Mind map 1
+- [ ] ECE-3710: Module 1 Lectures
 
 %% kanban:settings
 ```

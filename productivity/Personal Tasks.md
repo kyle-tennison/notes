@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ra events
 
 
 ## Blocked
 
+- [ ] piercing appointment
 
 
 ## In Progress
@@ -33,6 +33,7 @@ kanban-plugin: board
 - [ ] Return coffee machine
 - [ ] Airfare for Spring Break
 - [ ] ECE Parts Kit
+- [ ] ra events
 
 %% kanban:settings
 ```

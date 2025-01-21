@@ -129,9 +129,17 @@ This is the **Euler-Lagrange Equation**, which is a fundamental relationship in 
 
 ```vid
 https://www.youtube.com/watch?v=SQLxrr9N8zM
+Title: Calculus of Variations ft. Flammable Maths
+Author: vcubingx
+Thumbnail: https://i.ytimg.com/vi/SQLxrr9N8zM/mqdefault.jpg
+AuthorUrl: https://www.youtube.com/@vcubingx
 ```
 
 ```vid
 https://www.youtube.com/watch?v=VCHFCXgYdvY&t=633s
+Title: Introduction to Variational Calculus - Deriving the Euler-Lagrange Equation
+Author: Good Vibrations with Freeball
+Thumbnail: https://i.ytimg.com/vi/VCHFCXgYdvY/mqdefault.jpg
+AuthorUrl: https://www.youtube.com/@Freeball99
 ```
 

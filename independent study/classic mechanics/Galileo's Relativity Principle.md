@@ -6,6 +6,8 @@ Chapter 1.3 of [Landu-Lifshitz Course on Mechanics](Landu-Lifshitz%20Course%20on
 
 When choosing a reference frame, we need to be careful. If we choose an arbitrary reference frame, space *may appear inhomogeneous and anisotropic*. A non-inertial reference frame, like someone on a merry-go-round, would experience these phenomena. In one of these frames, a body at rest would not remain at rest. If we get more abstract, these reference frames may also have *inhomogeneous time*, which would further complicate things.
 
+The Lagrangian yields equations of motion for a system. For a free particle, the equation of motion is simply Newton's second law. So, we can imagine, if space and time were inhomogeneous and the Lagrangian depended specifically on their quantities, then the *equations of motion for the system* would change depending on time and position. If Newton's second law only applied on Thursday afternoons in northeastern Spain, then we'd be dealing with this inhomogeneity. 
+
 Instead, we will look at **inertial reference frames**. In these frames, we ensure that *space is homogeneous and isotropic and time is homogeneous.* In this frame, a body at rest will indeed remain at rest.
 
 Landu claims that:
@@ -17,6 +19,9 @@ In other words, **there is always an inertial reference frame**.
 ---
 
 In classical mechanics, this *homogeneity of space* implies that the *lagrangian should not depend specifically on the position in space*; the laws of physics apply the same at all locations in space. Similarly, the *homogeneity of time* implies that the *lagrangian is independent of time*; the laws of physics remain constant with time.
+
+To unravel this logic a bit further, homogeneity means all quantities are created equal. Imagine an infinitely flat plane; there is no beginning or end, all is the same. Therefore, if we're dealing with homogenous quantities, **there is no absolute quantity**; there are only differences between relative quantities. Therefore, the place that we choose to reference either space or time from is entirely arbitrary; $t_0$ and $x_0$ can be set to any quantity—whichever is convenient for the system at hand.
+
 
 Landu also asserts that space is isotropic, which, in turn, means that the *lagrangian must be independent of the **direction** of velocity* in an inertial frame—it is only dependent on the magnitude. For reasons that exceed my understanding, $|\textbf v|^2$ is used in place of $|\textbf v|$, which seems to simplify calculations later on. Mathematically, no information is lost in this transformation.
 
