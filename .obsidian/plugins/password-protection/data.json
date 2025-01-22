@@ -1,6 +1,7 @@
 {
   "protectedPath": "/private/daily-notes/",
-  "protectEnabled": true,
+  "addedProtectedPath": [],
+  "protectEnabled": false,
   "password": "cgjiln l[h^ig",
   "lang": "auto",
   "forbidClosePassVerifyModal": false,

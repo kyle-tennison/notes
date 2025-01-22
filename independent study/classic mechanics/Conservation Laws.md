@@ -32,6 +32,21 @@ $$\frac{dL}{dt}=\sum_i\frac{d}{dt}(\dot q_i\frac{\partial L}{\partial \dot q_i})
 
 We now have a function of $\dot q$ that remains constant with time. If we integrate with respect to time to remove the time derivative, we get **the definition of energy:**
 
-$$E \equiv \sum_i \dot q_i \frac{\partial L}{\partial \dot q_i} -L$$
+$$E \equiv \sum_i \dot q_i \frac{\partial L}{\partial \dot q_i} -L \tag{1}$$
+^eq-1
 
+We can express this in a more convenient way if we pull the form of the lagrangian for a closed system; see the [Lagrangian for a System of Particles](Galileo's%20Relativity%20Principle.md#^eq-11a). The lagrangian takes the form of $L=T(q, \dot q)-U(q)$. If we plug a Lagrangian of this form into [Eq. 1](#^eq-1), we see, first:
+
+$$\sum_i \dot q_i \frac{\partial L}{\partial \dot q_i}=\sum_i \dot q_i \frac{\partial T}{\partial \dot q_i} = 2T$$
+
+> The $U$ partition is independent of $\dot q$, so its contribution to the partial derivative is zero. 
+> Then, as for getting $2T$ out the back, we go from $\frac{1}{2}mv^2$, then, after differentiation with respect to $v$, $mv$, then multiply by $v$ to get $mv^2$, or $2T$. 
+
+Plugging this expression into [Eq. 1](#^eq-1), we get:
+
+$$E=2T - (T-U)=T(q, \dot q) + U(q)$$
+
+or, expanded for cartesian coordinates:
+
+$$E = \sum_i\frac{1}{2}m_iv_i^2+U(q_1, q_2, \dots)$$
 

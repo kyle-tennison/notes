@@ -52,9 +52,9 @@ Remember, a Taylor series expansion looks like:
 
 $$f(x)=f(a)+f'(a)(x-a)+\text{Higher Order Terms}$$
 
-This $∆$ will be the equivalent of $x-a$, which, in this case, is $v^2-v'^2$.
+This $∆$ will be the equivalent of $x-a$. In this case, $x=v'^2$ and $a=v^2$ 
 
-$$\Delta = v^2-v'^2=v^2+2\textbf v \cdot \epsilon + \epsilon ^2 \tag 5$$
+$$\Delta = v'^2-v^2=(v^2+2\textbf v\cdot \epsilon + \epsilon^2)-v^2 = 2 \textbf v\cdot \epsilon + \epsilon ^2 \tag 5$$
 
 If we substitute the expression for $\Delta$ into [eq. 4](#^eq-4), *and neglect higher order terms* we get:
 
@@ -93,7 +93,10 @@ In a **closed system**, particles *can interact* with each other, but no other b
 $$L = \sum _i \frac12 m_i \textbf v_i^2-U(\textbf r_1, \textbf r_2, \dots) \tag{11}$$
 ^eq-11
 
-From this, we can extract $T=\frac12m\textbf v^2$ and call it **kinetic energy**. We also call $U$ the **potential energy** of the system.
+From this, we can extract $T=\frac12m\textbf v^2$ and call it **kinetic energy**. We also call $U$ the **potential energy** of the system. Using these terms, we can say the lagrangian is:
+
+$$L = \sum_iT(q_i, \dot q_i)-U(q_i) \tag{11a}$$
+^eq-11a
 
 The fact that $U$ is independent of time reveals the nature of *instantaneous propagation* in classical mechanics. You can dive deep into this, but if the potential energy also depended on time, i.e if its propagation to other particles was not instantaneous, then not all frames would have the same equations of motion and Galileo's Relativity Principle would be invalidated. This is a key assumption in classical mechanics.
 
