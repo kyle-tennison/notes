@@ -21,7 +21,7 @@ In other words, **there is always an inertial reference frame**.
 In classical mechanics, this *homogeneity of space* implies that the *lagrangian should not depend specifically on the position in space*; the laws of physics apply the same at all locations in space. Similarly, the *homogeneity of time* implies that the *lagrangian is independent of time*; the laws of physics remain constant with time.
 
 To unravel this logic a bit further, homogeneity means all quantities are created equal. Imagine an infinitely flat plane; there is no beginning or end, all is the same. Therefore, if we're dealing with homogenous quantities, **there is no absolute quantity**; there are only differences between relative quantities. Therefore, the place that we choose to reference either space or time from is entirely arbitrary; $t_0$ and $x_0$ can be set to any quantity—whichever is convenient for the system at hand.
-
+^no-absolutes
 
 Landu also asserts that space is isotropic, which, in turn, means that the *lagrangian must be independent of the **direction** of velocity* in an inertial frame—it is only dependent on the magnitude. For reasons that exceed my understanding, $|\textbf v|^2$ is used in place of $|\textbf v|$, which seems to simplify calculations later on. Mathematically, no information is lost in this transformation.
 
