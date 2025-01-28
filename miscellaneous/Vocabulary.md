@@ -37,5 +37,7 @@
 - [x] Equivocal
 	- More than one interpretation; ambiguous  
 - [ ] pejorative
+- [ ] lambaste
+- [ ] 
 
 

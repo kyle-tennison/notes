@@ -18,9 +18,9 @@ For daily activities
 	- [x] PHIL-3127
 	- [x] Calendar
 - [x] Duolingo
-- [x] Anki 
-- [x] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
+- [ ] Anki 
+- [ ] [Personal Tasks](Personal%20Tasks.md)
+- [ ] Google Calendar
 - [ ] Pledge
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**

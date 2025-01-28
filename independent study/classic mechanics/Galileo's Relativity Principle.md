@@ -72,7 +72,7 @@ $$L = \int c\ d(v^2) = cv^2+C$$
 
 From experiment, we know $c=\frac{m}{2}$, where $m$ is mass. $C$ drops off, and we get:
 
-$$L = \frac{1}{2}mv^2 \tag 8$$
+$$6$$
 
 We can expand this for *a collection of particles* that **do not interact** to say:
 

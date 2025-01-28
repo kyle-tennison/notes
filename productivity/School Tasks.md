@@ -6,21 +6,15 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ECE-3710: 2.11 - 2.12 @{2025-01-25}
-- [ ] ME-2110: Presentation @{2025-01-23}
 
 
 ## In Progress
 
-- [ ] ME-2110: Report @{2025-01-21}
-- [ ] ME-2110: Peer Review @{2025-01-21}
+- [ ] ECE-3710: 2.11 - 2.12 @{2025-01-25}
 
 
 ## Complete
 
-- [ ] ECE-3710: Lab Turn in
-- [ ] ME-2110: HW 1 @{2025-01-13}
-- [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
 
 
 ***
@@ -51,6 +45,12 @@ kanban-plugin: board
 - [ ] PHIL-3127: Reflection 1 @{2025-01-13}
 - [ ] PHIL-2137: Mind map 1
 - [ ] ECE-3710: Module 1 Lectures
+- [ ] ME-2110: Report @{2025-01-21}
+- [ ] ME-2110: Presentation @{2025-01-23}
+- [ ] ECE-3710: Lab Turn in
+- [ ] ME-2110: Peer Review @{2025-01-21}
+- [ ] ME-2110: HW 1 @{2025-01-13}
+- [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
 
 %% kanban:settings
 ```

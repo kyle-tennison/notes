@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Ansys Food
 
 
 ## Blocked
 
-- [ ] piercing appointment
 
 
 ## In Progress
@@ -34,6 +34,7 @@ kanban-plugin: board
 - [ ] Airfare for Spring Break
 - [ ] ECE Parts Kit
 - [ ] ra events
+- [ ] piercing appointment
 
 %% kanban:settings
 ```

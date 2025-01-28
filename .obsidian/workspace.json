@@ -4,49 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ec14b7b707eea565",
+        "id": "0ebddc0adabb0c87",
         "type": "tabs",
         "children": [
           {
-            "id": "3d9099f360286cdd",
+            "id": "d980bb892934d5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/classic mechanics/Conservation Laws.md",
+                "file": "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conservation Laws"
+              "title": "2. Resistive Circuits"
             }
           },
           {
-            "id": "e1b7240259de0f29",
+            "id": "dc92214e955b9396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "independent study/classic mechanics/Galileo's Relativity Principle.md",
-                "mode": "source",
-                "source": false
+                "file": "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Galileo's Relativity Principle"
-            }
-          },
-          {
-            "id": "774a281c6f78fc4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "independent study/classic mechanics/Galileo's Relativity Principle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Galileo's Relativity Principle"
+              "icon": "excalidraw-icon",
+              "title": "excalidraw-2025-01-27-18.37.51.excalidraw"
             }
           }
         ]
@@ -80,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Euler-Lagra",
+                "query": "Thevenin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -218,11 +203,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 350,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "password-protection:Unlock password protection": false,
+      "password-protection:Lock password protection": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -236,46 +222,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d9099f360286cdd",
+  "active": "d980bb892934d5db",
   "lastOpenFiles": [
-    "independent study/classic mechanics/Galileo's Relativity Principle.md",
-    "independent study/classic mechanics/Conservation Laws.md",
-    "independent study/classic mechanics/Lagrange's Equations.md",
-    "independent study/classic mechanics/Calculus of Variations.md",
-    "productivity/School Tasks.md",
+    "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.md",
+    "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
+    "media/Pasted Image 20250127185223_964.png",
+    "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.webp",
+    "lecture notes/ME-2016 (python)/Floating Point Math.md",
+    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
+    "media/excalidraw/excalidraw-2025-01-27-17.21.26.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-27-17.03.13.excalidraw.md",
+    "lecture notes/ME-2016 (python)/Euler's Method.md",
+    "media/excalidraw/excalidraw-2025-01-27-17.28.39.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-27-17.21.26.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-27-17.21.26.excalidraw.webp",
+    "media/excalidraw/excalidraw-2025-01-27-17.21.05.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-27-17.03.13.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-27-13.59.55.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-27-13.59.55.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-27-13.10.11.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-27-13.10.11.excalidraw.svg",
     "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
-    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
-    "media/excalidraw/excalidraw-2025-01-19-13.56.00.excalidraw.md",
-    "lecture notes/ME-2110 (design)/Pet Dispenser.md",
-    "media/Pasted Image 20250119140430_331.png",
-    "media/Pasted Image 20250119140111_237.png",
-    "media/2286250-512.webp",
-    "media/excalidraw/excalidraw-2025-01-19-13.56.00.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-01-19-13.31.50.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-19-13.31.50.excalidraw.png",
-    "media/excalidraw/excalidraw-2025-01-19-13.31.50.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-01-19-12.49.59.excalidraw.md",
-    "media/Pasted Image 20250116200847_774.png",
-    "media/excalidraw/excalidraw-2025-01-19-12.49.59.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-01-19-12.49.59.excalidraw.webp",
-    "media/Pasted Image 20250116202239_984.png",
-    "media/excalidraw/excalidraw-2025-01-19-12.33.15.excalidraw.md",
-    "independent study/math/multivariable calculus/Multivariable Chain Rule.md",
+    "productivity/School Tasks.md",
+    "private/daily-notes/2025-01-26.md",
     "productivity/Night Check.md",
-    "private/daily-notes/2025-01-17.md",
-    "private/daily-notes/Global Note.md",
-    "media/excalidraw/excalidraw-2025-01-16-20.14.15.excalidraw.md",
-    "projects/meal-planner/Design Ideation.md",
-    "media/excalidraw/excalidraw-2025-01-16-22.15.59.excalidraw.md",
-    "projects/meal-planner",
-    "media/excalidraw/excalidraw-2025-01-16-20.05.46.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-16-19.00.34.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-16-19.14.50.excalidraw.md",
-    "private/Meal Plan.md",
-    "private/daily-notes/2025-01-15.md",
-    "private/ansys/Item Interactions — PyAnsysCloud.md",
+    "lecture notes/ISYE-3025 (economics)/3. Engineering Costs & Estimates.md",
+    "independent study/classic mechanics/Calculus of Variations.md",
+    "independent study/classic mechanics/Galileo's Relativity Principle.md",
+    "productivity/Personal Tasks.md",
+    "media/excalidraw/excalidraw-2025-01-25-17.36.08.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-25-22.45.45.excalidraw.md",
+    "miscellaneous/Vocabulary.md",
+    "media/excalidraw/excalidraw-2025-01-26-08.02.24.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-26-08.02.24.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-26-08.02.24.excalidraw.webp",
+    "media/excalidraw/excalidraw-2025-01-25-19.57.19.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-25-18.37.38.excalidraw.md",
     "private/ansys/adr/media",
+    "projects/meal-planner",
     "lecture notes/APPH-1040 (wellness)",
     "independent study/math/calculus",
     "lecture notes/ME-2016 (python)",
