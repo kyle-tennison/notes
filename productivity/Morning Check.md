@@ -19,11 +19,11 @@ For daily activities
 	- [x] Calendar
 - [x] Duolingo
 - [ ] Anki 
-- [ ] [Personal Tasks](Personal%20Tasks.md)
-- [ ] Google Calendar
+- [x] [Personal Tasks](Personal%20Tasks.md)
+- [x] Google Calendar
 - [ ] Pledge
-- [ ] [Daily Habits](https://app.dailyhabits.xyz)
-- [ ] **Done**
+- [x] [Daily Habits](https://app.dailyhabits.xyz)
+- [x] **Done**
 
 
 Check and modify the calendar. After checking **Done**, oblige yourself to follow the day you have planned. Don't make any changes unless absolutely necessary.

@@ -64,7 +64,7 @@ Because $\epsilon$ is a small (infinitesimal), we can neglect the term $\epsilon
 
 $$L(v'^2) =L(v^2)+\frac{\partial L}{\partial v^2}2\textbf v \cdot \epsilon \tag 7$$
 
-Now, we know, from Galilean relativity, that these two Lagrangians, both of inertial reference frames, will have equivalent equations of motion. Therefore, they must vary *only* by a total time derivative of a function of position and time, by [Lagrange's Equations eq. 9](Lagrange's%20Equations.md#^eq-9). Because $\textbf v$ is already in the term, we know that $\partial L / \partial v^2$ must be independent of $v$. 
+Now, we know, from Galilean relativity, that these two Lagrangians, both of inertial reference frames, will have equivalent equations of motion. Therefore, they must vary *only* by a total time derivative of a function of position and time, by [Lagrange's Equations eq. 9](Lagrange's%20Equations.md#^eq-9). See [Varied Lagrangians](Lagrange's%20Equations.md#Varied%20Lagrangians) for more info. Because $\textbf v$ is already in the term, we know that $\partial L / \partial v^2$ must be independent of $v$. 
 
 We know that $\frac{\partial L}{\partial v^2}$ is independent of v, and is therefore a constant. Let us assign the arbitrary constant $c=\frac{\partial L}{\partial v^2}$. Now, if we integrate over $\frac{\partial L}{\partial v^2}$ with respect to $v^2$, we can get $L$:
 
@@ -73,6 +73,7 @@ $$L = \int c\ d(v^2) = cv^2+C$$
 From experiment, we know $c=\frac{m}{2}$, where $m$ is mass. $C$ drops off, and we get:
 
 $$6$$
+> idk how this got here ^
 
 We can expand this for *a collection of particles* that **do not interact** to say:
 

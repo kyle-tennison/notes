@@ -29,7 +29,7 @@
   "csArgs": "",
   "csFileExtension": "csx",
   "csInject": "",
-  "pythonPath": "/Users/kyletennison/.default/bin/python",
+  "pythonPath": "/Users/kyletennison/.venv/bin/python",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonFileExtension": "py",

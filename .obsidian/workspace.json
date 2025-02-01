@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebddc0adabb0c87",
+        "id": "5edbac73ad0571fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d980bb892934d5db",
+            "id": "38b75a03309b5b22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "2. Resistive Circuits"
-            }
-          },
-          {
-            "id": "dc92214e955b9396",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw-2025-01-27-18.37.51.excalidraw"
             }
           }
         ]
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Thevenin",
+                "query": "\"total time derivative\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,14 +211,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d980bb892934d5db",
+  "active": "38b75a03309b5b22",
   "lastOpenFiles": [
-    "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.md",
+    "media/Pasted image 20250131201412.webp",
+    "productivity/School Tasks.md",
+    "productivity/Personal Tasks.md",
+    "productivity/Morning Check.md",
+    "independent study/classic mechanics/Lagrange's Equations.md",
+    "independent study/classic mechanics/Galileo's Relativity Principle.md",
+    "lecture notes/ME-2016 (python)/Root Finding.md",
+    "media/excalidraw/excalidraw-2025-01-29-22.25.20.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-01-30-23.14.46.excalidraw.md",
+    "media/excalidraw/Untitled 1.md",
+    "media/excalidraw/excalidraw-2025-01-30-23.14.46.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-29-22.25.20.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-01-29-22.25.20.excalidraw.webp",
+    "independent study/classic mechanics/Untitled.md",
+    "miscellaneous/Poor Spelling Words.md",
+    "lecture notes/ME-2016 (python)/Floating Point Math.md",
+    "miscellaneous/OnPy Debugging.md",
+    "media/excalidraw/excalidraw-2025-01-28-17.32.07.excalidraw.md",
+    "media/excalidraw/Untitled.md",
+    "media/excalidraw/excalidraw-2025-01-28-17.32.07.excalidraw.svg",
+    "media/Pasted Image 20250128173359_123.webp",
     "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
+    "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.md",
     "media/Pasted Image 20250127185223_964.png",
     "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-01-27-18.37.51.excalidraw.webp",
-    "lecture notes/ME-2016 (python)/Floating Point Math.md",
     "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
     "media/excalidraw/excalidraw-2025-01-27-17.21.26.excalidraw.md",
     "media/excalidraw/excalidraw-2025-01-27-17.03.13.excalidraw.md",
@@ -238,27 +247,8 @@
     "media/excalidraw/excalidraw-2025-01-27-17.21.26.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-01-27-17.21.26.excalidraw.webp",
     "media/excalidraw/excalidraw-2025-01-27-17.21.05.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-27-17.03.13.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-01-27-13.59.55.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-27-13.59.55.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-01-27-13.10.11.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-27-13.10.11.excalidraw.svg",
-    "productivity/Morning Check.md",
-    "productivity/School Tasks.md",
-    "private/daily-notes/2025-01-26.md",
-    "productivity/Night Check.md",
-    "lecture notes/ISYE-3025 (economics)/3. Engineering Costs & Estimates.md",
-    "independent study/classic mechanics/Calculus of Variations.md",
-    "independent study/classic mechanics/Galileo's Relativity Principle.md",
-    "productivity/Personal Tasks.md",
-    "media/excalidraw/excalidraw-2025-01-25-17.36.08.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-25-22.45.45.excalidraw.md",
-    "miscellaneous/Vocabulary.md",
-    "media/excalidraw/excalidraw-2025-01-26-08.02.24.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-26-08.02.24.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-01-26-08.02.24.excalidraw.webp",
-    "media/excalidraw/excalidraw-2025-01-25-19.57.19.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-25-18.37.38.excalidraw.md",
     "private/ansys/adr/media",
     "projects/meal-planner",
     "lecture notes/APPH-1040 (wellness)",
