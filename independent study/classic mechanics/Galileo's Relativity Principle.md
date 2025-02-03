@@ -42,7 +42,7 @@ $$\frac{d}{dt}(\frac{\partial L}{\partial \textbf v})=0 \tag 2$$
 
 Say we have two *inertial* reference frames $L$ and $L'$, one moving ever so slightly faster than the other by $\epsilon$. We can say that $v' = v+\epsilon$ . Using this, we can say:
 
-$$L(v^2)=L(v'^2)=L(v^2+2\mathbf v\cdot \epsilon + \epsilon ^2) \tag 3$$
+$$L'=L(v'^2)=L(v^2+2\mathbf v\cdot \epsilon + \epsilon ^2) \tag 3$$
 ^eq-5
 Then, we can expand this using a **Taylor series expansion**. We get:
 
@@ -72,7 +72,7 @@ $$L = \int c\ d(v^2) = cv^2+C$$
 
 From experiment, we know $c=\frac{m}{2}$, where $m$ is mass. $C$ drops off, and we get:
 
-$$6$$
+$$\frac{1}{2}mv^2$$
 > idk how this got here ^
 
 We can expand this for *a collection of particles* that **do not interact** to say:
@@ -85,6 +85,12 @@ Because $v^2 = \frac{dl^2}{dt^2}$ , we can say:
 $$L = \frac{1}{2}(\dot x^2 + \dot y ^2 + \dot z^2) \tag {10}$$
 
 > The book references more expansions on pg. 8 for cylindrical and spherical coordinates.
+
+If we look back at $L'$, we notice that:
+
+$$L=\frac{1}{2}mv'^2=\frac{1}{2} (v^2+2v\epsilon )=\frac{1}{2}mv^2+mv\epsilon $$
+
+Because $m v \epsilon$ is a linear function of $v$, it is a total time derivative, and hence does not influence the equations of motion.
 
 
 ## Lagrangian for a System of Particles

@@ -13,7 +13,7 @@ Getting ready for the next day
 	- [x] Fill Google Calendar
 - [x] Fill out [Daily Habits](https://app.dailyhabits.xyz)
 - [x] Prepare Lunch ([Meal Plan](../private/Meal%20Plan.md))
-- [ ] Daily Note
+- [x] Daily Note
 
 
 

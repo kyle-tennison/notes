@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Ansys Food
 
 
 ## Blocked
@@ -35,6 +34,8 @@ kanban-plugin: board
 - [ ] ECE Parts Kit
 - [ ] ra events
 - [ ] piercing appointment
+- [ ] Ansys Food
+- [ ] GTSR Research Compilation
 
 %% kanban:settings
 ```

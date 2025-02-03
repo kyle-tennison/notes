@@ -18,10 +18,10 @@ For daily activities
 	- [x] PHIL-3127
 	- [x] Calendar
 - [x] Duolingo
-- [ ] Anki 
+- [x] Anki 
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
-- [ ] Pledge
+- [x] Pledge
 - [x] [Daily Habits](https://app.dailyhabits.xyz)
 - [x] **Done**
 
