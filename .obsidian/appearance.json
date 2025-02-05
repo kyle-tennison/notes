@@ -1,5 +1,6 @@
 {
   "accentColor": "#6a8d68",
   "theme": "system",
-  "cssTheme": "Primary"
+  "cssTheme": "Primary",
+  "showViewHeader": true
 }

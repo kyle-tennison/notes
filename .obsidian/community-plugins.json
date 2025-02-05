@@ -5,9 +5,10 @@
   "calendar",
   "image-converter",
   "table-editor-obsidian",
-  "obsidian-filename-heading-sync",
   "execute-code",
   "password-protection",
   "edge-tts",
-  "obsidian-thumbnails"
+  "obsidian-thumbnails",
+  "obsidian-advanced-slides",
+  "obsidian-filename-heading-sync"
 ]

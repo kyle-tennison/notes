@@ -6,21 +6,22 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ME 2016: HW 3 @{2025-02-04}
-- [ ] APPH 1040: Case Study
 - [ ] PHIL-3127: Module 2 Reading @{2025-02-07}
 - [ ] PHIL-3127: Module 2 Video @{2025-02-09}
+- [ ] ISYE-3025: Module 5 Quiz @{2025-02-09}
 
 
 ## In Progress
 
-- [ ] ME 2110: Electronics Kit @{2025-02-02}
-- [ ] ECE 3710: 3.1 - 3.5
 
 
 ## Complete
 
+- [ ] ME 2110: Electronics Kit @{2025-02-02}
+- [ ] ME 2016: HW 3 @{2025-02-04}
+- [ ] APPH 1040: Case Study
 - [ ] APPH 1040: Reflection 1 @{2025-02-03}
+- [ ] ECE 3710: 3.1 - 3.5
 - [ ] ISYE: Module 3 Quiz @{2025-02-02}
 - [ ] ECE-3710: 2.13
 - [ ] ECE-3710: 2.11 - 2.12 @{2025-01-25}

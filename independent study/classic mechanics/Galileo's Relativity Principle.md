@@ -88,7 +88,7 @@ $$L = \frac{1}{2}(\dot x^2 + \dot y ^2 + \dot z^2) \tag {10}$$
 
 If we look back at $L'$, we notice that:
 
-$$L=\frac{1}{2}mv'^2=\frac{1}{2} (v^2+2v\epsilon )=\frac{1}{2}mv^2+mv\epsilon $$
+$$L'=\frac{1}{2}mv'^2=\frac{1}{2} (v^2+2v\epsilon )=\frac{1}{2}mv^2+mv\epsilon $$
 
 Because $m v \epsilon$ is a linear function of $v$, it is a total time derivative, and hence does not influence the equations of motion.
 

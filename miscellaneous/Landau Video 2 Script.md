@@ -73,9 +73,9 @@ This is a lot to unpack, so lets imagine some scenarios that might break these r
 
 Now, if we instead made our frame encompass the disk itself, and we neglected things like the rotation of earth, then we could then say that the frame is inertial. So, if we zoom out enough, we can always find an inertial frame.
 
-Now, I want to make a few comments. Here, I said that our equations of motion cannot change with time. This isn't to say that the laws cannot depend on time; they just can't depend on absolute time. Think about a spring oscillating. I get to choose when I start the timer, and I expect the displacement over time to be the same every time I do the experiment—provided I don't mess anything up.
+Now, I want to make a few comments. Here, I said that our equations of motion cannot change with time. This isn't to say that the equations of motion cannot depend on time; they just can't depend on absolute time. Think about a spring oscillating. I get to choose when I start the timer, and I expect the displacement over time to be the same every time I do the experiment—provided I don't mess anything up.
 
-Now, if time were to lack homogeneity, then I wouldn't get to arbitrarily pick when to start my stopwatch; I would need to have some knowledge of how my reference frame depends on time. Imagine I was preforming this experiment on the merry go round that is twice as fast on Tuesday; in this scenario, I would need to also know which day of the week it is, and then adjust my equations accordingly.
+Now, if time were to lack homogeneity, then I wouldn't get to arbitrarily pick when to start my stopwatch; I would need to have some knowledge of how my reference frame depends on time. Imagine I was preforming this experiment on this merry go round that is twice as fast after 3:00; in this scenario, I would need to also know what time of day it is, and then adjust my equations accordingly.
 
 When we pick an inertial frame, we are simplifying the problem so we don't have to deal with things like this. We allow the "origin" of time to be an arbitrary pick that best simplifies our problem.
 
@@ -97,7 +97,7 @@ My choice to use two here isn't entirely arbitrary. I'll show you why we can't r
 
 So now our Lagrangian is some function of $L(v^2)$. Now, let's try to observe Galileo's Relativity principle for this free particle. Lets say that we have another system with the Lagrangian $L'$ that is moving at a tiny constant velocity $\epsilon$ , relative to the other system. So, both systems could be moving, only this one is moving with a small difference in velocity of $\epsilon$. We can express this new lagrangian $L'$ using $L$ with:
 
-$$L' = L(v') = L(v^2 + 2v\cdot \epsilon + \epsilon ^2)$$
+$$L' = L(v') = L(v^2 + 2\textbf{v}\cdot \epsilon + \epsilon ^2)$$
 
 So think about what we're doing here. We're shifting $L$ from $L(v^2)$ to $L(v^2+2v\cdot \epsilon + \epsilon ^2)$, which is a shift of $2v\epsilon + \epsilon^2$. This shifting of a function might sound a little bit familiar, and in fact, this is what a Taylor series is for. In case we aren't familiar, a Taylor series allows us to say:
 
@@ -105,13 +105,39 @@ $$f(x_1)=f(x_0)+f'(x_0)(x_1-x_0) + \cdots $$
 
 In this case $f = L$, $x_0 = v^2$, and $x_1 =v'^2$.  We can hence say:
 
-$$L(v'^2) = L(v^2)+\frac{\partial L}{\partial v^2}(v'^2-v^2)+\cdots$$
+$$L(v'^2) = L(v^2)+\frac{d L}{d v^2}(v'^2-v^2)+\cdots$$
+
+> We can use total derivatives because $L$ solely depends on $v^2$ 
 
 Let us neglect the higher order terms and replace $v'^2 - v^2$ with $2v\epsilon$, neglecting the $\epsilon ^2$ term that will vanish as we start shrinking $\epsilon \to 0$. This yields:
 
-$$L(v'^2) = L(v^2) + \frac{\partial L}{\partial v^2}(2v\epsilon)$$
+$$L(v'^2) = L(v^2) + \frac{d L}{d v^2}(2 \textbf{v} \cdot\epsilon)$$
+
+> $\textbf{v} \cdot \epsilon$ yields a constant, so isotropy of space is not violated
 
 Great. Now we can start pulling in the total time derivative stuff that we mentioned before. Galileo's relativity principle says that these two Lagrangians should have equivalent laws of motion, but this can only be true if the differ by a total time derivative. So, we have to ask ourselves if $\frac{\partial L }{\partial v^2}(2v \epsilon)$ is a total time derivative.
 
-If we take the time derivative of any function $f(q, t$), the answer will always have some term $\dot q$ —provided that the coefficient is nonzero. So, because we already see that $\dot q$, AKA $v$ term in this equation, we know that for Galileo's relativity principle to hold, $\frac{\partial L}{\partial v^2}$ must be independent of $v$. If this were not true, then we would find a $v^n$ term, which would not be a total time derivative. 
+If $\frac{\partial L }{\partial v^2}$ is a constant, then we have a linear function of velocity, which is indeed a total time derivative. And, we know that $\frac{\partial L }{\partial v^2}$ can't have other $q$ or $t$ terms in it—otherwise this would invalidate Galileo's relativity principle. So, if we know $\frac{\partial L }{\partial v^2}$ is constant, what does it mean? This value, as is observed by experiment, is simply $m/2$. I wish there was a better way to prove this, but I'm not sure of any convent way to go about that.
+
+So, now we're saying:
+
+$$\frac{d L}{d v^2}=\frac{m}{2}$$
+
+Then, integrating with respect to $v^2$ gives:
+
+
+$$L=\frac{1}{2}mv^2+C$$
+
+And, like I mentioned, adding a constant to the Lagrangian doesn't have any physical meaning because it gets ignored during the calculus of variations, so we can ignore this $C$. 
+
+Now, let's not forget about the other Lagrangian $L'$. Now that we know $L$, we can find $L'$:
+
+$$L'=\frac{1}{2}mv'^2=\frac{1}{2} (v^2+2v\epsilon )=\frac{1}{2}mv^2+mv\epsilon $$
+
+Because $m v \epsilon$ is a linear function of $v$, it is a total time derivative, and hence does not influence the equations of motion.
+
+So now we can see that the Lagrangians $L$ and $L'$ will have equivalent equations of motion because of this total time derivative rule. This hopefully shows how Galileo's relativity works out mathematically.
+
+
+
 
