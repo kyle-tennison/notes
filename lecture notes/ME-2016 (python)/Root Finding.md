@@ -44,11 +44,11 @@ However, it's possible for this method to diverge further away from the root. Al
 
 If we use a **backwards finite difference** to approximate the derivative of f
 
-$$f'(x_i) \approx \frac{f(x_{i-1})-f(x)i}{x_{i-1}-x_i}$$
+$$f'(x_i) \approx \frac{f(x_{i-1})-f(x_i)}{x_{i-1}-x_i}$$
 
 Then, if you substitute this into the Newton-Raphson method, we get:
 
-$$x_{i+1} \approx x_i -\frac{f(x_i)(x_{i-1}-x_i)}{f(x_{i-1}-f(x_i))}$$
+$$x_{i+1} \approx x_i -\frac{f(x_i)(x_{i-1}-x_i)}{f(x_{i-1})-f(x_i)}$$
 
 The convergence of this is **super-linear**.
 
@@ -88,7 +88,7 @@ The false position method is similar to the bisection method but instead of choo
 
 4. Compute the next approximation using:  
     $$x_i - \frac{f(x_i)(x_{i-1} - x_i)}{f(x_{i-1}) - f(x_i)}$$
-5. Evaluate f(xi+1)f(x_{i+1}):
+5. Evaluate $f(x_{i+1})$:
     - If $f(x_{i+1}) = 0$, then $x_{i+1}$ is the root.
     - If $f(x_{i+1})$ has the same sign as $f(a)$, set $a = x_{i+1}$.
     - Otherwise, set $b = x_{i+1}$.

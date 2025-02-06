@@ -13,6 +13,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] ECE-3710: 3.6 - 3.11 @{2025-02-10}
 
 
 ## Complete
