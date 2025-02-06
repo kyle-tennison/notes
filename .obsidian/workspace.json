@@ -4,92 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "09b337c45539b0c9",
+        "id": "f15922e23184d86a",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3bc62576d6f539",
+            "id": "d081c697b9d20636",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "productivity/Morning Check.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Morning Check"
-            }
-          },
-          {
-            "id": "6d2129ad77275c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "independent study/neural networs/1. Multilayer Preceptron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Multilayer Preceptron"
-            }
-          },
-          {
-            "id": "6ff3e2594c71aa9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Gradient Descent"
-            }
-          },
-          {
-            "id": "8f0922486d31f7ad",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "productivity/Personal Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Personal Tasks"
-            }
-          },
-          {
-            "id": "025e4d2620343c9b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "productivity/School Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "School Tasks"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"total time derivative\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,30 +207,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "025e4d2620343c9b",
+  "active": "d081c697b9d20636",
   "lastOpenFiles": [
-    "productivity/Personal Tasks.md",
-    "2. Gradient Descent.md",
-    "independent study/neural networs/1. Multilayer Preceptron.md",
-    "productivity/Morning Check.md",
+    "independent study/neural networs/2. Gradient Descent.md",
+    "README.md",
+    "Pasted image 20250205130816.webp",
+    "Pasted image 20250205130830.webp",
+    "Pasted image 20250205131025.png",
     "Pasted image 20250205131924.png",
+    "lecture notes/ME-2016 (python)/Root Finding.md",
+    "productivity/Morning Check.md",
+    "independent study/neural networs/1. Multilayer Preceptron.md",
+    "productivity/Personal Tasks.md",
+    "productivity/School Tasks.md",
     "Pasted image 20250205131042.png",
     "Pasted image 20250205131028.png",
-    "Pasted image 20250205131025.png",
     "Pasted image 20250205130935.png",
     "Pasted image 20250205130931.png",
     "Pasted image 20250205130929.png",
     "Pasted image 20250205130843.webp",
-    "Pasted image 20250205130830.webp",
-    "Pasted image 20250205130820.webp",
     "independent study/neural networs",
-    "productivity/School Tasks.md",
     "media/excalidraw/excalidraw-2025-02-03-21.11.30.excalidraw.md",
     "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "miscellaneous/Landau Video 2 Script.md",
     "media/excalidraw/excalidraw-2025-02-04-14.29.15.excalidraw.md",
-    "lecture notes/ME-2016 (python)/Root Finding.md",
     "lecture notes/ECE-3710 (circuits)/3. Capacitive & Inductive Circuits.md",
     "private/Poor Spelling Words.md",
     "independent study/math/multivariable calculus/Polar Calculus.md",
@@ -316,8 +245,6 @@
     "media/excalidraw/excalidraw-2025-01-31-20.24.36.excalidraw.md",
     "media/excalidraw/Untitled 1.md",
     "independent study/classic mechanics/Untitled.md",
-    "lecture notes/ME-2016 (python)/Floating Point Math.md",
-    "miscellaneous/OnPy Debugging.md",
     "private/ansys/adr/media",
     "projects/meal-planner",
     "lecture notes/APPH-1040 (wellness)",
