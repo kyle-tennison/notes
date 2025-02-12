@@ -3,12 +3,13 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "calendar",
-  "image-converter",
   "table-editor-obsidian",
   "execute-code",
   "password-protection",
   "edge-tts",
   "obsidian-thumbnails",
   "obsidian-advanced-slides",
-  "obsidian-filename-heading-sync"
+  "obsidian-filename-heading-sync",
+  "terminal",
+  "image-converter"
 ]

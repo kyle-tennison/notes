@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f07753a00f7c808a",
+        "id": "f69799b83fc0f445",
         "type": "tabs",
         "children": [
           {
-            "id": "3c027ae9248d72d7",
+            "id": "a0c89ce54ca46f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,39 +22,49 @@
             }
           },
           {
-            "id": "9ce6473aa3080956",
+            "id": "bead08a860193e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/Morning Check.md",
+                "file": "lecture notes/ME-2016 (python)/Root Finding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morning Check"
+              "title": "Root Finding"
             }
           },
           {
-            "id": "4ba2825e45d654e6",
+            "id": "0120f9a656172beb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "productivity/School Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Curve Fitting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "School Tasks"
+              "icon": "lucide-file",
+              "title": "Curve Fitting"
+            }
+          },
+          {
+            "id": "542fe037e14b39db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "independent study/neural networs/2. Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Gradient Descent"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             }
           },
           {
-            "id": "b4bd90e8d580d1e0",
+            "id": "01fc32dd0e481e2d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -242,48 +252,50 @@
       "obsidian-kanban:Create new board": false,
       "edge-tts:Read note aloud": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "3c027ae9248d72d7",
+  "active": "0120f9a656172beb",
   "lastOpenFiles": [
+    "lecture notes/ME-2016 (python)/Root Finding.md",
+    "independent study/neural networs/2. Gradient Descent.md",
     "productivity/School Tasks.md",
-    "productivity/Morning Check.md",
+    "Curve Fitting.md",
     "lecture notes/ECE-3710 (circuits)/3. Capacitive & Inductive Circuits.md",
+    "media/Pasted image 20250210160050.png",
+    "productivity/Morning Check.md",
+    "private/Poor Spelling Words.md",
+    "media/excalidraw/excalidraw-2025-02-10-10.47.39.excalidraw.md",
+    "media/5307041-512.png",
+    "media/736819-512.png",
+    "media/excalidraw/excalidraw-2025-02-10-10.47.39.excalidraw.svg",
+    "media/7253435-512.png",
+    "independent study/math/multivariable calculus/Polar Calculus.md",
+    "productivity/Personal Tasks.md",
+    "private/daily-notes/2025-02-09.md",
+    "productivity/Night Check.md",
+    "lecture notes/ISYE-3025 (economics)/5. Single Payment.md",
+    "media/Pasted image 20250209204315.png",
+    "private/daily-notes/2025-02-08.md",
+    "media/Pasted image 20250209013235.png",
+    "media/880941-512.webp",
+    "media/Pasted image 20250209013135.png",
+    "Pasted image 20250209012918.png",
+    "attachments",
+    "media/excalidraw/excalidraw-2025-02-06-17.13.13.excalidraw.md",
     "miscellaneous/Landau Video 3.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "private/UC Transfer Applications.md",
-    "independent study/neural networs/2. Gradient Descent.md",
-    "lecture notes/ME-2016 (python)/Root Finding.md",
     "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
     "README.md",
-    "Pasted image 20250205130816.webp",
-    "Pasted image 20250205130830.webp",
-    "Pasted image 20250205131025.png",
-    "Pasted image 20250205131924.png",
     "independent study/neural networs/1. Multilayer Preceptron.md",
-    "productivity/Personal Tasks.md",
-    "Pasted image 20250205131042.png",
-    "Pasted image 20250205131028.png",
-    "Pasted image 20250205130935.png",
-    "Pasted image 20250205130931.png",
-    "Pasted image 20250205130929.png",
-    "Pasted image 20250205130843.webp",
     "independent study/neural networs",
     "media/excalidraw/excalidraw-2025-02-03-21.11.30.excalidraw.md",
     "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
     "miscellaneous/Landau Video 2 Script.md",
     "media/excalidraw/excalidraw-2025-02-04-14.29.15.excalidraw.md",
-    "private/Poor Spelling Words.md",
-    "independent study/math/multivariable calculus/Polar Calculus.md",
     "media/excalidraw/excalidraw-2025-01-30-23.14.46.excalidraw.md",
-    "independent study/classic mechanics/Lagrange's Equations.md",
-    "lecture notes/ME-2016 (python)/Euler's Method.md",
-    "productivity/Night Check.md",
-    "private/daily-notes/2025-02-02.md",
-    "media/excalidraw/excalidraw-2025-01-31-22.22.19.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-29-22.25.20.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-31-20.24.36.excalidraw.md",
     "private/ansys/adr/media",
     "projects/meal-planner",
     "lecture notes/APPH-1040 (wellness)",
@@ -291,7 +303,6 @@
     "lecture notes/ME-2016 (python)",
     "independent study/math/multivariable calculus",
     "lecture notes/PHIL-3127 (philosophy)/reading-notes",
-    "lecture notes/PHIL-3127 (philosophy)",
-    "lecture notes/ISYE-3025 (economics)"
+    "lecture notes/PHIL-3127 (philosophy)"
   ]
 }

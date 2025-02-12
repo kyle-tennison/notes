@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] PHIL-3127: Module 2 Reading @{2025-02-07}
 - [ ] PHIL-3127: Module 2 Video @{2025-02-09}
-- [ ] ISYE-3025: Module 5 Quiz @{2025-02-09}
+- [ ] ME-2016: HW 4 @{2025-02-11}
 
 
 ## In Progress
@@ -19,6 +19,8 @@ kanban-plugin: board
 ## Complete
 
 - [ ] ME 2110: Electronics Kit @{2025-02-02}
+- [ ] Coursera Course @{2025-02-23}
+- [ ] ISYE-3025: Module 5 Quiz @{2025-02-09}
 - [ ] ME 2016: HW 3 @{2025-02-04}
 - [ ] APPH 1040: Case Study
 - [ ] APPH 1040: Reflection 1 @{2025-02-03}
