@@ -8,63 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0c89ce54ca46f9c",
+            "id": "2331a1e55231f79a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/3. Capacitive & Inductive Circuits.md",
-                "mode": "source",
+                "file": "productivity/Morning Check.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Capacitive & Inductive Circuits"
+              "title": "Morning Check"
             }
           },
           {
-            "id": "bead08a860193e10",
+            "id": "ee8b3aee737b522e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2016 (python)/Root Finding.md",
+                "file": "lecture notes/ISYE-3025 (economics)/6. Uniform Payments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root Finding"
+              "title": "6. Uniform Payments"
             }
           },
           {
-            "id": "0120f9a656172beb",
+            "id": "3643f7d15231e6bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curve Fitting.md",
+                "file": "lecture notes/ISYE-3025 (economics)/5. Single Payment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curve Fitting"
-            }
-          },
-          {
-            "id": "542fe037e14b39db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "independent study/neural networs/2. Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Gradient Descent"
+              "title": "5. Single Payment"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,46 +242,46 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0120f9a656172beb",
+  "active": "ee8b3aee737b522e",
   "lastOpenFiles": [
-    "lecture notes/ME-2016 (python)/Root Finding.md",
-    "independent study/neural networs/2. Gradient Descent.md",
-    "productivity/School Tasks.md",
-    "Curve Fitting.md",
-    "lecture notes/ECE-3710 (circuits)/3. Capacitive & Inductive Circuits.md",
-    "media/Pasted image 20250210160050.png",
-    "productivity/Morning Check.md",
-    "private/Poor Spelling Words.md",
-    "media/excalidraw/excalidraw-2025-02-10-10.47.39.excalidraw.md",
-    "media/5307041-512.png",
-    "media/736819-512.png",
-    "media/excalidraw/excalidraw-2025-02-10-10.47.39.excalidraw.svg",
-    "media/7253435-512.png",
-    "independent study/math/multivariable calculus/Polar Calculus.md",
-    "productivity/Personal Tasks.md",
-    "private/daily-notes/2025-02-09.md",
-    "productivity/Night Check.md",
+    "media/Pasted image 20250215130458.png",
     "lecture notes/ISYE-3025 (economics)/5. Single Payment.md",
-    "media/Pasted image 20250209204315.png",
-    "private/daily-notes/2025-02-08.md",
-    "media/Pasted image 20250209013235.png",
-    "media/880941-512.webp",
-    "media/Pasted image 20250209013135.png",
-    "Pasted image 20250209012918.png",
-    "attachments",
-    "media/excalidraw/excalidraw-2025-02-06-17.13.13.excalidraw.md",
-    "miscellaneous/Landau Video 3.md",
-    "independent study/classic mechanics/Galileo's Relativity Principle.md",
-    "private/UC Transfer Applications.md",
-    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
-    "README.md",
-    "independent study/neural networs/1. Multilayer Preceptron.md",
-    "independent study/neural networs",
-    "media/excalidraw/excalidraw-2025-02-03-21.11.30.excalidraw.md",
+    "lecture notes/ISYE-3025 (economics)/6. Uniform Payments.md",
+    "productivity/Morning Check.md",
+    "media/Pasted image 20250215120524.png",
+    "productivity/School Tasks.md",
+    "productivity/Personal Tasks.md",
+    "private/daily-notes/Global Note.md",
+    "private/daily-notes/2025-02-15.md",
+    "productivity/Night Check.md",
+    "media/excalidraw/excalidraw-2025-02-14-19.48.00.excalidraw.md",
     "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
-    "miscellaneous/Landau Video 2 Script.md",
-    "media/excalidraw/excalidraw-2025-02-04-14.29.15.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-01-30-23.14.46.excalidraw.md",
+    "lecture notes/ECE-3710 (circuits)/3. Capacitive & Inductive Circuits.md",
+    "media/excalidraw/excalidraw-2025-02-14-18.05.08.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-02-14-19.48.00.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-02-14-18.05.08.excalidraw.svg",
+    "lecture notes/ISYE-3025 (economics)/3. Engineering Costs & Estimates.md",
+    "independent study/neural networs/2. Gradient Descent.md",
+    "media/excalidraw/excalidraw-2025-02-13-12.01.36.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-02-13-11.40.17.excalidraw.md",
+    "private/Poor Spelling Words.md",
+    "lecture notes/PHIL-3127 (philosophy)/Quotes.md",
+    "lecture notes/ME-2110 (design)/Previous Competition Mechanisms.md",
+    "media/excalidraw/excalidraw-2025-02-14-11.11.54.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-02-14-11.11.54.excalidraw.svg",
+    "media/Pasted Image 20250214111218_528.png",
+    "media/Pasted image 20250214104359.png",
+    "media/Pasted image 20250214104354.png",
+    "media/excalidraw/excalidraw-2025-02-13-12.01.36.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-02-13-11.40.17.excalidraw.svg",
+    "private/ansys/adr/auth-integration.md",
+    "Curve Fitting.md",
+    "lecture notes/ME-2016 (python)/Root Finding.md",
+    "media/Pasted image 20250212181831.png",
+    "media/excalidraw/excalidraw-2025-02-10-10.47.39.excalidraw.md",
+    "independent study/math/multivariable calculus/Polar Calculus.md",
+    "attachments",
+    "independent study/neural networs",
     "private/ansys/adr/media",
     "projects/meal-planner",
     "lecture notes/APPH-1040 (wellness)",

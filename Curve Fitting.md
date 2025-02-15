@@ -60,7 +60,7 @@ a_1
 
 \tag 3
 $$
-
+^eq-3
 
 ### Analyzing Error
 
@@ -123,7 +123,64 @@ a_0 \\ a_1 \\ a_2 \\ \vdots \\a_n
 
 $$
 
+> powers start at zero
+
 which, when compacted, is:
 
 $$\vec y = \textbf Z \vec a$$
+
+The matrix $\textbf Z$ is called the **Vandermonde Matrix.**
+
+The *error* for this model is found with:
+
+$$S_r = \sum_{i=0}^n(y_{i, measured}-y_{i, model})^2$$
+
+$$
+S_r=\begin{cases}
+(y_1-z_{10}a_0-z_{11}a_1 - \cdots - z_{1,m}a_m)^2\\
+(y_1-z_{20}a_0-z_{21}a_1 - \cdots - z_{2,m}a_m)^2 \\
+\vdots \\
+(y_1-z_{n0}a_0-z_{n1}a_1 - \cdots - z_{n,m}a_m)^2
+\end{cases}
+$$
+
+
+Now, when $\partial S_r / \partial a_k = 0$, the value for $a_0$ will be the value of $a_k$ that gives the smallest $S_r$.   
+
+$$\vec 0 = \frac{\partial }{\partial a_k}(S_r)= 
+
+\begin{cases}
+
+2(y_1-z_{10}a_0-z_{11}a_1-\cdots - z_{1m}a_m)(-z_{1k}) \\
+
+2(y_2-z_{20}a_0-z_{21}a_1-\cdots - z_{2m}a_m)(-z_{2k}) \\
+
+\vdots \\
+2(y_n-z_{n0}a_0-z_{n1}a_1-\cdots - z_{nm}a_m)(-z_{nk})
+
+\end{cases}
+
+$$
+
+This can be expressed in a summation as:
+
+$$0=-2 \sum_{i=0}^n\bigg[ \big (y_i - \sum_{j=0}^n  z_ja_i \big) z_{ik}  \bigg]$$
+
+We can move this to matrix notation and say:
+
+$$\textbf Z ^\intercal \textbf Z \;\vec a = \textbf Z^\intercal \; \vec y$$
+
+Solving this equation for $\vec a$ will allow you to assemble the regressed polynomial. We can make this similar to [Equation 3](#^eq-3)  
+
+## Steps for 4th Order
+
+Given: x & y points
+
+1. Iterate over x values
+	1. Each x = one row
+	2. Create 4 columns for each x, adding 1 to each power
+	3. Call this the Z matrix
+2. Compute $M = Z^T Z$ 
+3. $b = Z^T y$ 
+4. Solve $A= M^{-1}b$ 
 

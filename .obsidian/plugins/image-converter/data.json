@@ -9,7 +9,7 @@
   "convertToPNG": false,
   "convertTo": "disabled",
   "quality": 1,
-  "skipPatterns": "",
+  "skipPatterns": "*",
   "allowLargerFiles": false,
   "baseTimeout": 20000,
   "timeoutPerMB": 1000,
