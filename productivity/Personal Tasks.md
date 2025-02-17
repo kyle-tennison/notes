@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Dentist Appointment
+- [ ] Housing
+- [ ] UC Financial Aid
 
 
 ## Blocked
