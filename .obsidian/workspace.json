@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2016 (python)/Curve Fitting.md",
+                "file": "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curve Fitting"
+              "title": "1.3. Capacitive & Inductive Circuits"
+            }
+          },
+          {
+            "id": "ebc69ef39b737909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpolation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interpolation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -212,12 +228,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2331a1e55231f79a",
+  "active": "ebc69ef39b737909",
   "lastOpenFiles": [
+    "media/excalidraw/excalidraw-2025-02-17-17.32.23.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-02-17-17.32.23.excalidraw.svg",
+    "Interpolation.md",
     "Untitled.md",
+    "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
+    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
+    "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
+    "lecture notes/ECE-3710 (circuits)/1.1. Circuit Basics.md",
+    "1.md",
+    "lecture notes/ME-2016 (python)/Curve Fitting.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "lecture notes/ECE-3710 (circuits)/3. Capacitive & Inductive Circuits.md",
     "media/Pasted image 20250217163155.png",
     "media/Pasted image 20250217163041.png",
     "media/Pasted image 20250217162145.png",
@@ -236,19 +260,11 @@
     "media/Pasted image 20250215134349.png",
     "media/Pasted image 20250215134022.png",
     "media/Pasted image 20250215133539.png",
-    "media/Pasted image 20250215131752.png",
     "private/daily-notes/Global Note.md",
     "private/daily-notes/2025-02-15.md",
     "productivity/Night Check.md",
     "media/excalidraw/excalidraw-2025-02-14-19.48.00.excalidraw.md",
-    "lecture notes/ECE-3710 (circuits)/2. Resistive Circuits.md",
     "media/excalidraw/excalidraw-2025-02-14-18.05.08.excalidraw.md",
-    "lecture notes/ISYE-3025 (economics)/3. Engineering Costs & Estimates.md",
-    "independent study/neural networs/2. Gradient Descent.md",
-    "media/excalidraw/excalidraw-2025-02-13-12.01.36.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-02-13-11.40.17.excalidraw.md",
-    "private/Poor Spelling Words.md",
-    "lecture notes/PHIL-3127 (philosophy)/Quotes.md",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
