@@ -6,21 +6,34 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] PHIL-3127: Module 2 Video @{2025-02-17}
 - [ ] ME2016: HW 5 @{2025-02-18}
-- [ ] ISYE-3025: Module 6 Quiz @{2025-02-16}
+- [ ] PHIL-3127: Reading @{2025-02-27}
+- [ ] ME-2016: HW 6 @{2025-03-04}
 
 
 ## In Progress
 
-- [ ] PHIL-3127: Module 2 Reading @{2025-02-10}
-- [ ] ECE-3710: 3.6 - 3.11 @{2025-02-10}
-- [ ] ECE-3710: 3.15 - 3.17
-- [ ] ME2110: Design Research @{2025-02-15}
+- [ ] APPH-1040: Reflection 2 @{2025-03-02}
+- [ ] ECE-3710: Catch Up
 
 
 ## Complete
 
+
+
+***
+
+## Archive
+
+- [ ] ME2110: HW 4 @{2025-02-17}
+- [ ] ECE-3710: 2.1-2.5 @{2025-02-17}
+- [ ] ISYE-3025: Exam Study
+- [ ] ME2110: Design Research @{2025-02-15}
+- [ ] ISYE-3025: Module 6 Quiz @{2025-02-16}
+- [ ] PHIL-3127: Module 2 Video @{2025-02-17}
+- [ ] ECE-3710: 3.15 - 3.17
+- [ ] ECE-3710: 3.6 - 3.11 @{2025-02-10}
+- [ ] PHIL-3127: Module 2 Reading @{2025-02-10}
 - [ ] ME 2110: Electronics Kit @{2025-02-02}
 - [ ] Coursera Course @{2025-02-23}
 - [ ] ME-2016: HW 4 @{2025-02-11}
@@ -32,12 +45,6 @@ kanban-plugin: board
 - [ ] ISYE: Module 3 Quiz @{2025-02-02}
 - [ ] ECE-3710: 2.13
 - [ ] ECE-3710: 2.11 - 2.12 @{2025-01-25}
-
-
-***
-
-## Archive
-
 - [ ] Study for MSE
 - [ ] Statics Bonus Assignments @{2024-12-03}
 - [ ] Study for Thermo

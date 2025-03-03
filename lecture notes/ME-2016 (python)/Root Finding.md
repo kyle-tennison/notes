@@ -52,9 +52,6 @@ $$x_{i+1} \approx x_i -\frac{f(x_i)(x_{i-1}-x_i)}{f(x_{i-1})-f(x_i)}$$
 
 The convergence of this is **super-linear**.
 
-Here are your updated notes with sections for **Bisection Method** and **False Position Method** in the same style.
-
-
 ### Modified Newton Raphson
 
 If a function has a double root, where it doesn't change sign across the axis, we run into two issues:
@@ -63,14 +60,14 @@ If a function has a double root, where it doesn't change sign across the axis, w
 
 If we substitute $u(x)=f(x)/f'(x)$, then say:
 
-$$x_{i+1}=x_i-\frac{u(x_i)}{u'(x_i)}=\frac{f(x_i)f'(x_i)}{[f'(x_i)]^2+2f(x_i)f''(x_i)}$$
+$$x_{i+1}=x_i-\frac{u(x_i)}{u'(x_i)}=\frac{f(x_i)f'(x_i)}{[f'(x_i)]^2+f(x_i)f''(x_i)}$$
 
 
 ## Bracketing Methods
 
 ### Bisection Method
 
-The bisection method is a simple and reliable way to find roots, but it converges slowly. It works by repeatedly bisecting an interval [a,b][a, b] where f(a)f(a) and f(b)f(b) have opposite signs, meaning a root must exist within that interval.
+The bisection method is a simple and reliable way to find roots, but it converges slowly. It works by repeatedly bisecting an interval \[a,b\] where f(a) and f(b) have opposite signs, meaning a root must exist within that interval.
 
 1. Compute the midpoint:  
     xm=a+b2x_m = \frac{a + b}{2}
@@ -84,7 +81,7 @@ This method has a **linear convergence rate**, meaning it is slow compared to op
 
 ### False Position (Regula Falsi)
 
-The false position method is similar to the bisection method but instead of choosing the midpoint, it approximates the root by drawing a secant line between (a,f(a))(a, f(a)) and (b,f(b))(b, f(b)), then solving for where it crosses the x-axis.
+The false position method is similar to the bisection method but instead of choosing the midpoint, it approximates the root by drawing a secant line between (a, f(a)) and (b, f(b)), then solving for where it crosses the x-axis.
 
 4. Compute the next approximation using:  
     $$x_i - \frac{f(x_i)(x_{i-1} - x_i)}{f(x_{i-1}) - f(x_i)}$$

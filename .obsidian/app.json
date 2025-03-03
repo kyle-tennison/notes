@@ -2,5 +2,6 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "attachmentFolderPath": "media",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

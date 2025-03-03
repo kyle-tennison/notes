@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] Dentist Appointment
 - [ ] Housing
 - [ ] UC Financial Aid
+- [ ] Haircut
 
 
 ## Blocked

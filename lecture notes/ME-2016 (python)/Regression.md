@@ -1,7 +1,7 @@
-# Curve Fitting
+# Regression
 
 - **Regression** follows a pattern, *but does not pass through every point*
-- **Interpolation** goes through every point
+- [Interpolation](Interpolation.md) goes through every point
 
 ## Simple Linear Regression
 

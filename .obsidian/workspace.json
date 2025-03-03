@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f69799b83fc0f445",
+        "id": "dd7869ca35a8056c",
         "type": "tabs",
         "children": [
           {
-            "id": "2331a1e55231f79a",
+            "id": "d6b70b0d9e02d140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
+                "file": "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3. Capacitive & Inductive Circuits"
-            }
-          },
-          {
-            "id": "ebc69ef39b737909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interpolation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpolation"
+              "title": "2.1 Intro to Electronics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transfer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -228,43 +212,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ebc69ef39b737909",
+  "active": "d6b70b0d9e02d140",
   "lastOpenFiles": [
+    "lecture notes/ISYE-3025 (economics)/Exam 1 Review.md",
+    "lecture notes/ISYE-3025 (economics)/7. Complicating Factors.md",
+    "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
+    "lecture notes/ME-2016 (python)/Numerical Integration.md",
+    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
+    "productivity/School Tasks.md",
+    "productivity/Personal Tasks.md",
+    "productivity/Morning Check.md",
+    "lecture notes/ME-2016 (python)/Floating Point Math.md",
+    "lecture notes/ME-2016 (python)/Spline Fitting.md",
+    "lecture notes/ME-2016 (python)/Interpolation.md",
+    "lecture notes/ME-2016 (python)/Root Finding.md",
+    "lecture notes/ME-2016 (python)/Regression.md",
+    "lecture notes/ME-2016 (python)/Euler's Method.md",
+    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
+    "productivity/Night Check.md",
+    "private/Poor Spelling Words.md",
+    "lecture notes/ISYE-3025 (economics)/5. Single Payment.md",
+    "lecture notes/ISYE-3025 (economics)/6. Variable Payments.md",
+    "media/Pasted image 20250222122631.png",
+    "lecture notes/ISYE-3025 (economics)/2. Decision Making Process.md",
+    "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
+    "media/Pasted image 20250219183350.png",
+    "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
+    "lecture notes/ISYE-3025 (economics)/3. Engineering Costs & Estimates.md",
+    "1.md",
     "media/excalidraw/excalidraw-2025-02-17-17.32.23.excalidraw.md",
     "media/excalidraw/excalidraw-2025-02-17-17.32.23.excalidraw.svg",
-    "Interpolation.md",
-    "Untitled.md",
-    "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
-    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
-    "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
     "lecture notes/ECE-3710 (circuits)/1.1. Circuit Basics.md",
-    "1.md",
-    "lecture notes/ME-2016 (python)/Curve Fitting.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "media/Pasted image 20250217163155.png",
     "media/Pasted image 20250217163041.png",
     "media/Pasted image 20250217162145.png",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
-    "media/excalidraw/excalidraw-2025-02-17-14.54.43.excalidraw.md",
     "media/excalidraw/excalidraw-2025-02-17-14.54.43.excalidraw.svg",
-    "productivity/School Tasks.md",
-    "lecture notes/ISYE-3025 (economics)/6. Variable Payments.md",
-    "media/excalidraw/excalidraw-2025-02-15-19.23.28.excalidraw.md",
-    "lecture notes/ISYE-3025 (economics)/5. Single Payment.md",
-    "lecture notes/ME-2110 (design)/Previous Competition Mechanisms.md",
-    "media/excalidraw/excalidraw-2025-02-17-00.21.08.excalidraw.md",
     "media/excalidraw/excalidraw-2025-02-17-00.21.08.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-02-15-19.23.28.excalidraw.svg",
     "media/Pasted image 20250215134349.png",
-    "media/Pasted image 20250215134022.png",
-    "media/Pasted image 20250215133539.png",
-    "private/daily-notes/Global Note.md",
-    "private/daily-notes/2025-02-15.md",
-    "productivity/Night Check.md",
-    "media/excalidraw/excalidraw-2025-02-14-19.48.00.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-02-14-18.05.08.excalidraw.md",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
