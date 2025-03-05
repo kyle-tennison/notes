@@ -52,7 +52,7 @@ Then, you multiply each Lagrange polynomial by the y value at the node such that
 
 
 
-$$f_n(x)=\sum^n_{i=0} \mathcal{L}_i(x)f(x_i), \text{\;\;\;where\;\;\;}\mathcal L_i(x) = \prod _{j=0, j\ne1}^n(\frac{x-x_j}{x_i-x_j})$$
+$$f_n(x)=\sum^n_{i=0} \mathcal{L}_i(x)f(x_i), \text{\;\;\;where\;\;\;}\mathcal L_i(x) = \prod _{j=0, j\ne i}^n(\frac{x-x_j}{x_i-x_j})$$
 
 If $n=1$, this expands to:
 

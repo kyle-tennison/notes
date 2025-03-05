@@ -6,19 +6,20 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ME2016: HW 5 @{2025-02-18}
 - [ ] PHIL-3127: Reading @{2025-02-27}
-- [ ] ME-2016: HW 6 @{2025-03-04}
+- [ ] ISYE-3025: Quiz @{2025-03-08}
 
 
 ## In Progress
 
-- [ ] APPH-1040: Reflection 2 @{2025-03-02}
 - [ ] ECE-3710: Catch Up
+- [ ] ME-2016: HW 6 @{2025-03-04}
 
 
 ## Complete
 
+- [ ] ME2016: HW 5 @{2025-02-18}
+- [ ] APPH-1040: Reflection 2 @{2025-03-02}
 
 
 ***
