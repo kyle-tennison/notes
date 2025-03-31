@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] Dentist Appointment
 - [ ] Housing
 - [ ] UC Financial Aid
-- [ ] Haircut
 
 
 ## Blocked
@@ -40,6 +39,7 @@ kanban-plugin: board
 - [ ] piercing appointment
 - [ ] Ansys Food
 - [ ] GTSR Research Compilation
+- [ ] Haircut
 
 %% kanban:settings
 ```

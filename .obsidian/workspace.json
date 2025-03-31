@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f825d2260e9a2950",
+        "id": "6b539842bd9b50f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e548d18deef461",
+            "id": "d4f4942fc39f7df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
-                "mode": "source",
+                "file": "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Frequency Response"
+              "title": "2.3 Power and Transformers"
             }
           },
           {
-            "id": "8465e31d7f1a5b6a",
+            "id": "6b53e1a12e97e9a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
-                "mode": "source",
-                "source": false
+                "aFile": "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
+                "bFile": "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2.1 Intro to Electronics"
+              "icon": "diff",
+              "title": "Diff: 2.3 Power and Transformers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lagrange interpolation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +89,28 @@
               "title": "Bookmarks"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "108ebf9867e5e419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5a72b7c13a40200",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -190,24 +207,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "e8e874072568951d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 350,
-    "collapsed": true
+    "width": 350
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,44 +233,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c8e548d18deef461",
+  "active": "6b53e1a12e97e9a5",
   "lastOpenFiles": [
-    "media/Pasted image 20250305153337.png",
-    "media/Pasted image 20250305153208.png",
-    "media/Pasted image 20250305153144.png",
-    "media/Pasted image 20250305152946.png",
-    "media/Pasted image 20250305152247.png",
-    "media/Pasted image 20250305151441.png",
-    "media/Pasted image 20250305150836.png",
-    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
-    "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
-    "productivity/School Tasks.md",
-    "lecture notes/ME-2016 (python)/Spline Fitting.md",
+    "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
+    "lecture notes/ME-2016 (python)/Exam 2 Study.md",
+    "private/ansys/Stack-traced context.md",
+    "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.svg",
+    "media/Pasted image 20250331165350.png",
+    "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
     "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
-    "lecture notes/ME-2016 (python)/Interpolation.md",
-    "lecture notes/ME-2016 (python)/Numerical Integration.md",
-    "lecture notes/ISYE-3025 (economics)/Exam 1 Review.md",
-    "lecture notes/ISYE-3025 (economics)/7. Complicating Factors.md",
-    "lecture notes/ME-2016 (python)/Floating Point Math.md",
-    "lecture notes/ME-2016 (python)/Root Finding.md",
-    "lecture notes/ME-2016 (python)/Regression.md",
-    "lecture notes/ME-2016 (python)/Euler's Method.md",
-    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
-    "productivity/Night Check.md",
+    "productivity/School Tasks.md",
+    "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
+    "lecture notes/ISYE-3025 (economics)/9. Annual Cash Flow.md",
+    "lecture notes/ISYE-3025 (economics)/10. Rate of Return and Incremental Analyses.md",
+    "media/Pasted image 20250330183810.png",
+    "media/Pasted image 20250330182100.png",
+    "media/excalidraw/excalidraw-2024-11-21-14.14.21.excalidraw.md",
+    "independent study/neural networs/2. Gradient Descent.md",
     "private/Poor Spelling Words.md",
-    "lecture notes/ISYE-3025 (economics)/5. Single Payment.md",
-    "lecture notes/ISYE-3025 (economics)/6. Variable Payments.md",
-    "media/Pasted image 20250222122631.png",
-    "lecture notes/ISYE-3025 (economics)/2. Decision Making Process.md",
-    "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
-    "media/Pasted image 20250219183350.png",
-    "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
-    "lecture notes/ISYE-3025 (economics)/3. Engineering Costs & Estimates.md",
-    "1.md",
-    "media/excalidraw/excalidraw-2025-02-17-17.32.23.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-02-17-17.32.23.excalidraw.svg",
-    "media/Pasted image 20250217163155.png",
+    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
+    "media/Pasted image 20250314162252.png",
+    "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
+    "lecture notes/PHIL-3127 (philosophy)/The Question Concerning Technology.md",
+    "lecture notes/ME-2016 (python)/Numerical Integration.md",
+    "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.md",
+    "lecture notes/PHIL-3127 (philosophy)/Metaphorics of the Mighty Truth.md",
+    "lecture notes/PHIL-3127 (philosophy)/Spengler Decline of the West.md",
+    "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
+    "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.svg",
+    "lecture notes/PHIL-3127 (philosophy)/Superintelligence Fears, Promises and Potentials.md",
+    "lecture notes/PHIL-3127 (philosophy)/Quotes.md",
+    "README.md",
+    "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
+    "media/excalidraw/excalidraw-2025-03-10-09.53.51.excalidraw.svg",
+    "media/IMG_0301.jpg",
+    "media/excalidraw/excalidraw-2025-03-10-09.37.37.excalidraw.svg",
+    "media/Pasted image 20250309110738.png",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",

@@ -6,18 +6,27 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] PHIL-3127: Reading @{2025-02-27}
-- [ ] ISYE-3025: Quiz @{2025-03-08}
+- [ ] ECE-3710: Catch Up
+- [ ] ME-2016: Exam 2 Study
+- [ ] ISYE-3025: Quiz 10 @{2025-03-30}
+- [ ] APPH-1040: Reflection 3 @{2025-03-30}
+- [ ] PHIL-3127: Reading @{2025-04-03}
 
 
 ## In Progress
 
-- [ ] ECE-3710: Catch Up
-- [ ] ME-2016: HW 6 @{2025-03-04}
 
 
 ## Complete
 
+- [ ] ECE-3710: Exam 2 @{2025-03-14}
+- [ ] ECE-3710: HW Assignments
+- [ ] ME-2016: HW 7 @{2025-03-11}
+- [ ] APPH-1040: Quiz 2 @{2025-03-09}
+- [ ] PHIL-3127: Reading @{2025-03-10}
+- [ ] ISYE-3025: Quiz @{2025-03-08}
+- [ ] ME-2016: HW 6 @{2025-03-04}
+- [ ] ECE-3710: Catch Up
 - [ ] ME2016: HW 5 @{2025-02-18}
 - [ ] APPH-1040: Reflection 2 @{2025-03-02}
 
