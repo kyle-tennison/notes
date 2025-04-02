@@ -13,30 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
-                "mode": "preview",
-                "source": false
+                "file": "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2.3 Power and Transformers"
+              "title": "Ordinary Differential Equations"
             }
           },
           {
-            "id": "6b53e1a12e97e9a5",
+            "id": "217f9856c9965079",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
-                "bFile": "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
-                "aRef": ""
+                "file": "productivity/School Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2.3 Power and Transformers"
+              "icon": "lucide-trello",
+              "title": "School Tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Trapezoi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,23 +93,6 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "108ebf9867e5e419",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5a72b7c13a40200",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
         ]
       }
     ],
@@ -119,6 +106,7 @@
       {
         "id": "e9266d9815b96815",
         "type": "tabs",
+        "dimension": 51.216814159292035,
         "children": [
           {
             "id": "1e6da7bc1ed643d8",
@@ -210,10 +198,28 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "9542ba238383c760",
+        "type": "tabs",
+        "dimension": 48.783185840707965,
+        "children": [
+          {
+            "id": "f5a72b7c13a40200",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 350,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,18 +239,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b53e1a12e97e9a5",
+  "active": "d4f4942fc39f7df9",
   "lastOpenFiles": [
-    "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
+    "lecture notes/ME-2016 (python)/Regression.md",
+    "lecture notes/ME-2016 (python)/Numerical Integration.md",
+    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
+    "lecture notes/ME-2016 (python)/Spline Fitting.md",
+    "lecture notes/ME-2016 (python)/Interpolation.md",
     "lecture notes/ME-2016 (python)/Exam 2 Study.md",
+    "lecture notes/ME-2016 (python)/Floating Point Math.md",
+    "productivity/Morning Check.md",
+    "lecture notes/ME-2016 (python)/Euler's Method.md",
+    "productivity/Personal Tasks.md",
+    "productivity/School Tasks.md",
+    "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
+    "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
     "private/ansys/Stack-traced context.md",
     "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.md",
     "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.svg",
     "media/Pasted image 20250331165350.png",
-    "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
-    "productivity/School Tasks.md",
     "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
     "lecture notes/ISYE-3025 (economics)/9. Annual Cash Flow.md",
     "lecture notes/ISYE-3025 (economics)/10. Rate of Return and Incremental Analyses.md",
@@ -257,16 +270,9 @@
     "media/Pasted image 20250314162252.png",
     "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
     "lecture notes/PHIL-3127 (philosophy)/The Question Concerning Technology.md",
-    "lecture notes/ME-2016 (python)/Numerical Integration.md",
     "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.md",
     "lecture notes/PHIL-3127 (philosophy)/Metaphorics of the Mighty Truth.md",
-    "lecture notes/PHIL-3127 (philosophy)/Spengler Decline of the West.md",
-    "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
     "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.svg",
-    "lecture notes/PHIL-3127 (philosophy)/Superintelligence Fears, Promises and Potentials.md",
-    "lecture notes/PHIL-3127 (philosophy)/Quotes.md",
-    "README.md",
-    "lecture notes/PHIL-3127 (philosophy)/Moore's Law for Everything.md",
     "media/excalidraw/excalidraw-2025-03-10-09.53.51.excalidraw.svg",
     "media/IMG_0301.jpg",
     "media/excalidraw/excalidraw-2025-03-10-09.37.37.excalidraw.svg",

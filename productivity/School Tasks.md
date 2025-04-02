@@ -15,6 +15,8 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Submit ECE Lab
+- [ ] Email ME2016 professor
 
 
 ## Complete
