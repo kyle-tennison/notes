@@ -1,15 +1,16 @@
 ## Syllabus Notes
 
-Head TA is Rebecca Ho
+Head TA is Rebecca Ho  
 Course Manager is Aryan Tadwalkar
 
 ## Basic Properties
 - All numbers are doubles, including integers.
 - Booleans are called "logicals"; `true` and `false` (lowercase)
-- Chars are denoted with single parenthesis.
+- Chars are denoted with a single parenthesis.  
+> 🤖 (notecheck comment) - In MATLAB, characters are denoted with single quotes (e.g. 'a'), not parentheses.
 - Comments are...
-    -  `%` for single lines
-    - `%{ ... %}` for multi-lines
+    - `%` for single lines
+    - `%{ ... %}` for multi-line comments
 - You can clear the interactive console with `>>> clc`
 
 You *can* override a variable to a different type. For example, the following is valid:
@@ -20,8 +21,7 @@ test = 'f';
 fprintf("test is:" + test + "\n");
 ```
 
-
-Logical Operators in matlab are:
+Logical Operators in MATLAB are:
 - `&` and
 - `|` or
 - `~=` not equal
@@ -34,15 +34,15 @@ Logical Operators in matlab are:
 - `./` division
 - `.^` exponentiation
 
-> you need to include the `.` prefix to prevent matlab from using matrix operations.
+> You need to include the `.` prefix to prevent MATLAB from using matrix operations.
 
-Variable names follow the same rules as python and most other languages.
+Variable names follow the same rules as Python and most other languages.
 
 ## Functions
 
 ### Function Header
 
-The syntax for a matlab function is:
+The syntax for a MATLAB function is:
 ```matlab
 function out = myFunction(arg1, arg2)
 	out = arg1 + arg2;
@@ -59,7 +59,7 @@ fn myFunction(arg1: f32, arg2: f32) -> f32 {
 }
 ```
 
-> Notice that we don't need an out variable in other languages; this is a matlab quirk.
+> Notice that we don't need an out variable in other languages; this is a MATLAB quirk.
 
 If you want to **return multiple values** from a function, you can use the following syntax:
 
@@ -83,7 +83,7 @@ If you want to return no values, there are two ways:
 
 ## Command Suppressions
 
-If you run an assignment without a semicolon, matlab will print the assignment to the console. There is no programatic difference, only a change in output.
+If you run an assignment without a semicolon, MATLAB will print the assignment to the console. There is no programmatic difference, only a change in output.
 
 ```
 >> test = 3
@@ -107,4 +107,3 @@ ans =
 
    1
 ```
-'

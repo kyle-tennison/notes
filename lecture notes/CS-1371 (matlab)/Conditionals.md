@@ -1,23 +1,23 @@
 ```matlab
 name = 'Kantwon';
 
-if name == 'Kantwon' %all([t t t t t t t]) --> true
+if name == 'Kantwon' % all([t t t t t t t]) --> true
     out = 'cool';
 else
     out = 'not cool';
 end
 
-%out would be 'cool'
+% out would be 'cool'
 
 name = 'kantwon';
 
-if name == 'Kantwon' %all([f t t t t t t]) --> false
+if name == 'Kantwon' % all([f t t t t t t]) --> false
     out = 'cool';
 else
     out = 'not cool';
 end
 
-%out would be 'not cool'
+% out would be 'not cool'
 ```
 
 
@@ -37,19 +37,19 @@ end
 ```matlab
 function out = calcLetterGrade(num)
 	
-	if num>=90
+	if num >= 90
 		letGrade = 'A'
-	elseif num>=80
+	elseif num >= 80
 		letGrade = 'B'
-	elseif num>=70
+	elseif num >= 70
 		letGrade = 'C'
-	elseif num>=60
+	elseif num >= 60
 		letGrade = 'D'
 	else
 		letGrade = 'F'
 	end
 	
-	out = sprintf('Your numerical grade is %d which is the letter grade %s',num,letGrade)
+	out = sprintf('Your numerical grade is %d which is the letter grade %s', num, letGrade)
 
 end
 ```
@@ -57,18 +57,18 @@ end
 ```matlab
 %% Basic Syntax
 
-switch var %this variable/value CAN'T be a vector of numbers. However, a string is ok.
+switch var % this variable/value CAN'T be a vector of numbers. However, a string is ok.
 
-	case {thing1, thing2} %if you have multiple things you are checking you have to put them in {}
+	case {thing1, thing2} % if you have multiple things you are checking, you have to put them in {}
 		DO STUFF
 	
-	case thing3 %if you only have one thing then the {} are optional
+	case thing3 % if you only have one thing, then the {} are optional
 		DO STUFF
 	
-	%you can have as many 'case' as you want
+	% you can have as many 'case' as you want
 end
 ```
 
 ### Short Circuiting
-`&` and `&&` do the same thing, except if the LHS evaulates to false, then the RHS won't evaluate at all if using `&&`. Using `&` will require both sides to evaulate.
+`&` and `&&` do the same thing, except if the LHS evaluates to false, then the RHS won't evaluate at all when using `&&`. In contrast, using `&` will require both sides to evaluate.
 The same is true with `|` vs `||`.

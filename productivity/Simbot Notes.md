@@ -4,7 +4,6 @@
 
 Before anything, make sure you're in the simbot venv.
 
-
 ##### `just debug`
 
 If you get something like:

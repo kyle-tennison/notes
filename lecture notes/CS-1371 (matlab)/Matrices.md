@@ -1,5 +1,5 @@
 ## Basics
-You can concat row vectors horizontally with `[vec1 vec2]`.
+You can concatenate row vectors horizontally with `[vec1 vec2]`.
 You can create a matrix by using `;` to delineate new lines:
 `mat = [1 2 3; 4 5 6; 7 8 9]`
 ```
@@ -10,11 +10,11 @@ mat =
      7     8     9
 ```
 
-You can perform element-wise oprations with `+ - .* ./`, along with matrix operations `* /`.
+You can perform element-wise operations with `+ - .* ./`, along with matrix operations `* /`.
 
-You can concat row vectors (stack them) into a matrix:
+You can concatenate row vectors (stack them) into a matrix:
 `mat = [vec1; vec2]`
-> These vectors must be the same length, otherwise it will error
+> These vectors must be the same length; otherwise, it will produce an error.
 
 You can transpose a matrix `mat` by adding an apostrophe `mat'`.
 
@@ -52,13 +52,15 @@ nine = arr(end, end)
 
 ```
 
-You can linearize a matrix (basically stack all columns on top of each other to create a big col vec), then index it with only one index.
+You can linearize a matrix (basically stack all columns on top of each other to create a large column vector), then index it with only one index.
 ```matlab
 vecform = arr(1:end)
 vecform = arr(:) % produce the same result
 ```
 
->. `1:end`  creates a horizontal vector, but `:` will create a column vector
+>. `1:end` creates a horizontal vector, but `:` will create a column vector
+
+> 🤖 (notecheck comment) - In single index referencing, arr(1:end) also produces a column vector. Both calls yield the same shape in MATLAB, so it’s not correct to say that “1:end” creates a horizontal vector.
 
 In fact, you don't have to actually index this matrix; you can directly try to reference it:
 ```matlab
@@ -66,4 +68,3 @@ In fact, you don't have to actually index this matrix; you can directly try to r
 nine = arr(6)
 nine = arr(end)
 ```
-

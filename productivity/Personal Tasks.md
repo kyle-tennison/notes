@@ -1,5 +1,4 @@
 ---
-
 kanban-plugin: board
 
 ---
@@ -36,8 +35,8 @@ kanban-plugin: board
 - [ ] Return coffee machine
 - [ ] Airfare for Spring Break
 - [ ] ECE Parts Kit
-- [ ] ra events
-- [ ] piercing appointment
+- [ ] RA events
+- [ ] Piercing Appointment
 - [ ] Ansys Food
 - [ ] GTSR Research Compilation
 - [ ] Haircut

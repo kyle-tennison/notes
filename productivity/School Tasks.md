@@ -16,7 +16,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Submit ECE Lab
-- [ ] Email ME2016 professor
+- [ ] Email ME-2016 Professor
 
 
 ## Complete
@@ -51,7 +51,7 @@ kanban-plugin: board
 - [ ] ME-2016: HW 4 @{2025-02-11}
 - [ ] ISYE-3025: Module 5 Quiz @{2025-02-09}
 - [ ] ME 2016: HW 3 @{2025-02-04}
-- [ ] APPH 1040: Case Study
+- [ ] APPH-1040: Case Study
 - [ ] APPH 1040: Reflection 1 @{2025-02-03}
 - [ ] ECE 3710: 3.1 - 3.5
 - [ ] ISYE: Module 3 Quiz @{2025-02-02}
@@ -60,7 +60,7 @@ kanban-plugin: board
 - [ ] Study for MSE
 - [ ] Statics Bonus Assignments @{2024-12-03}
 - [ ] Study for Thermo
-- [ ] Copy statics HW
+- [ ] Copy Statics HW
 - [ ] UC Applications
 - [ ] Statics HW 10 @{2024-12-02}
 - [ ] MSE-2001 HW 10 @{2024-11-16}
@@ -69,27 +69,28 @@ kanban-plugin: board
 - [ ] ME-3322 HW 9 @{2024-11-10}
 - [ ] CS-1371 HW 8 @{2024-11-04}
 - [ ] COE-2001 HW 8 @{2024-11-10}
-- [ ] CS 1371 @{2024-11-13}
+- [ ] CS-1371 @{2024-11-13}
 - [ ] INTA-1200 Paper
 - [ ] Study for Statics Exam
 - [ ] Check CS Grade
 - [ ] ME-2016: Homework 1 @{2025-01-14}
-- [ ] ECE_3710: Lab 0 @{2025-01-09}
+- [ ] ECE-3710: Lab 0 @{2025-01-09}
 - [ ] APPH-1040: Wellness reports
 - [ ] ME-2110: Paper tower report @{2025-01-14}
-- [ ] ISYE-3025: Module 2 reading
+- [ ] ISYE-3025: Module 2 Reading
 - [ ] PHIL-3127: Reflection 1 @{2025-01-13}
-- [ ] PHIL-2137: Mind map 1
+- [ ] PHIL-2137: Mind Map 1
 - [ ] ECE-3710: Module 1 Lectures
 - [ ] ME-2110: Report @{2025-01-21}
 - [ ] ME-2110: Presentation @{2025-01-23}
 - [ ] ECE-3710: Lab Turn in
 - [ ] ME-2110: Peer Review @{2025-01-21}
 - [ ] ME-2110: HW 1 @{2025-01-13}
-- [ ] ISYE-3025: Module 2 quiz @{2025-01-18}
+- [ ] ISYE-3025: Module 2 Quiz
 
 %% kanban:settings
 ```
 {"kanban-plugin":"board","list-collapse":[false,false]}
 ```
-%%
+
+> 🤖 (notecheck comment) - The item “ECE-3710: Catch Up” appears in both “Backlog” and “Complete,” which is contradictory for the same task. Consider removing or clarifying the duplication.

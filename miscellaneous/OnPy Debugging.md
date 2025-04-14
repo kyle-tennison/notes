@@ -1,9 +1,6 @@
 # OnPy Debugging
 
-
-Response from `https://cad.onshape.com/api/v10/documents/d/e4e1c6e187a1e19d9bbe9ecb/w/ebce6e23f81f69779816e8ca/elements
-
-
+Response from `https://cad.onshape.com/api/v10/documents/d/e4e1c6e187a1e19d9bbe9ecb/w/ebce6e23f81f69779816e8ca/elements`
 
 ```json
 [
@@ -70,13 +67,12 @@ Response from `https://cad.onshape.com/api/v10/documents/d/e4e1c6e187a1e19d9bbe9
 ]
 ```
 
-Target partstuido `178ecee86dc1c9fc3d1ed888`:
-
+Target part studio `178ecee86dc1c9fc3d1ed888`:
 
 Response from calling:
 
 ```
-https://cad.onshape.com/api/v10/partstudios/d/e4e1c6e187a1e19d9bbe9ecb/w/ebce6e23f81f69779816e8ca/e/178ecee86dc1c9fc3d1ed888/features`
+https://cad.onshape.com/api/v10/partstudios/d/e4e1c6e187a1e19d9bbe9ecb/w/ebce6e23f81f69779816e8ca/e/178ecee86dc1c9fc3d1ed888/features
 ```
 
 ```json
@@ -182,7 +178,7 @@ https://cad.onshape.com/api/v10/partstudios/d/e4e1c6e187a1e19d9bbe9ecb/w/ebce6e2
       "featureType": "newSketch",
       "returnAfterSubfeatures": false,
       "subFeatures": []
-    }`
+    }
   ],
   "sourceMicroversion": "490c311ed1af49bb5ff33227",
   "microversionSkew": false,
@@ -276,4 +272,3 @@ https://cad.onshape.com/api/v10/partstudios/d/e4e1c6e187a1e19d9bbe9ecb/w/ebce6e2
   ]
 }
 ```
-

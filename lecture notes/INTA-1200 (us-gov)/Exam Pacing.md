@@ -15,12 +15,12 @@ Left to do:
 
 Exam 1 is on **September 17**
 
-- [x] 9/12/23 – Executive 2
-- [x] 9/13/23 - Federalist #15
-- [x] 9/14/23 - Federalist #51
-- [x] 9/15/23 - The power to persuade
-- [x] 9/16/23 - The Bureaucracy I
-- [x] 9/16/23 - The Bureaucracy II
-- [x] 9/17/23 - Judicial I
-- [x] 9/17/23 - Judicial II
-- [x] 9/17/23 - Judicial III
+- [x] 9/12/23 – Executive 2
+- [x] 9/13/23 – Federalist #15
+- [x] 9/14/23 – Federalist #51
+- [x] 9/15/23 – The Power to Persuade
+- [x] 9/16/23 – The Bureaucracy I
+- [x] 9/16/23 – The Bureaucracy II
+- [x] 9/17/23 – Judicial I
+- [x] 9/17/23 – Judicial II
+- [x] 9/17/23 – Judicial III

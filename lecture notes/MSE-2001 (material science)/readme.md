@@ -1,4 +1,3 @@
 # readme
 
-
-this class is a load of shit don't trust any of these notes
+This class is a load of shit. Don't trust any of these notes.

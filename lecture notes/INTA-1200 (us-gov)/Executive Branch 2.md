@@ -1,66 +1,68 @@
 Today's presidency
 - Formal and Informal Powers
 - Head of their major political party
-	- Influence other leaders
+	- Influences other leaders
 	- Informal power
 	- Much more powerful today than before
-	- Took advantage of vauge powers
+	- Takes advantage of vague powers
 - Enumerated powers
-	- Formally given to president
-	- Stuff like the ability to act as the commander and chief
+	- Formally given to the president
+	- Such as the ability to act as Commander in Chief
 - Veto
-	- President can veto a bill
-	- 2/3 vote can overrule
-	- Pocket veto is when the president doesn't sign it off
-	- The threat of a veto can alter the format of a bill until they approve of it
-	- Even though they seldom use it, it's still very powerful
+	- The president can veto a bill
+	- A 2/3 vote can overrule
+	- A pocket veto occurs when the president does not sign a bill
+	- The threat of a veto can alter the format of a bill until it is approved
+	- Even though it is seldom used, it is still very powerful
 - Appointments
-	- Can appoint people to executive branches
+	- Can appoint people to the executive branch
 	- Can appoint to courts
-	- Senate can reject an appointment
+	- The Senate can reject an appointment
 	- Often given as awards to people who helped with the campaign
-	- Appointments to the judicial branch allows presidents to leave a lasting change, longer than the president's term.
+	- Appointments to the judicial branch allow presidents to leave a lasting change that lasts longer than the president's term.
 - Executive Orders
-	- Bypass congress
+	- Bypass Congress
 	- Have become more powerful with time
-	- Used during war. You can pass stuff a lot faster.
-	- There are rules, you can't overstep
-		- The truman steel mill was found to be unconstitutional; it overstepped.
-		- If 1/3 of congress will NOT challenge the order, you can effectively pass bills without congress's approval
+	- Used during war, allowing bills to be passed faster.
+	- There are rules; you cannot overstep.
+		- The Truman Steel Mill was found to be unconstitutional; it overstepped.
+		- If 1/3 of Congress does not challenge the order, you can effectively pass bills without Congress's approval.
+> 🤖 (notecheck comment) - The statement about “1/3 of Congress” is incorrect; there is no valid mechanism by which an executive order requires only the lack of challenge by one-third of Congress to stand. The Constitution does not provide for a “one-third” standard. The legislative veto mechanism was ruled unconstitutional in 1983, and legislative action typically requires a majority (or supermajority if overriding a veto).
 - Executive Agreements and Signing Statements
-	- Between US and other countries
-	- Similar to treaties, just a little weaker.
-	- Treaties need senate approval, these don't.
+	- Between the US and other countries
+	- Similar to treaties, though slightly weaker.
+	- Treaties need Senate approval; these do not.
 	- Signing Statements are the president's interpretation of a bill.
 - Administrative and Financial Resources
 	- Different agencies are created by presidents
-		- Department of homeland security (Bush)
+		- Department of Homeland Security (Bush)
 		- Space Force (Trump)
 	- White House Staff
-		- Serve to the president; not controlled by congress
+		- Serve the president; are not controlled by Congress
 		- Manage presidential duties
-		- Strategists, spokesperson
+		- Include strategists and spokespersons
 	- Executive Office of the President (EOP)
 		- "Nerve center of the presidency"
 		- Provides expertise to the president
-		- Some parts of the EOP (OMB) stay in place from president to president.
-			- These are legislative and exist by congress
-			- Senate must approve people  
+		- Some parts of the EOP (such as the OMB) stay in place from president to president.
+			- These are legislative and exist by Congress
+			- The Senate must approve people  
 			- OMB stands for Office of Management and Budget
 		- Most parts can be controlled by the president
 	- Vice Presidency
-		- The 2nd place in the election used to be the vice president
-		- Now they are elected as a team
-		- Must come from a different state from the president
-		- Vice president didn't really do much except for political appeal, but now that's changed.
-		- Vice president needs to keep up with what the president is doing
+		- The second place in the election used to be the vice president
+		- Now, they are elected as a team
+		- Must come from a different state than the president
+		- The vice president did not really do much except provide political appeal, but now that has changed.
+		- The vice president needs to keep up with what the president is doing
 		- They are a key advisor to the president.
-		- They cast high-ranking votes in the senate
+		- They cast high-ranking votes in the Senate
 		- Much more active in recent eras, since WWII
 - Is the presidency too powerful?
 	- Some people say it is. "Leader of the free world."
 	- Congress can withhold money from presidential policies 
 	- Impeachment is for treason.
+> 🤖 (notecheck comment) - The Constitution states that impeachment can be used for "Treason, Bribery, or other high Crimes and Misdemeanors," not only treason.
 		- Less powerful than intended.
 		- Turned into a political tool.
 		- Nobody has actually been removed from office.

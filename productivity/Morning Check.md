@@ -24,10 +24,7 @@ For daily activities
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**
 
-
-Check and modify the calendar. After checking **Done**, oblige yourself to follow the day you have planned. Don't make any changes unless absolutely necessary.
-
-
+Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 
 *Reset checks:*
 ```python

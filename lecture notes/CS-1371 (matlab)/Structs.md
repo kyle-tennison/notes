@@ -9,7 +9,7 @@
 You can access an attribute by its string variable with:
 ```matlab
 carInstance = struct('make', 'toyota', 'topSpeed', 120)
-carInstance.('make') % toyota, you can put anything that will evaluate to a str
+carInstance.('make') % toyota, you can put anything that will evaluate to a string
 carInstance.make % exact same
 ```
 
@@ -39,7 +39,7 @@ st =
 
 #### Removing Attributes
 
-You can **remove a field/attribute** with the `rmfield`. This creates **a copy** of the structure with the attribute removed.
+You can **remove a field/attribute** with the `rmfield` function. This creates **a copy** of the structure with the attribute removed.
 ```matlab
 >>> carInstance = struct('make', 'toyota', 'topSpeed', 120)
 >>> carInstance2 = rmfield(carInstance, 'make')
@@ -66,14 +66,11 @@ ans =
 
 The size of one of these structures is 1x1. 
 
-
 ### Dynamic Checks
 
-You can use `isfield(st, 'fieldname');` to check if a field exists on a struct. This just like `hasattr` in Python.
+You can use `isfield(st, 'fieldname');` to check if a field exists on a struct. This is just like `hasattr` in Python.
 
 You can use `isstruct(st)` to check if a value is of type struct.
-
-
 
 ### Sized Structures 
 You can make a structure with multiple dimensions by providing a cell array as an argument.
@@ -82,13 +79,13 @@ You can make a structure with multiple dimensions by providing a cell array as a
 inst = struct('name', {'John', 'Jim', 'Jake'}, 'age', {23, 31, 19})
 ```
 
-The size of this cell array would be `1x3`. You will get an error if the dimensions do not match. For example, *the following will error*:
+The size of this cell array would be `1x3`. You will get an error if the dimensions do not match. For example, the following will produce an error:
 
 ```matlab
 inst = struct('name', {'John', 'Jim', 'Jake'}, 'age', {23, 19})
 ```
 
-^ The dimensions of the name field does not mage the age field. The only *exception* is if the field points to a `1x1`; in this case, it is ok if the dimensions do not match because the value is applied to every instance. The example below is indeed valid, although dimensions are mismatched:
+^ The dimensions of the name field do not match the age field. The only *exception* is if the field points to a `1x1`; in this case, it is okay if the dimensions do not match because the value is applied to every instance. The example below is indeed valid, although dimensions are mismatched:
 ```matlab
 inst = struct('name', {'John', 'Jim', 'Jake'}, 'age', 19)
 ```
@@ -109,7 +106,7 @@ ans =
      age: 19
 ```
 
-If you were to add a new attribute to one of the sub-structures in a multidimensional, a default attribute of value `[]` would be added to all other instances:
+If you were to add a new attribute to one of the sub-structures in a multidimensional structure, a default attribute with the value `[]` would be added to all other instances:
 ```matlab
 >> inst(1).race = 'latino'
 >> inst(1)
@@ -131,11 +128,11 @@ ans =
 
 Similarly, if you remove a field from one instance, it will be removed from all other instances.
 
-> My use of the word "instance" isn't great here, but I'm referring to indices of the bigger struct.
+> My use of the word "instance" isn't ideal here, but I'm referring to indices of the larger struct.
 
 #### Quirks
 
-If you **try to index an attribute of the entire structure array**, you would get a 1x1 *of the first attribute*, instead of a list of everything:
+If you **try to index an attribute of the entire structure array**, you would get a 1x1 value of the first attribute instead of a list of everything:
 ```matlab
 >> st = struct('name', {'hello' , 'world'})
 
@@ -184,17 +181,18 @@ big =
 
 ### `dir` function
 
-The dir function is a matlab builtin that gets info about a directory; if no arguments are provided, it will target the cwd. This function returns a structure array. 
+The dir function is a MATLAB built-in that gets information about a directory; if no arguments are provided, it will target the current working directory. This function returns a structure array. 
 
 You can collect a cell array from struct attributes all at once using the following syntax:
 
 ```matlab
-names = {dir(3:end).names} % these curly brakcets are necessary
+names = {dir(3:end).names} % these curly brackets are necessary
 ```
+> 🤖 (notecheck comment) - The field in the structure returned by "dir" is "name", not "names". The correct usage is: {dir(3:end).name}.
 
 ## Manually Constructing Structures
 
-If you assign a value to an attribute of an undefined function, matlab will define that value as an empty struct, then add the corresponding attribute
+If you assign a value to an attribute of an undefined function, MATLAB will define that value as an empty struct and then add the corresponding attribute
 
 ```matlab
 % nothing above this

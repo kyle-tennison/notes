@@ -1,9 +1,9 @@
 # Beams
 Beams are members that specifically *resist bending*. Their loads are typically applied perpendicular to their longitudinal axis.
 
-Many beam problems will be statically indeterminant, so it's important to look at the number of knowns versus the number of unknowns. 
+Many beam problems will be statically indeterminate, so it's important to look at the number of knowns versus the number of unknowns. 
 
-> In case I forget, statically determinant means $n_{reactions}-n_{equations}=0$ 
+> In case I forget, statically determinate means $n_{reactions}-n_{equations}=0$ 
 
 ## Distributed Loads
 
@@ -54,11 +54,11 @@ Now, if you were to plot shear over $x$, you would know that its slope must be e
 
 $$\int \limits_{V_0}^V dV=-\int\limits_{x_0}^xw\ dx$$
 
-where $V_0$ is the shear force at $x_0$, which is requisite to evaluate the definite integral.
+where $V_0$ is the shear force at $x_0$, which is required to evaluate the definite integral.
 
 Next, if we *sum the moments* about a point on the element:
 
-$$\sum M=M+(w\ dx)(\frac{dx}2)+(V+dV)(dx)-(M+dM)=0$$
+$$\sum M=M+(w\ dx)\left(\frac{dx}{2}\right)+(V+dV)(dx)-(M+dM)=0$$
 
 Simplifying yields:
 
@@ -76,7 +76,7 @@ where $M_0$ is the bending moment at $x_0$.
 
 ### Tricks
 
-God im literally citing chatgpt but, it looks like, for a point load, the change in shear is equal to the magnitude of that point load.
+God, I'm literally citing ChatGPT, but it looks like for a point load, the change in shear is equal to the magnitude of that point load.
 
 For instance,
 ![|411](../../media/Pasted%20image%2020241115105719.webp)

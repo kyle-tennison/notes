@@ -20,7 +20,6 @@
   legend('Sine Curve');               % Add legend
   ```
 
-
 The pattern for plot style follows `{color} {linetype} {marker type}`. 
 
 For example,
@@ -32,19 +31,17 @@ The *line options* are:
 - `:` dotted
 - `-.` dashdot
 - `--` dashed
--  leave empty for no line
+- leave empty for no line
 
 The *marker options* are:
 - `.` point
 - `o` circle
 - `x` x-mark
 - `+` plus
-- `*` start
+- `*` star
 - `s` square
 - `d` diamond
 - `p` pentagram
-
-
 
 ### Multiple Plots in the Same Graph
 To plot multiple lines on the same graph, you can use the `plot` function with multiple `x, y` pairs:
@@ -69,6 +66,7 @@ If you want multiple plots in one figure window, you can use the `subplot` funct
 You effectively select the subplot, then run commands that will automatically map to that subplot.
 
 If you want to make an axis square, you can run the `axis square;` command.
+
 ### 3D Plots
 MATLAB supports 3D plotting as well. Common types are surface plots, mesh plots, and 3D line plots.
 
@@ -106,4 +104,3 @@ hold on;          % Retain the current plot, so the next plot overlays it
 plot(x, y2, 'g+', 'MarkerSize', 10);
 hold off;         % Turn off hold
 ```
-

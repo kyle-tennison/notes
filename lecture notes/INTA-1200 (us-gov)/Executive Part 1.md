@@ -1,43 +1,42 @@
 Sources of presidential power
-- From the constitution (explicit and implicit)
-- Reputation from being the one leader
-- The congenital congress was too weak and needed a stronger executive power
+- From the Constitution (explicit and implicit)
+- Reputation for being the one leader
+- Congress was too weak and needed a stronger executive
 - Primary role in wars and foreign affairs
 	- Ability to manage treaties 
-	- Commander and chief of armed forces
+	- Commander in chief of the armed forces
 - Congress imagined the president would be benevolent and would rise above normal politics.
-	- This was set by George Washington's rule
-	- Figured that most stuff would be left to congress
-	- Left powers vague 
-- Primary solver of collective dilemmas 
+	- This was set by George Washington's rule.
+	- It was figured that most things would be left to Congress.
+	- Powers were left vague.
+- Primary solver of collective dilemmas.
 
 Shaping modern presidency
 - In the 19th century...
-	- The president became the voice of the people
-	- The president started to look much more powerful after Abraham Lincon
-	- Spolis System
-		- Reward loyal partisans with government positions
-		- Still survives to this day
-		- If you are a close supporter of the campaign, you get a seat somewhere
-		- Fill government jobs with party supporters
-	- Eventually, presidential power has grown with support from other branches
-- Presidents are now the face of the political party
-- Congress members can boost their polls by aligning with a popular party
+	- The president became the voice of the people.
+	- The president started to look much more powerful after Abraham Lincoln.
+	- Spoils System:
+		- Reward loyal partisans with government positions.
+		- Still survives to this day.
+		- If you are a close supporter of the campaign, you get a seat somewhere.
+		- Fill government jobs with party supporters.
+	- Eventually, presidential power has grown with support from other branches.
+- Presidents are now the face of the political party.
+- Congress members can boost their polls by aligning with a popular party.
 - In the 20th & 21st centuries...
-	- Presidents became much more populist
-	- They started campaigning for re-election during office
-	- Respond directly to the citizens much more than before, are very concerned/constrained with appealing personally to citizens
+	- Presidents became much more populist.
+	- They started campaigning for re-election while in office.
+	- They respond directly to citizens much more than before and are very concerned with appealing personally to voters.
 - Influential presidents:
 	- Theodore Roosevelt
-		- **Bully pulpit** – ??
-		- Very energetic, very popular
+		- Bully pulpit – ??
+		- Very energetic, very popular.
 	- Woodrow Wilson
-		- Made the president much more populus
-		- Helped foreign countries after WW1
-		- Made the president a major voice in international politics 
+		- Made the presidency much more populist.
+		- Helped foreign countries after WWI.
+		- Made the president a major voice in international politics.
 	- Franklin D Roosevelt
-		- Served 3 full terms, some of a fourth term (died in the mittle)
-		- Gave Executive branch more power than ever
-		- Overhaul in how national government operated in america,
-			- Stuff like social security
-			- 
+		- Served 3 full terms, part of a fourth term (died in the middle).
+		- Gave the Executive branch more power than ever.
+		- Overhauled how the national government operated in America,
+			- Stuff like Social Security.

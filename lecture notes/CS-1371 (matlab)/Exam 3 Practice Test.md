@@ -2,7 +2,7 @@
 
 ## Problem 1
 
-Iterate through all the liens in the file.
+Iterate through all the lines in the file.
 ```txt
 
 	lastWord = TimeWaited, 
@@ -58,7 +58,7 @@ function out = remakeImage(filename)
 	img = imread(filename)
 	img = imresize(img, [500, 1000])
 
-	% replace the otp left quadrant with the transposed right half
+	% replace the top left quadrant with the transposed right half
 	right_transpose = img(:, end/2+1:end, :)'
 	right_transpose = imresize(right_transpose, [250, 500])
 
@@ -86,3 +86,4 @@ end
 
 
 ```
+> 🤖 (notecheck comment) - The code checks for R=255 and G=255 (which is yellow), not magenta. Magenta is typically R=255, G=0, B=255. Make sure your mask checks for the correct channel values for magenta.

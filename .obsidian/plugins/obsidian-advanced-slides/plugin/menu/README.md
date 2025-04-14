@@ -40,7 +40,7 @@ Add the plugin to your presentation, as below.
 
 ### Manual
 
-Copy this repository into the plugins folder of your reveal.js presentation, ie `plugins/menu`.
+Copy this repository into the plugins folder of your reveal.js presentation, i.e. `plugins/menu`.
 
 Add the plugin to the dependencies in your presentation, as below.
 
@@ -181,7 +181,7 @@ Reveal.initialize({
     // If 'true' the menu will be shown when the menu is initialised.
     openOnInit: false,
 
-    // By default the menu will load it's own font-awesome library
+    // By default the menu will load its own font-awesome library
     // icons. If your presentation needs to load a different
     // font-awesome library the 'loadIcons' option can be set to false
     // and the menu will not attempt to load the font-awesome library.
@@ -198,7 +198,7 @@ If you are using the themes panel you need to ensure the theme stylesheet in the
 <link rel="stylesheet" href="css/theme/black.css" id="theme" />
 ```
 
-If your themes configuration includes code highlight themes you need to ensure the highlights theme stylesheet in the presentation uses the `id="highlight-theme"` attribute. For example...
+If your themes configuration includes code highlight themes you need to ensure the highlight theme stylesheet in the presentation uses the `id="highlight-theme"` attribute. For example...
 
 ```html
 <link
@@ -214,7 +214,7 @@ The slide titles used in the menu can be supplied explicitly or are taken direct
 
 ###### 1. The section's `data-menu-title` attribute.
 
-If the slide's section element contains a `data-menu-title` attribute this will be used for the slide title in the menu. For example...
+If the slide's section element contains a `data-menu-title` attribute, this will be used for the slide title in the menu. For example...
 
 ```html
 <section data-menu-title="Custom Menu Title">
@@ -225,7 +225,7 @@ If the slide's section element contains a `data-menu-title` attribute this will 
 
 ###### 2. Any element with the class `menu-title`.
 
-If the slide's section contains an element with the class `menu-title` then the element's text will be used for the title. The first such element found will be used if there are more than one. Note the element need not be displayed to be used. For example...
+If the slide's section contains an element with the class `menu-title`, then the element's text will be used for the title. The first such element found will be used if there is more than one. Note the element need not be displayed to be used. For example...
 
 ```html
 <section>
@@ -237,7 +237,7 @@ If the slide's section contains an element with the class `menu-title` then the 
 
 ###### 3. The first heading found or a custom element selector
 
-The `titleSelector` option can be used to customise the elements that will be used to generate the slide titles in the menu. The default option selects the first heading element found in the slide. For example...
+The `titleSelector` option can be used to customize the elements that will be used to generate the slide titles in the menu. The default option selects the first heading element found in the slide. For example...
 
 ```html
 <section>
@@ -247,7 +247,7 @@ The `titleSelector` option can be used to customise the elements that will be us
 </section>
 ```
 
-Any valid CSS selector should work but note the selector will only be applied to elements contained within the slide section. You could use the `'h1'` selector to only use level 1 headings or `'p'` to use the first paragraph element. For example, `titleSelector: 'p.lead'` would be used like this...
+Any valid CSS selector should work, but note that the selector will only be applied to elements contained within the slide section. You could use the `'h1'` selector to only use level 1 headings or `'p'` to use the first paragraph element. For example, `titleSelector: 'p.lead'` would be used like this...
 
 ```html
 <section>
@@ -273,7 +273,7 @@ If the `hideMissingTitles` option is set to `true`, however, the slide will not 
 
 ## Custom Menu Panels
 
-Additional custom panels can be added the menu using the `custom` option.
+Additional custom panels can be added to the menu using the `custom` option.
 
 ```javascript
 Reveal.initialize({
@@ -300,8 +300,8 @@ Reveal.initialize({
 
 `title` and `icon` are used for the toolbar buttons at the top of the menu. There are two approaches you can use to provide content for the panels...
 
-- You can provide a URL in `src` to load html from another file.
-- Alternatively, you can provide html in `content` and this will be added to the custom panel.
+- You can provide a URL in `src` to load HTML from another file.
+- Alternatively, you can provide HTML in `content` and this will be added to the custom panel.
 
 ###### Custom slide menu items
 
@@ -329,7 +329,7 @@ You are not limited to linking to presentation slides. You can provide any link 
 </ul>
 ```
 
-Using menu items enables keyboard navigation of your links as with the other panels. However, you don't have to use menu items for your links. You can simply provide standard links and unordered lists in your html. Notice you can provide your custom menu items mixed with other html if you wish.
+Using menu items enables keyboard navigation of your links as with the other panels. However, you don't have to use menu items for your links. You can simply provide standard links and unordered lists in your HTML. Notice you can provide your custom menu items mixed with other HTML if you wish.
 
 ## Ready Event
 
@@ -347,9 +347,9 @@ The `RevealMenu` object exposes a JavaScript API for controlling the menu:
 
 | Function                | Description                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------ |
-| toggle(event)           | Toggles the open state of the menu, ie open if it is closed, and close if it is open                         |
+| toggle(event)           | Toggles the open state of the menu, i.e. open if it is closed, and close if it is open                       |
 | openMenu(event)         | Opens the menu                                                                                               |
-| closeMenu(event, force) | Closes the menu. To force the menu to close (ie when `sticky` option is `true`) call `closeMenu(null, true)` |
+| closeMenu(event, force) | Closes the menu. To force the menu to close (i.e. when `sticky` option is `true`) call `closeMenu(null, true)` |
 | openPanel(event, ref)   | Opens the menu to a specific panel, passing the name of the panel or the panel element itself                |
 | isOpen()                | Returns true if the menu is open                                                                             |
 | initialiseMenu()        | Initialises the menu if it has not already been initialised. Used in conjunction with the `delayInit` option |

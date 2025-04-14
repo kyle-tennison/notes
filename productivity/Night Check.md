@@ -14,9 +14,7 @@ Getting ready for the next day
 - [x] Fill out [Daily Habits](https://app.dailyhabits.xyz)
 - [x] Journal
 
-
-
 *Reset checks:*
 ```python
-os.system("sed -i '' 's/\\[x\\]/[ ]/g' \"productivity/Night Check.md\"")
+os.system("sed -i '' 's/\[x\]/[ ]/g' \"productivity/Night Check.md\"")
 ```

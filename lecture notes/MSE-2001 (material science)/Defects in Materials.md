@@ -2,21 +2,21 @@
 
 There are different dimensions of the defects to consider:
 - Point Defects (0-D)
-	- Small vacancies in a lattice/crystal. 
+	- Small vacancies in a lattice or crystal.
 	- ![](../../media/Pasted%20image%2020241112093638.webp)
 - Linear Defects (1-D)
-	- Edge dislocations, where a line/plane of atoms are misplaced.
+	- Edge dislocations, where a line or plane of atoms is misplaced.
 	- ![](../../media/excalidraw/excalidraw-2024-11-12-09.37.46.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-12-09.37.46.excalidraw.md)%%
 - Planar Defects (2-D)
-	- Boundaries misplaced, stacking fault
+	- Misplaced boundaries, stacking faults
 	- ![](../../media/Pasted%20image%2020241112093855.webp)
 - Volume Defects (3-D)
 	- Pores, cracks, inclusions, etc.
 
 Generally, it takes energy to form a defect; the potential energy of the material is higher with defects than without defects.
 
-The surface of a material, where the repeating units are broken, are good examples of defects. All materials have some amount of defects.
+The surface of a material, where the repeating units are broken, is a good example of a defect. All materials have some amount of defects.
 
 ## Vacancy Formation
 
@@ -30,20 +30,20 @@ where:
 - $T$ is temperature
 - $dS_{vac}$ is the change in entropy per vacancy formation
 
-If $dG_{vac}$ is positive, vacancies will not form spontaneously; however, if it's negative, it will form spontaneously. So, a higher $dS$ term will create a more spontaneous process.
+If $dG_{vac}$ is positive, vacancies will not form spontaneously; however, if it's negative, they will form spontaneously. Thus, a higher $dS_{vac}$ term will create a more spontaneous process.
 
 ![](../../media/excalidraw/excalidraw-2024-11-12-09.48.15.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-12-09.48.15.excalidraw.md)%%
 
-The **Arrhenius Equation** gives the probability for an atom to do some process that has a potential energy barrier (very handwavy).
+The **Arrhenius Equation** gives the probability for an atom to undergo a process that has a potential energy barrier (very handwavy).
 
 Roughly:
 
 $$p \propto e^{-\frac{∆E}{k_bT}}$$
 where:
-- $p$ is probability of creating a vacancy 
+- $p$ is the probability of creating a vacancy 
 - $∆H$ is the enthalpy required to break a bond
-- $k_b$ is Boltzmann constant
+- $k_b$ is the Boltzmann constant
 - $T$ is the temperature
 
 If you know the probability of a vacancy existing, and the number of lattice sites, you can *predict the concentration of vacancies in a material.*
@@ -66,9 +66,9 @@ where $[V]$ is the vacancy concentration.
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-12-10.00.54.excalidraw.md)%%
 
 #### Ionic Defects
-A **Schottky** defect is when there is a ratio of anion to cation vacancies that cancel out such that the effective charge balances out.
+A **Schottky** defect is a defect in which there is a ratio of anion to cation vacancies that cancel each other out so that the effective charge balances.
 
-A **Feremkel** defect occurs when an atom is misplaced (but not gone) which creates both a vacancy and an "interstitial." The charges continue to balance.
+A **Frenkel** defect occurs when an atom is misplaced (but not absent), which creates both a vacancy and an "interstitial." The charges continue to balance.
 ![|251](../../media/Pasted%20image%2020241112103710.webp)
 
 In this substance...
@@ -76,11 +76,11 @@ In this substance...
 
 we would say that there is a *substitutional Mg impurity on a Na site.* The charge here will be +1 greater than the pure compound.
 
-
-
 ## Point Defects
 
 Point defects are effectively the opposite of vacancies.
+
+> 🤖 (notecheck comment) - A vacancy is itself a type of point defect, so it is not correct to say that point defects are the opposite of vacancies. Possibly you meant that self-interstitials are effectively the opposite of vacancies.
 
 ![|401](../../media/excalidraw/excalidraw-2024-11-12-10.05.10.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-12-10.05.10.excalidraw.md)%%
@@ -102,4 +102,4 @@ Also called **Substitutional Solid Solutions**.
 
 Impurities become an integral component of the material. They remain *randomly arranged*.
 
-The minor component is the solute, and the major component is the solevent—the same as an aqueous solution. 
+The minor component is the solute, and the major component is the solvent—the same as in an aqueous solution.

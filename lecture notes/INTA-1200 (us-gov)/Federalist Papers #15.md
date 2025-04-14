@@ -1,12 +1,12 @@
 - By Alexander Hamilton 
-- Admits how weak the contemporary state is
+- Admits how weak the contemporary state is:
 	- No dignity
 	- Pending debts
 	- "The imbecility of our government even forbids them to treat with us"
-- Encourages people to act soon before anarchy
+- Encourages people to act soon, before anarchy.
 - Pulls on ties of dignity.
-- Explains how congress cannot enforce laws
-	- How "good faith" couldn't be used to enforce anything
+- Explains how Congress cannot enforce laws:
+	- How "good faith" could not be used to enforce anything.
 - "It is essential to the idea of a law, that it be attended with a sanction; or, in other words, a penalty or punishment for disobedience. If there be no penalty annexed to disobedience, the resolutions or commands which pretend to be laws will, in fact, amount to nothing more than advice or recommendation."
-- Makes sure that punishments for disobedience are not too harsh.
-- Advocates for federal government because states won't listen and there is no way to enforce the law. Highlights how bad everything is going.
+- Ensures that punishments for disobedience are not too harsh.
+- Advocates for a federal government because states won't listen, and there is no way to enforce the law. Highlights how badly everything is going.

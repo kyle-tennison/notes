@@ -1,35 +1,35 @@
 # Regression
 
-- **Regression** follows a pattern, *but does not pass through every point*
-- [Interpolation](Interpolation.md) goes through every point
+- **Regression** follows a pattern, *but does not pass through every point*.
+- [Interpolation](Interpolation.md) goes through every point.
 
 ## Simple Linear Regression
 
-The *residual* is the error between the selected line and a point. For a sample with $n$ points, you will have $n$ residuals.
+The *residual* is the error between the selected line and a point. For a sample with $n$ points, there are $n$ residuals.
 
-Let $e_i$ be the $i^{th}$ residual of the $i^{th}$ point. If we are going to minimize the residuals, we can use the **least squares** approach, by *minimizing the following*:
+Let $e_i$ be the $i^{th}$ residual of the $i^{th}$ point. If we are going to minimize the residuals, we can use the **least squares** approach by *minimizing the following*:
 
-$$s_r=\sum_{i=1}^ne_i^2=\sum_{i=0}^n\bigg(y_{i, meas} - (a_0+a_ix_{i, meas}) \bigg)^2 \tag{1}$$
+$$s_r=\sum_{i=1}^n e_i^2=\sum_{i=0}^n\bigg(y_{i, meas} - (a_0+a_ix_{i, meas}) \bigg)^2 \tag{1}$$
 
-> You can't just use any even exponent here, there's a reason why it's squared, not $2n$. 
+> You can't just use any even exponent here; there's a reason why it's squared, not $2n$. 
 
 > "meas" is short for "measured"
 
-The values of $a_0$ and $a_1$ are the coefficients in the equation for a linear line 
+The values of $a_0$ and $a_1$ are the coefficients in the equation for a linear line,
 
 $$y_{i, meas}=a_0+a_1x_{i, meas}$$
 
-that is the regressed line.
+that is, the regressed line.
 
 A *necessary* condition must be satisfied for some function to meet some criterion. There are often multiple necessary conditions that must simultaneously be met. If any *sufficient* condition is satisfied, on the other hand, then the function immediately fits the criterion. 
 
-For equation 1 to be satisfied, the following necessary conditions must be met:
+For Equation 1 to be satisfied, the following necessary conditions must be met:
 
-$$\frac{\partial s_r}{\partial a_0} =0 \text{\;\;\;and\;\;\;} \frac{\partial s_r}{\partial a_1}=0 \tag{2}$$
+$$\frac{\partial s_r}{\partial a_0} = 0 \text{\;\;\;and\;\;\;} \frac{\partial s_r}{\partial a_1} = 0 \tag{2}$$
 
 Applying these conditions to Equation 1 gives the following equations:
 
-$$0=-2\bigg(  \sum_{i=1}^n y_{i, meas} - na_0 - a_1\sum _{i=1}^nx_{i, meas}  \bigg) $$
+$$0=-2\bigg(  \sum_{i=1}^n y_{i, meas} - na_0 - a_1\sum_{i=1}^nx_{i, meas}  \bigg) $$
 
 and
 
@@ -80,7 +80,7 @@ If we let
 
 $$s_t = \sum_{i=1}^n(y_i-\bar y)^2$$
 
-We can say that $r^2$, a value used to measure correlation, is:
+we can say that $r^2$, a value used to measure correlation, is:
 
 $$r^2 = \frac{s_t-s_m}{s_t}$$
 
@@ -90,7 +90,7 @@ In [[#Simple Linear Regression]], the line is modeled by:
 
 $$y_{i, model}=a_0+a_1x_i$$
 
-> Note that $x_i$ is the x at the experimental value,  $y_{i, model}$ is the y at the model value. In other words, the $i$ subscript represents the $i^{th}$ sample.
+> Note that $x_i$ is the x value at the experimental point and $y_{i, model}$ is the y value from the model. In other words, the $i$ subscript represents the $i^{th}$ sample.
 
 In polynomial regression, we can say:
 
@@ -98,7 +98,7 @@ $$a_0+a_1x_i+a_2x_i^2+a_3x_i^3+\cdots +a_mx_i^m$$
 
 or, in general for a vector space, you can say:
 
-$$y_i=a_0z_{i,0}+a_1 z_{i,1}+\cdots a_mz_{i,m}$$
+$$y_i=a_0z_{i,0}+a_1 z_{i,1}+\cdots +a_mz_{i,m}$$
 
 or, in vector notation:
 
@@ -144,8 +144,7 @@ S_r=\begin{cases}
 \end{cases}
 $$
 
-
-Now, when $\partial S_r / \partial a_k = 0$, the value for $a_0$ will be the value of $a_k$ that gives the smallest $S_r$.   
+Now, when $\partial S_r / \partial a_k = 0$, the value for $a_k$ will be the one that minimizes $S_r$.   
 
 $$\vec 0 = \frac{\partial }{\partial a_k}(S_r)= 
 
@@ -170,17 +169,19 @@ We can move this to matrix notation and say:
 
 $$\textbf Z ^\intercal \textbf Z \;\vec a = \textbf Z^\intercal \; \vec y$$
 
-Solving this equation for $\vec a$ will allow you to assemble the regressed polynomial. We can make this similar to [Equation 3](#^eq-3)  
+Solving this equation for $\vec a$ will allow you to assemble the regressed polynomial. We can make this similar to [Equation 3](#^eq-3).  
 
 ## Steps for 4th Order
 
 Given: x & y points
 
-1. Iterate over x values
-	1. Each x = one row
-	2. Create 4 columns for each x, adding 1 to each power
-	3. Call this the Z matrix
-2. Compute $M = Z^T Z$ 
-3. $b = Z^T y$ 
-4. Solve $A= M^{-1}b$ 
+1. Iterate over x values:
+	1. Each x value constitutes one row.
+	2. Create 4 columns for each x, adding 1 to each power.
+	3. Call this the Z matrix.
+2. Compute $M = Z^T Z$. 
+3. Compute $b = Z^T y$. 
+4. Solve $A = M^{-1}b$.
 
+> 🤖 (notecheck comment) - In Equation 1, the term a_i should be a_1 for simple linear regression.  
+> 🤖 (notecheck comment) - For a 4th order polynomial (a_0 + a_1x + a_2x^2 + a_3x^3 + a_4x^4), you need 5 columns in the design matrix, not 4.

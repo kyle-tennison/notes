@@ -3,17 +3,18 @@
 ---
 
 - [x] Pedantic
-	- a bitch!!!
+	- A bitch!!!
+> 🤖 (notecheck comment) - The definition given for "pedantic" is incorrect. "Pedantic" refers to being overly concerned with minor details or formalisms, not "a bitch!!!."
 - [x] Dogmatic
-	- A strict adherence to something; stubbornly fixed to a set of beliefs  
+	- Strict adherence to something; stubbornly fixed to a set of beliefs  
 - [x] Adept
 	- High proficiency in something
 - [x] Pragmatic
-	- Dealing something with things realistically, rather than theoretically
+	- Dealing with things realistically rather than theoretically
 - [x] Altruistic
-	-  Not selfish; expressed concern in others without interest in themself
+	- Not selfish; expressing concern for others without personal interest
 - [x] Camaraderie
-	- The mutual trust/friendship in an established relationship
+	- The mutual trust and friendship in an established relationship
 - [x] Quintessential
 	- The most perfect or typical example of something
 - [x] Facetious
@@ -21,7 +22,7 @@
 - [x] Euphemism
 	- A word that softens a touchy subject, like calling the military a defense system.
 - [x] Dysphemism
-	- Antonym of an Euphenism
+	- Antonym of a euphemism
 - [x] Ambivalent
 	- Having mixed feelings about someone
 - [x] Exacerbate
@@ -38,6 +39,4 @@
 	- More than one interpretation; ambiguous  
 - [ ] pejorative
 - [ ] lambaste
-- [ ] 
-
-
+- [ ]

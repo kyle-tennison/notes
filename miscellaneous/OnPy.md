@@ -7,7 +7,7 @@
 
 ## Overview
 
-**OnPy is an unnofical Python API for building 3D models in [Onshape](https://Onshape.com)**
+**OnPy is an unofficial Python API for building 3D models in [Onshape](https://Onshape.com)**
 
 In OnPy you can:
 
@@ -35,7 +35,7 @@ Then, you can provide your keys:
 $ python -c "from onpy import Client;Client()"
 
 OnPy needs your Onshape credentials.
-navagate to https://dev-portal.Onshape.com/keys and generate a pair of access & secret keys. Paste them here when prompted:
+Navigate to https://dev-portal.Onshape.com/keys and generate a pair of access & secret keys. Paste them here when prompted:
 
 secret key: ...
 access key: ...
@@ -48,9 +48,9 @@ Alternatively, you can set your Onshape keys as environment variables
 
 ### What is OnPy for?
 
-OnPy is a high level Python API for Onshape. It enables third-party apps to leverage the same features of the Onshape modeler from Python.
+OnPy is a high-level Python API for Onshape. It enables third-party apps to leverage the same features of the Onshape modeler from Python.
 
-Onshape natively supports [FeatureScript](https://cad.Onshape.com/FsDoc/); an Onshape native scripting language used for defining Onshape features. FeatureScript is a vastly powerful tool—many of it's strengths are leveraged in this package. However, FeatureScript is created to define individual features; there is no way to parametrically generate a design with it.
+Onshape natively supports [FeatureScript](https://cad.Onshape.com/FsDoc/); an Onshape native scripting language used for defining Onshape features. FeatureScript is a vastly powerful tool—many of its strengths are leveraged in this package. However, FeatureScript is created to define individual features; there is no way to parametrically generate a design with it.
 
 Instead, OnPy interfaces with Onshape's APIs to create designs that function the same as ones generated in the web UI.
 
@@ -63,7 +63,6 @@ When using OnPy, all API calls to Onshape are made on the user's behalf. As a us
 OnPy is provided "as is," without warranty of any kind, either express or implied. OnPy assumes no responsibility for any violations of Onshape's Terms of Use arising from its use. Furthermore, OnPy is not liable for any consequences, damages, or losses resulting from the user's misuse of the API or non-compliance with Onshape's Terms of Use.
 
 By using OnPy, you agree to these terms and accept all associated risks and liabilities.
-
 
 ### Syntax Overview
 
@@ -102,6 +101,6 @@ For a more in-depth guide on how to use OnPy, view the [user guide](/guide.md). 
 
 ## Contributing
 
-OnPy is obviously in it's earliest stage. All contributors are gratefully welcomed.
+OnPy is obviously in its earliest stage. All contributors are gratefully welcomed.
 
-This module is structured to be as idiomatic as possible, while also following some of Onshape's layout quirks. There is no strict rules for this repository, but it's a good idea to try to stick with the flow of other things.
+This module is structured to be as idiomatic as possible, while also following some of Onshape's layout quirks. There are no strict rules for this repository, but it's a good idea to try to stick with the flow of other things.
