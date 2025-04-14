@@ -5,7 +5,7 @@ For daily activities
 
 ## Checklist
 
-- [x] Check Emails
+- [ ] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
 	- [x] Ansys

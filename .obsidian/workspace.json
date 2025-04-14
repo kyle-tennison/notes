@@ -4,43 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6b539842bd9b50f5",
+        "id": "96fa46dcc7a1a723",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f4942fc39f7df9",
+            "id": "5346213dc9d1fc7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
+                "file": "lecture notes/ISYE-3025 (economics)/12. Income Taxes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Ordinary Differential Equations"
+              "title": "12. Income Taxes"
             }
           },
           {
-            "id": "217f9856c9965079",
+            "id": "6ce86a9255d9b2dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "productivity/School Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "lecture notes/ISYE-3025 (economics)/11. Deprecation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "School Tasks"
+              "icon": "lucide-file",
+              "title": "11. Deprecation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,8 +235,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d4f4942fc39f7df9",
+  "active": "284968d57bb71a47",
   "lastOpenFiles": [
+    "lecture notes/ISYE-3025 (economics)/12. Income Taxes.md",
+    "lecture notes/ISYE-3025 (economics)/11. Deprecation.md",
+    "media/Pasted image 20250413181233.png",
+    "media/Pasted image 20250413180503.png",
+    "productivity/School Tasks.md",
+    "productivity/Morning Check.md",
+    "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
     "lecture notes/ME-2016 (python)/Regression.md",
     "lecture notes/ME-2016 (python)/Numerical Integration.md",
     "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
@@ -248,10 +251,8 @@
     "lecture notes/ME-2016 (python)/Interpolation.md",
     "lecture notes/ME-2016 (python)/Exam 2 Study.md",
     "lecture notes/ME-2016 (python)/Floating Point Math.md",
-    "productivity/Morning Check.md",
     "lecture notes/ME-2016 (python)/Euler's Method.md",
     "productivity/Personal Tasks.md",
-    "productivity/School Tasks.md",
     "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
     "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
     "private/ansys/Stack-traced context.md",
@@ -269,14 +270,9 @@
     "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
     "media/Pasted image 20250314162252.png",
     "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
-    "lecture notes/PHIL-3127 (philosophy)/The Question Concerning Technology.md",
-    "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.md",
-    "lecture notes/PHIL-3127 (philosophy)/Metaphorics of the Mighty Truth.md",
     "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-03-10-09.53.51.excalidraw.svg",
     "media/IMG_0301.jpg",
-    "media/excalidraw/excalidraw-2025-03-10-09.37.37.excalidraw.svg",
-    "media/Pasted image 20250309110738.png",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
