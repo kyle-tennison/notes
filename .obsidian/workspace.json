@@ -13,58 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Extended Mind – Andy Clark & David Chalmers.md",
-                "mode": "source",
+                "file": "productivity/Morning Check.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Extended Mind – Andy Clark & David Chalmers"
+              "title": "Morning Check"
             }
           },
           {
-            "id": "c0411669ebdae146",
+            "id": "8ef5f7fac5e24182",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why I Want to be a Posthuman When I Grow Up.md",
+                "file": "lecture notes/ME-2016 (python)/Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why I Want to be a Posthuman When I Grow Up"
-            }
-          },
-          {
-            "id": "9748c2f64a2301e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baudrillard - Simulacra and Simulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baudrillard - Simulacra and Simulation"
-            }
-          },
-          {
-            "id": "8aa7ff6143b0f554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/PHIL-3127 (philosophy)/Hoel and Carusi - Merleau-Ponty and Technology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hoel and Carusi - Merleau-Ponty and Technology"
+              "title": "Optimization"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,51 +236,16 @@
       "terminal:Open terminal": false
     }
   },
-  "floating": {
-    "id": "d230a159ba23bac2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ecd08096db7aa026",
-        "type": "window",
-        "children": [
-          {
-            "id": "29df08f75a811994",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2b2e7ed5dca2887d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalidraw-2025-04-14-23.15.13.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1,
-        "y": 26,
-        "width": 1144,
-        "height": 875,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "8aa7ff6143b0f554",
+  "active": "8ef5f7fac5e24182",
   "lastOpenFiles": [
+    "productivity/Morning Check.md",
+    "lecture notes/ME-2016 (python)/Optimization.md",
+    "The Extended Mind – Andy Clark & David Chalmers.md",
+    "Why I Want to be a Posthuman When I Grow Up.md",
+    "Baudrillard - Simulacra and Simulation.md",
+    "lecture notes/PHIL-3127 (philosophy)/Hoel and Carusi - Merleau-Ponty and Technology.md",
     "Untitled.md",
     "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.md",
-    "lecture notes/PHIL-3127 (philosophy)/Hoel and Carusi - Merleau-Ponty and Technology.md",
-    "Why I Want to be a Posthuman When I Grow Up.md",
-    "The Extended Mind – Andy Clark & David Chalmers.md",
-    "Baudrillard - Simulacra and Simulation.md",
     "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.svg",
     "Untitled 1.md",
     "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
@@ -327,7 +264,6 @@
     "media/Pasted image 20250413181233.png",
     "media/Pasted image 20250413180503.png",
     "productivity/School Tasks.md",
-    "productivity/Morning Check.md",
     "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
     "lecture notes/ME-2016 (python)/Regression.md",
     "lecture notes/ME-2016 (python)/Numerical Integration.md",

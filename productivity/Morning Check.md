@@ -8,7 +8,7 @@ For daily activities
 - [ ] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [x] Ansys
+	- [ ] Ansys
 - [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [ ] ECE-3710
 	- [ ] ME-2016
