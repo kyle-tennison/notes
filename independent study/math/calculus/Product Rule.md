@@ -12,7 +12,7 @@ Imagine I am building an L-shaped object:
 ![](../../../media/excalidraw/excalidraw-2025-01-13-22.41.22.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../../media/excalidraw/excalidraw-2025-01-13-22.41.22.excalidraw.md)%%
 
-Even if the lengths stay the same, as the thickness approaches zero, the percent of the total area that this corner piece makes up approaches zero much quicker than the other areas. For this reason, we can neglect it.
+Even if the lengths remain the same, as the thickness approaches zero, the percentage of the total area that this corner piece occupies approaches zero much more quickly than the other areas. For this reason, we can neglect it.
 
 Let's now look at the two other partitions, labeled 1 & 2. We can express the area of these mathematically as:
 
@@ -30,7 +30,7 @@ Stop to think about what this is. We advance $f(t)$ by $h$, then normalize the d
 
 $$\frac{df}{dt} = \frac{f(t+dt)-f(t)}{dt} \tag2$$
 
-And, then by *multiplying* by $dt$, we get a definition for $df$, which is exactly what we see in the area equations above.
+And then, by *multiplying* by $dt$, we get a definition for $df$, which is exactly what we see in the area equations above.
 
 $$df = f(t+dt)-f(t) \tag3$$
 
@@ -38,7 +38,7 @@ While we're here, we perform another operation to define $df$:
 
 $$\frac{df}{dt}=\lim_{h\to0}\frac{f(t+h)-f(t)}{h} = f'(t) \tag4$$
 
-then, multiplying by $dt$:
+Then, multiplying by $dt$:
 
 $$df = f'(t)\ {dt} \tag5$$
 ^eq-5
@@ -56,7 +56,7 @@ Then, applying the property in [Eq. 5](#^eq-5), we get:
 
 $$dA = g(t)f'(t)dt + f(t)g'(t)dt$$
 
-Finally, moving $dt$ to the other side gives us the long awaited:
+Finally, moving $dt$ to the other side gives us the long-awaited:
 
 $$\frac{dA}{dt}= g(t)f'(t)+f(t)g'(t)$$
 

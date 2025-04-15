@@ -21,7 +21,7 @@ We can state the following:
 
 To be more pragmatic, if we have a large function $f$, we can use the *sum and difference laws* to break it apart at every $+$ and $-$ operator. We can also separate arbitrary constants using the *constant multiple law*.
 
-**A limit only exists if it also exists for every path to the point.** For instance, if we are taking $\lim_{(x,y) \to (0, 0)}$, if we travel along $x=0$ or $y=0$ (or some other path) and find that the limit does not exist, we say that the multivariable limit does not exist either.
+**A limit only exists if it also exists for every path to the point.** For instance, if we are taking $\lim_{(x,y) \to (0, 0)}$, and we travel along $x=0$ or $y=0$ (or some other path) and find that the limit does not exist, we say that the multivariable limit does not exist either.
 
 ## Partial Derivatives
 
@@ -31,7 +31,7 @@ Let $f = f(x_0, x_1, \dots)$, and assume that $f$ is continuous on $\mathbb R^2$
 
 $$\frac{\partial f}{\partial x_0} = \lim_{h\to 0}\frac{f(x_0+h, x_1, \dots)-f(x_0,x_1, \dots)}{h}$$
 
-What we are doing here is watching how $f$ changes relative to $x_0$. All other $x_n$ are not changed. Because we are only examining the change in a single dimension, the quantities $x_n$ of higher dimensions *are constant*—i.e. *all variables that are not being differentiated with respect to are treated as constants.* 
+What we are doing here is watching how $f$ changes relative to $x_0$. All other $x_n$ are not changed. Because we are only examining the change in a single dimension, the quantities $x_n$ of higher dimensions *are constant*—i.e., *all variables that are not being differentiated with respect to are treated as constants.* 
 
 Now, let $f=3yx$. If we substitute this into the limit definition above, we get:
 
@@ -47,7 +47,7 @@ Before solving this mathematically, let's think about it for a second. When we s
 
 $$\frac{\partial^2f}{\partial x^2}= \frac{\partial }{\partial x}\bigg(\frac{\partial f}{\partial x}\bigg)$$
 
-Sometimes, this will be represented as $f_{xx}$ to show the second order differentiation with respect to x. If we, instead, had:
+Sometimes, this will be represented as $f_{xx}$ to show the second order differentiation with respect to $x$. If we, instead, had:
 
 $$\frac{\partial^2f}{\partial y \ \partial x}= \frac{\partial }{\partial y}\bigg(\frac{\partial f}{\partial x}\bigg )$$
 

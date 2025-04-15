@@ -76,7 +76,8 @@ So, when $\psi$ is defined like this, $[\hat x, \hat p] = i\hbar$. This relation
 
 A given quantum system can be described by a **set** of wave functions. These wave functions form a "Hilbert Space," which is a kind of vector space.
 
-You can think of wave functions as vectors with potentially infinite dimensions. Each wave function is a vector in the Hilbert space, and each of them will be linearly independent; these vectors form the basis of that space, and every vector is orthogonal to every other vector. So, if there are a large number of wave functions, then there are a large number of dimensions in the Hilbert space.
+You can think of wave functions as vectors with potentially infinite dimensions. Each wave function is a vector in the Hilbert space, and each of them will be linearly independent; these vectors form the basis of that space, and every vector is orthogonal to every other vector.
+> 🤖 (notecheck comment) - In a Hilbert space, vectors (wave functions) are not automatically orthogonal to every other vector. Only when an orthonormal basis is chosen do the basis vectors satisfy mutual orthogonality. In general, a set of normalized vectors need not be orthogonal unless explicitly constructed to be so.
 
 #### Bra-Ket Notation
 
@@ -94,7 +95,9 @@ With this notation, we can define the inner product as:
 $$\langle \psi_1 | \psi_2 \rangle = \int \limits_{-\infty}^{\infty}\psi_1^* \psi_2\,dx$$
 A few properties to note:
 - The inner product of a wave function with itself is always one.
+> 🤖 (notecheck comment) - The inner product of a wave function with itself equals one only if the wave function is normalized. In general, ⟨ψ|ψ⟩ can differ from one and normalization is required to set it to one.
 - The inner product of a wave function that is not a linear combination of the first is always zero.
+> 🤖 (notecheck comment) - Zero inner product between two wave functions is a property of orthogonal functions. In a general Hilbert space, two distinct wave functions are not automatically orthogonal unless they belong to an orthonormal set.
 - Sometimes, this is represented with the Kronecker delta as $\langle \psi_n | \psi_m \rangle=\delta_{n,m}$.
 - In a Hilbert space, the inner product is essentially the dot product for the wave functions.
 

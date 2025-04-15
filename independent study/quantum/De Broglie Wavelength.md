@@ -1,6 +1,6 @@
 # De Broglie Wavelength
 
-Louis de Broglie, in 1924, proposed that matter is itself a wave; we call these **matter waves**, which are a fundamental piece of quantum theory and the **particle-wave duality.** It shows how matter exhibits wave-like behavior.
+Louis de Broglie proposed in 1924 that matter itself is a wave; we call these **matter waves**, which are a fundamental piece of quantum theory and demonstrate the **particle-wave duality**. They show how matter exhibits wave-like behavior.
 
 The wavelength is tied to the momentum of the particle:
 
@@ -10,7 +10,7 @@ where $h$ is [Planck's Constant](../reference.md#Planck's%20Constant) and $p$ is
 
 ### Background
 
-The **Planck-Einstein** relationship, which was created after Einstein was able to describe the photoelectric effect, explains that the energy in a photon is:
+The **Planck-Einstein** relationship, which was developed after Einstein described the photoelectric effect, explains that the energy in a photon is:
 
 $$E = h \nu $$
 

@@ -1,6 +1,6 @@
 # Sum Rule
 
-The sum rule states that, for a function $k(x) = f(x)+g(x)$:
+The sum rule states that, for a function k(x) = f(x) + g(x):
 
 $$\frac{dk}{dx}(f(x) + g(x)) = f'(x) + g'(x)$$
 
@@ -16,4 +16,4 @@ $$\frac{dk}{dx}= \lim_{h\to 0} \frac{\big[ f(x+h)-f(x) \big]}{h}+ \lim_{h\to 0} 
 
 We can also think about this more conceptually:
 
-What we are doing is stepping over on the $x$-axis by $h$ to get the new value of our summation function. The partition that is $f$ has changed slightly, and so has the partition that is $g$. You can see that this total ∆h is simply ∆f + ∆g. Shrink the ∆ until infinitesimal and you have your derivative.
+What we are doing is stepping along the x-axis by h to get the new value of our sum function. The partition corresponding to f has changed slightly, and so has the partition corresponding to g. You can see that this total Δ is simply Δf + Δg. Shrink the Δ until it is infinitesimal, and you have your derivative.

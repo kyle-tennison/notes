@@ -1,6 +1,6 @@
 # Lagrange's Equations
 
-Equations of Motion:
+Equations of Motion:  
 Chapter 1 in [Landau-Lifshitz Course on Mechanics](Landau-Lifshitz%20Course%20on%20Mechanics.md)
 
 ---
@@ -12,11 +12,11 @@ We can describe the position of a particle in space by its "*radius vector*" $\t
 The first-order time derivative of the particle, i.e., $\textbf v = \frac{d \textbf r}{dt}$, defines the *velocity* of the particle, and the second-order time derivative defines the *acceleration* of the particle.
 
 To define a system of $N$ particles, $N$ radius vectors are requisite. This value $N$ is the number of *degrees of freedom*. So, for instance, a system of 5 particles will have 5 degrees of freedom.  
-> 🤖 (notecheck comment) - Typically, a system of 5 particles in 3D has 15 degrees of freedom if unconstrained. Possibly, you are referencing a 1D scenario or constraints, but otherwise, 5 degrees of freedom is incorrect.
+> 🤖 (notecheck comment) - Typically, a system of 5 particles in three-dimensional space has 15 degrees of freedom if unconstrained. Possibly, you are referencing a one-dimensional scenario or assuming constraints; otherwise, 5 degrees of freedom is not generally correct.
 
 Any set of $s$ quantities that define the positions of particles in a system with $s$ degrees of freedom are called **generalized coordinates**. Say $q_1, q_2, q_3, \dots, q_s$ are these quantities; their time derivatives, i.e. $\dot q_s$, are their **generalized velocities**. 
 
-If you know $q$ and $\dot q$, at a given moment, along with the force function $F(q, \dot q)$, you can extrapolate to solve for future states in the system. The motion of the particle(s) is determined. 
+If you know $q$ and $\dot q$ at a given moment, along with the force function $F(q, \dot q)$, you can extrapolate to solve for future states in the system. The motion of the particle(s) is determined. 
 
 > There's a chance I'm wrong here. The book makes no mention of the necessity to know the function $F$, but I cannot imagine how a system can be deterministic without knowledge of the force field it is subject to.
 
@@ -24,7 +24,7 @@ If you know $q$ and $\dot q$, at a given moment, along with the force function $
 
 This is sometimes called **Hamilton's Principle**, where we say that there exists a function $L$ such that the integral between two moments $t_1$ and $t_2$ yields the least possible value:
 
-$$ S = \int \limits _{t_1}^{t_2}L(q, \dot q, t)\ dt \tag1$$
+$$ S = \int \limits_{t_1}^{t_2} L(q, \dot q, t)\ dt \tag1$$
 ^eq-1
 
 This function $L$ is the **Lagrangian** of the system, and the integral is called the **action**. 
@@ -40,27 +40,27 @@ $$q = q(t) + \delta q(t) \tag2$$
 
 the action $S$ would increase. $\delta q(t)$ is called the *variation* of the function $q(t)$. We can measure the increase in $S$ by plugging this new definition of $q$ back into [eq. 1](#^eq-1). This gives the change
 
-$$ \int \limits_{t_1}^{t_2}L(q+\delta q, \dot q + \delta \dot q, t) \ dt - \int \limits _{t_1}^{t_2}L(q, \dot q, t)\ dt $$
+$$ \int \limits_{t_1}^{t_2}L(q+\delta q, \dot q + \delta \dot q, t) \ dt - \int \limits_{t_1}^{t_2}L(q, \dot q, t)\ dt $$
 
 which simplifies to:
 
-$$\delta S = \delta \int \limits _{t_1}^{t_2} L(q, \dot q, t) \ dt = 0 \tag3$$
+$$\delta S = \delta \int \limits_{t_1}^{t_2} L(q, \dot q, t) \ dt = 0 \tag3$$
 ^eq-3
 
 This is saying that the first variation needs to be zero. This is another way of expressing the principle of least action.
 
 If we expand the equation above, we can rewrite this as:
 
-$$0 = \int \limits _{t_1}^{t_2} \left(\frac{\partial L}{\partial q}\delta q + \frac{\partial L}{\partial \dot q}\delta \dot q\right) \ dt $$
+$$0 = \int \limits_{t_1}^{t_2} \left(\frac{\partial L}{\partial q}\delta q + \frac{\partial L}{\partial \dot q}\delta \dot q\right) \ dt $$
 
 Integrating by parts and removing the zeroth-order term from the integral yields:
 
-$$\delta S = \begin{bmatrix}\frac{\partial L}{\partial \dot q}\delta q \end{bmatrix} _{t_1}^{t_2}  + \int \limits _{t_1}^{t_2} \begin{pmatrix} \frac{\partial L}{\partial q} - \frac{d}{dt} \frac {\partial L}{\partial \dot q} \end{pmatrix} \delta q \ dt = 0 \tag4$$
+$$\delta S = \begin{bmatrix}\frac{\partial L}{\partial \dot q}\delta q \end{bmatrix}_{t_1}^{t_2}  + \int \limits_{t_1}^{t_2} \begin{pmatrix} \frac{\partial L}{\partial q} - \frac{d}{dt} \frac {\partial L}{\partial \dot q} \end{pmatrix} \delta q \ dt = 0 \tag4$$
 ^eq-4
 
 If we say that at $t_1$, $q$ is the set of coordinates $q^{(1)}$, and at $t_2$, $q$ is *the set of coordinates* $q^{(2)}$, then the following must be satisfied:
 
-$$p(t_1) = p^{(1)} \text{\;\;\;and\;\;\;}p(t_2) = p^{(2)}$$
+$$p(t_1) = p^{(1)} \text{\;\;\;and\;\;\;} p(t_2) = p^{(2)}$$
 
 Therefore, if $q$ is defined by the equation in [eq. 2](#^eq-2), it must also be true that:
 
@@ -71,11 +71,11 @@ in order to satisfy the equation prior.
 
 We can use this relationship and substitute it into [eq. 4](#^eq-4) to see that the integrated term will expand to zero:
 
-$$\begin{bmatrix} \frac{\partial L}{\partial \dot q} \delta q \end{bmatrix}^{t_2}_{t_1} = \begin{bmatrix} \frac{\partial L}{\partial \dot q}  \end{bmatrix}^{t_2}_{t_1}\cdot  \begin{bmatrix} \delta q \end{bmatrix}^{t_2}_{t_1} = \begin{bmatrix} \frac{\partial L}{\partial \dot q}  \end{bmatrix}^{t_2}_{t_1}\cdot(\delta q(t_2)-\delta q(t_1)) = 0$$
+$$\begin{bmatrix} \frac{\partial L}{\partial \dot q}\delta q \end{bmatrix}^{t_2}_{t_1} = \begin{bmatrix} \frac{\partial L}{\partial \dot q}  \end{bmatrix}^{t_2}_{t_1}\cdot  \begin{bmatrix} \delta q \end{bmatrix}^{t_2}_{t_1} = \begin{bmatrix} \frac{\partial L}{\partial \dot q}  \end{bmatrix}^{t_2}_{t_1}\cdot(\delta q(t_2)-\delta q(t_1)) = 0$$
 
 Therefore, we know that the integral in [eq-4](#^eq-4) must evaluate to zero for all values of $\delta q$:
 
-$$\int \limits _{t_1}^{t_2} \begin{pmatrix} \frac{\partial L}{\partial q} - \frac{d}{dt} \frac {\partial L}{\partial \dot q} \end{pmatrix}\ \delta q \ dt = 0$$
+$$\int \limits_{t_1}^{t_2} \begin{pmatrix} \frac{\partial L}{\partial q} - \frac{d}{dt} \frac {\partial L}{\partial \dot q} \end{pmatrix}\ \delta q \ dt = 0$$
 
 Note that we cannot immediately assume that $\delta q$ will equal zero for all $t$ just because [eq-5](#^eq-5) asserts that the *endpoints* will equal zero. We can, however, say that if the factor prior to $\delta q$ is zero, then the principle of least action will be satisfied. We can express this mathematically by pulling the factor out of the integral:
 
@@ -122,7 +122,7 @@ $$L'(q, \dot q, t) = L(q, \dot q, t) +\frac{d}{dt} f(q, t) \tag9$$
 
 We can find the action of $L'$ with:
 
-$$S'\ = \int \limits _{t_1}^{t_2} L'(q, \dot q, t)\ dt = \int \limits _{t_1}^{t_2} L(q, \dot q, t)\ dt + \int \limits _{t_1}^{t_2} \frac{df}{dt} dt =  S+f(q^{(2)}, t_2) -f(q^{(1)},t_1)$$
+$$S'\ = \int \limits_{t_1}^{t_2} L'(q, \dot q, t)\ dt = \int \limits_{t_1}^{t_2} L(q, \dot q, t)\ dt + \int \limits_{t_1}^{t_2} \frac{df}{dt} dt =  S+f(q^{(2)}, t_2) -f(q^{(1)},t_1)$$
 
 Because this added term will be zero upon variation (because it is sampled at points $t_1$ and $t_2$), we can say that $\delta S' = \delta S = 0$. This reveals that *the Lagrangian is not uniquely defined to a single system*; instead, it applies to a family of systems that differ only by a function of the *total time derivative* (not the partial derivative) of a function of *coordinates and time*.
 

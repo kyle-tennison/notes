@@ -17,7 +17,6 @@ The **Cañada ENGR 210** (which *corresponds to ME 1670*) class really throws a 
 | Art Elective                          | 3       |
 | **Total**                             | **14**  |
 
-
 ## If ENGR-210 *does not* transfer
 
 #### Spring 2025

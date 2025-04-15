@@ -4,53 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "809b56f914b5c4f6",
+        "id": "3e4c48b2f64e9442",
         "type": "tabs",
         "children": [
           {
-            "id": "e689608179eaf397",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
-                "bFile": "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 0. Control Volume Work"
-            }
-          },
-          {
-            "id": "b6b50d9cecc5779a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "independent study/neural networs/1. Multilayer Preceptron.md",
-                "bFile": "independent study/neural networs/1. Multilayer Preceptron.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 1. Multilayer Preceptron"
-            }
-          },
-          {
-            "id": "b33eb8de35f1abad",
+            "id": "dc133184490d8b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/neural networs/1. Multilayer Preceptron.md",
+                "file": "The Extended Mind – Andy Clark & David Chalmers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Multilayer Preceptron"
+              "title": "The Extended Mind – Andy Clark & David Chalmers"
+            }
+          },
+          {
+            "id": "c0411669ebdae146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why I Want to be a Posthuman When I Grow Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why I Want to be a Posthuman When I Grow Up"
+            }
+          },
+          {
+            "id": "9748c2f64a2301e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baudrillard - Simulacra and Simulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baudrillard - Simulacra and Simulation"
+            }
+          },
+          {
+            "id": "8aa7ff6143b0f554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/PHIL-3127 (philosophy)/Hoel and Carusi - Merleau-Ponty and Technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hoel and Carusi - Merleau-Ponty and Technology"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Trapezoi",
+                "query": "notecheck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -228,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 350,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,9 +264,61 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b6b50d9cecc5779a",
+  "floating": {
+    "id": "d230a159ba23bac2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ecd08096db7aa026",
+        "type": "window",
+        "children": [
+          {
+            "id": "29df08f75a811994",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b2e7ed5dca2887d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalidraw-2025-04-14-23.15.13.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1,
+        "y": 26,
+        "width": 1144,
+        "height": 875,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "8aa7ff6143b0f554",
   "lastOpenFiles": [
+    "Untitled.md",
+    "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.md",
+    "lecture notes/PHIL-3127 (philosophy)/Hoel and Carusi - Merleau-Ponty and Technology.md",
+    "Why I Want to be a Posthuman When I Grow Up.md",
+    "The Extended Mind – Andy Clark & David Chalmers.md",
+    "Baudrillard - Simulacra and Simulation.md",
+    "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.svg",
+    "Untitled 1.md",
+    "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
+    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
     "independent study/neural networs/1. Multilayer Preceptron.md",
+    "lecture notes/ME-3322 (thermodynamics)/11. Air-Water Mixtures.md",
+    "lecture notes/ME-3322 (thermodynamics)/11. Psychrometrics.md",
+    "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
+    "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
+    "private/UC Transfer Applications.md",
     "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
     "README.md",
     "lecture notes/MSE-2001 (material science)/Exam Notes.md",
@@ -263,29 +331,13 @@
     "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
     "lecture notes/ME-2016 (python)/Regression.md",
     "lecture notes/ME-2016 (python)/Numerical Integration.md",
-    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
-    "lecture notes/ME-2016 (python)/Spline Fitting.md",
-    "lecture notes/ME-2016 (python)/Interpolation.md",
-    "lecture notes/ME-2016 (python)/Exam 2 Study.md",
-    "lecture notes/ME-2016 (python)/Floating Point Math.md",
-    "lecture notes/ME-2016 (python)/Euler's Method.md",
-    "productivity/Personal Tasks.md",
-    "lecture notes/ECE-3710 (circuits)/2.3 Power and Transformers.md",
-    "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
-    "private/ansys/Stack-traced context.md",
-    "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.md",
     "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.svg",
     "media/Pasted image 20250331165350.png",
-    "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
-    "lecture notes/ISYE-3025 (economics)/9. Annual Cash Flow.md",
-    "lecture notes/ISYE-3025 (economics)/10. Rate of Return and Incremental Analyses.md",
     "media/Pasted image 20250330183810.png",
     "media/Pasted image 20250330182100.png",
-    "media/excalidraw/excalidraw-2024-11-21-14.14.21.excalidraw.md",
     "media/Pasted image 20250314162252.png",
     "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.svg",
     "media/excalidraw/excalidraw-2025-03-10-09.53.51.excalidraw.svg",
-    "media/IMG_0301.jpg",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",

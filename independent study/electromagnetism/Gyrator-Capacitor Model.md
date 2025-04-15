@@ -17,17 +17,17 @@ A gyrator is a two-port element, meaning it has two pairs of terminals. Voltage 
 ![](../../media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](../../media/excalidraw/excalidraw-2024-11-10-21.06.50.excalidraw.md)%%
 
-In a Gyrator:
+In a gyrator:
 
 $$V_1=RI_2,\ \ V_2=RI_1$$
 
 In the gyrator-capacitor model, **the gyrator acts as a transducer between electrical energy and magnetic energy**.
 
-> A transducer is just something that converts one form of energy into another
+> A transducer is just something that converts one form of energy into another.
 
-*An electric emf is analogous to a magnetic mmf in this model*.
+*An electric emf is analogous to a magnetic MMF in this model*.
 
-> I'd like to look into gyrators more. It looks like they're used in op-amps, but I don't understand their fundamental purpose nor their means of operation.
+> I'd like to look into gyrators more. It looks like they're used in op-amps, but I don't understand their fundamental purpose or their means of operation.
 
 ### Magnetic Voltage
 
@@ -39,7 +39,7 @@ $$ MMF = v_m = \mathcal F = - \int \limits _A^B \textbf H \cdot d \vec l $$
 
 There is also a magnetic current in an electromagnetic field, which is an entirely different subject.
 
-In this model, magnetic current $i_m$ is just the time derivative of magnetic flux:
+In this model, magnetic current $i_m$ is just the time derivative of the magnetic flux:
 
 $$ i_m = \dot \Phi = \frac{d}{dt} \iint_s\textbf B \cdot dS$$
 
@@ -74,7 +74,7 @@ where:
 - $\omega$ is the angular frequency of the magnetic circuit
 - $L_M$ is the magnetic inductance
 
-> 🤖 (notecheck comment) - The text above refers to 'magnetic inductance' as x_L, but x_L actually represents inductive reactance, measured in ohms, not inductance (measured in henries). 
+> 🤖 (notecheck comment) - The text above refers to "magnetic inductance" as $x_L$, but $x_L$ actually represents inductive reactance, measured in ohms, not inductance (measured in henries).
 
 ### lost me
 

@@ -24,4 +24,4 @@ $$dg = g'(h)h'(x)dx$$
 
 Then, dividing by $dx$ gives:
 
-$$\frac{dg}{dx}=g'\big(h(x) \big)h'(x)$$
+$$\frac{dg}{dx}=g\big'(h(x)\big)h'(x)$$

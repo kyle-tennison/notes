@@ -1,12 +1,12 @@
 # Multivariable Chain Rule
 
-Consider that we have a multivariable function $f(x,y)$. Say we also have two single-variable functions $x(t)$ and $y(t)$ that we pass to $f$ such that we get $f(x(t), y(t))$. In this scenario, $f$ is now a single-variable function that depends on $t$. If we want to find its derivative with respect to $t$, we can substitute $x(t)$ and $y(t)$ into the function body and solve like any other ordinary derivative. However, we can simplify this into an expression called the **multivariable chain rule.**
+Consider that we have a multivariable function $f(x,y)$. Say we also have two single-variable functions, $x(t)$ and $y(t)$, that we pass to $f$ such that we get $f(x(t), y(t))$. In this scenario, $f$ is now a single-variable function that depends on $t$. If we want to find its derivative with respect to $t$, we can substitute $x(t)$ and $y(t)$ into the function body and differentiate like any other ordinary derivative. However, we can simplify this into an expression called the **multivariable chain rule.**
 
 Imagine what happens when we take the derivative of $x$ with respect to $t$:
 
-$$\frac{dx}{dt} = \lim _{h\to 0}\frac{x(t+h)-x(t)}{h}$$
+$$\frac{dx}{dt} = \lim_{h\to 0}\frac{x(t+h)-x(t)}{h}$$
 
-Then, by multiplying by $dt$ we get the definition of $dx$:
+Then, by multiplying by $dt$, we get the definition of $dx$:
 
 $$dx = x'(t) dt \tag{1}$$ 
 

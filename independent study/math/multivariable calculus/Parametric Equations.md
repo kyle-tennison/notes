@@ -1,10 +1,10 @@
 # Parametric Equations
 
-A **parametric equation** is an equation that depends on a parameter (often $t$), where the coordinates are functions of that variable.
+A **parametric equation** is an equation that depends on a parameter (often $t$), where the coordinates are functions of that parameter.
 
-For instance, in 2D Cartesian space, a function $x(t)$ and $y(t)$ will yield scalars for any value of $t$ (provided that it's within range). By sweeping across $t$, we can draw interesting curves that would not be possible with typical functions.
+For instance, in 2D Cartesian space, the functions $x(t)$ and $y(t)$ yield scalars for any value of $t$, provided that it is within range. By sweeping across $t$, we can draw interesting curves that would not be possible with typical functions.
 
-You can **eliminate the parameter** by solving a system of equations (given a solution exists.)
+You can **eliminate the parameter** by solving a system of equations (given a solution exists).
 
 ## Parametric Curves
 
@@ -16,7 +16,7 @@ $$x(t) = a(t-sin(t)), y(t) = a(1-cos(t)) \tag{Cycloid}$$
 
 #### First Order Derivatives
 
-We can define the **first order derivative**  ${dy}/{dx}$ for a parametric curve as:
+We can define the **first order derivative** ${dy}/{dx}$ for a parametric curve as:
 
 $$\frac{dy}{dx}=\frac{dy/dt}{dx/dt}$$
 
@@ -24,14 +24,14 @@ This derivation should be self-evident. The change in $y$ is driven by $t$, and 
 
 #### Second Order Derivatives
 
-If we want the **second order derivative**, i.e. $\frac{d^2y}{dx^2}$, we would simply say:
+If we want the **second-order derivative**, i.e., $\frac{d^2y}{dx^2}$, we would simply say:
 
 $$\frac{d^2y}{dx^2}= \frac{d}{dx}\left(\frac{dy}{dx}\right)$$
 
 Alternatively, we could also say:
 
 $$\frac{d^2x}{dy^2}= \frac{d}{dy}\left(\frac{dy}{dx}\right)$$
-> 🤖 (notecheck comment) - The expression for the second derivative of x with respect to y is incorrect. The correct expression should involve d/dy(dx/dy), not d/dy(dy/dx).
+> 🤖 (notecheck comment) - The expression for the second derivative of x with respect to y is incorrect. The correct expression should involve differentiating dx/dy with respect to y, that is, it should be written as $\frac{d^2x}{dy^2} = \frac{d}{dy}\left(\frac{dx}{dy}\right)$ instead of $\frac{d}{dy}\left(\frac{dy}{dx}\right)$.
 
 #### Integrals of Parametric Curves
 
@@ -48,7 +48,7 @@ Then, integrating both sides yields:
 
 $$A = \int _a^b y(t) \cdot \frac{dx}{dt}dt = \int_a^b y(t)x'(t)\ dt $$
 
-You could follow a similar procedure the other way around to integrate using $x(t)$ and $y'(t)$. 
+A similar procedure can be followed in the other direction to integrate using $x(t)$ and $y'(t)$.
 
 #### Arc Length
 
@@ -56,7 +56,7 @@ The differential arc length can be defined as the following using simple geometr
 
 $$dS = \sqrt{dx^2 + dy^2}$$
 
-We can add $dt$ to this differential with the following:
+We can add $dt$ to this differential in the following way:
 
 $$dS = \frac{1}{dt} \sqrt{dx^2+dy^2}\ dt = \sqrt{\frac{dx^2+dy^2}{dt^2}}\ dt = \sqrt{\frac{dx^2}{dt^2}+ \frac{dy^2}{dt^2}}\ dt = \sqrt{x'^2+y'^2}\ dt $$
 
