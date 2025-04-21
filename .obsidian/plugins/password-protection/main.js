@@ -508,7 +508,7 @@ var en_default = {
   setting_folder_desc: "With relative path, the '/' is the root path of the vault",
   place_holder_enter_path: "Enter path, start with '/'",
   setting_toggle_name: "Enable/Disable password protection",
-  setting_toggle_desc: "Enable the protection you need to use the password, to disable it need to verify your password.",
+  setting_toggle_desc: "To enable password protection you will set your password, to disable it you will need to verify your password.",
   hint_enter_in_both_boxes: "Please enter your password in both boxes.",
   hint_password_must_match: "Passwords must match.",
   hint_password_length: "Password must contain valid characters and must be 1-20 characters long.",
@@ -535,6 +535,49 @@ var en_default = {
   setting_add_path_name: "Protected path",
   setting_add_path_place_holder: "Enter path, start with the '/'",
   setting_remove_path: "Remove protected path"
+};
+
+// langs/es.json
+var es_default = {
+  ok: "ACEPTAR",
+  cancel: "Cancelar",
+  open: "Activar",
+  close_password_protection: "Activar protecci\xF3n con contrase\xF1a",
+  open_password_protection: "Desactivar protecci\xF3n con contrase\xF1a",
+  password_protection_opened: "\xA1Protecci\xF3n con contrase\xF1a est\xE1 bloqueada!",
+  password_protection_closed: "\xA1Protecci\xF3n con contrase\xF1a est\xE1 desbloqueada!",
+  notice_set_password: "\xA1Introduzca la contrase\xF1a en preferencias para el complemento Protecci\xF3n con Contrase\xF1a primero!",
+  setting_folder_name: "Carpeta o archivo protegido",
+  setting_folder_desc: "Ruta relativa, usa '/' para la ruta ra\xEDz de la b\xF3veda",
+  place_holder_enter_path: "Introduce ruta, empiece con '/'",
+  setting_toggle_name: "Activar/Desactivar protecci\xF3n con contrase\xF1a",
+  setting_toggle_desc: "Para activar protecci\xF3n con contrase\xF1a, establecer\xE1s una contrase\xF1a, y para desactivar, tienes que verificarla.",
+  hint_enter_in_both_boxes: "Introduzca la contrase\xF1a en ambas casillas.",
+  hint_password_must_match: "Contrase\xF1as tienen que coincidir.",
+  hint_password_length: "Contrase\xF1a tiene que usar caracteres v\xE1lidos y contener 1-20 caracteres.",
+  hint_password_valid_character: "Contrase\xF1a contiene caracteres inv\xE1lidos.",
+  set_password_title: "Introduzca una contrase\xF1a para proteger una carpeta",
+  place_holder_enter_password: "Introduce contrase\xF1a, 1-20 caracteres",
+  confirm_password: "Confirmar la contrase\xF1a",
+  verify_password: "Verifique Contrase\xF1a",
+  enter_password: "Introduce la contrase\xF1a",
+  enter_password_to_verify: "Por favor, introduce la contrase\xF1a para desbloquear.",
+  password_is_empty: "Contrase\xF1a vac\xEDa.",
+  password_not_match: "Contrase\xF1as no coinciden.",
+  password_is_right: "Contrase\xF1a correcta.",
+  auto_lock_interval_name: "Bloqueo Autom\xE1tico",
+  auto_lock_interval_desc: "El n\xFAmero de minutos para esperar antes de bloquear autom\xE1tico desde que se abri\xF3 la nota protegido.",
+  forbid_close_verify_modal_name: "Desactivar el cierre de la casilla de verificaci\xF3n de contrase\xF1a si la contrase\xF1a no es correcta",
+  forbid_close_verify_modal_desc: "Esto te permitir\xE1 mas privacidad, pero si olvidas la contrase\xF1a, es posible que no puedas ver las notas.",
+  before_open_protection: "Activar el interruptor de arriba para activar protecci\xF3n con contrase\xF1a y desactivar las opciones de abajo.",
+  setting_pwd_hint_question_name: "Mensaje para recordar",
+  setting_pwd_hint_question_desc: "Escribe una frase para ayudarte recordar la contrase\xF1a.",
+  place_holder_enter_pwd_hint_question: "Mensaje para recordar",
+  setting_more_path: "M\xE1s carpetas o archivos a proteger (hasta 6)",
+  setting_add_path: "A\xF1adir ruta protegida",
+  setting_add_path_name: "Ruta protegida",
+  setting_add_path_place_holder: "Introducir ruta, empieza con '/'",
+  setting_remove_path: "Eliminar ruta protegida"
 };
 
 // langs/zh_cn.json
@@ -626,6 +669,7 @@ var zh_tw_default = {
 // langs/index.ts
 var LANGS = {
   en: en_default,
+  es: es_default,
   zh_cn: zh_cn_default,
   zh_tw: zh_tw_default
 };

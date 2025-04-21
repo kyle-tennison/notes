@@ -5,21 +5,20 @@ For daily activities
 
 ## Checklist
 
-- [ ] Check Emails
+- [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [ ] Ansys
-- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
-	- [ ] ECE-3710
-	- [ ] ME-2016
-	- [ ] ME-2110
-	- [ ] ISYE-3025
-	- [ ] APPH-1040
-	- [ ] PHIL-3127
-	- [ ] Calendar
+- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [x] ECE-3710
+	- [x] ME-2016
+	- [x] ME-2110
+	- [x] ISYE-3025
+	- [x] APPH-1040
+	- [x] PHIL-3127
+	- [x] Calendar
 - [ ] Duolingo
 - [ ] Anki 
-- [ ] [Personal Tasks](Personal%20Tasks.md)
+- [x] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**

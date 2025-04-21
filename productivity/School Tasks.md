@@ -6,31 +6,17 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ECE-3710: Catch Up
-- [ ] ME-2016: Exam 2 Study
-- [ ] ISYE-3025: Quiz 10 @{2025-03-30}
-- [ ] APPH-1040: Reflection 3 @{2025-03-30}
-- [ ] PHIL-3127: Reading @{2025-04-03}
 
 
 ## In Progress
 
-- [ ] Submit ECE Lab
-- [ ] Email ME-2016 Professor
+- [ ] ECE-3710: Catch Up
+- [ ] ECE-3710: Lab 5
+- [ ] ECE-3710: Lab 6
 
 
 ## Complete
 
-- [ ] ECE-3710: Exam 2 @{2025-03-14}
-- [ ] ECE-3710: HW Assignments
-- [ ] ME-2016: HW 7 @{2025-03-11}
-- [ ] APPH-1040: Quiz 2 @{2025-03-09}
-- [ ] PHIL-3127: Reading @{2025-03-10}
-- [ ] ISYE-3025: Quiz @{2025-03-08}
-- [ ] ME-2016: HW 6 @{2025-03-04}
-- [ ] ECE-3710: Catch Up
-- [ ] ME2016: HW 5 @{2025-02-18}
-- [ ] APPH-1040: Reflection 2 @{2025-03-02}
 
 
 ***
@@ -87,10 +73,25 @@ kanban-plugin: board
 - [ ] ME-2110: Peer Review @{2025-01-21}
 - [ ] ME-2110: HW 1 @{2025-01-13}
 - [ ] ISYE-3025: Module 2 Quiz
+- [ ] Submit ECE Lab
+- [ ] Email ME-2016 Professor
+- [ ] ECE-3710: HW Assignments
+- [ ] ME-2016: HW 7 @{2025-03-11}
+- [ ] APPH-1040: Quiz 2 @{2025-03-09}
+- [ ] PHIL-3127: Reading @{2025-03-10}
+- [ ] ISYE-3025: Quiz @{2025-03-08}
+- [ ] ME-2016: HW 6 @{2025-03-04}
+- [ ] ECE-3710: Catch Up
+- [ ] ME2016: HW 5 @{2025-02-18}
+- [ ] APPH-1040: Reflection 2 @{2025-03-02}
+- [ ] ECE-3710: Exam 2 @{2025-03-14}
+- [ ] PHIL-3127: Reading @{2025-04-03}
+- [ ] APPH-1040: Reflection 3 @{2025-03-30}
+- [ ] ISYE-3025: Quiz 10 @{2025-03-30}
+- [ ] ME-2016: Exam 2 Study
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board"}
 ```
-
-> 🤖 (notecheck comment) - The item “ECE-3710: Catch Up” appears in both “Backlog” and “Complete,” which is contradictory for the same task. Consider removing or clarifying the duplication.
+%%

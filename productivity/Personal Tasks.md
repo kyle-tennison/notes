@@ -1,4 +1,5 @@
 ---
+
 kanban-plugin: board
 
 ---
@@ -8,7 +9,6 @@ kanban-plugin: board
 - [ ] Dentist Appointment
 - [ ] Housing
 - [ ] UC Financial Aid
-- [ ] Storage Unit
 
 
 ## Blocked
@@ -40,6 +40,7 @@ kanban-plugin: board
 - [ ] Ansys Food
 - [ ] GTSR Research Compilation
 - [ ] Haircut
+- [ ] Storage Unit
 
 %% kanban:settings
 ```

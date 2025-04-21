@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4c48b2f64e9442",
+        "id": "f747c409ea2a454a",
         "type": "tabs",
         "children": [
           {
-            "id": "95362cd310a721da",
+            "id": "2f6e0d89e93b6c25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2016 (python)/Euler's Method.md",
+                "file": "lecture notes/ECE-3710 (circuits)/3.6 MOSFETs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Euler's Method"
-            }
-          },
-          {
-            "id": "0885d7b2e0df6730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/ME-2016 (python)/Optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Optimization"
+              "title": "3.6 MOSFETs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "notecheck",
+                "query": "Bandpass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -233,47 +217,48 @@
       "edge-tts:Read note aloud": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0885d7b2e0df6730",
+  "active": "2f6e0d89e93b6c25",
   "lastOpenFiles": [
-    "lecture notes/ME-2016 (python)/Euler's Method.md",
-    "Untitled 1.md",
-    "lecture notes/ME-2016 (python)/Optimization.md",
-    "productivity/Morning Check.md",
-    "lecture notes/PHIL-3127 (philosophy)/The Extended Mind – Andy Clark & David Chalmers.md",
-    "lecture notes/PHIL-3127 (philosophy)/Why I Want to be a Posthuman When I Grow Up.md",
-    "lecture notes/PHIL-3127 (philosophy)/Baudrillard - Simulacra and Simulation.md",
-    "lecture notes/PHIL-3127 (philosophy)/Hoel and Carusi - Merleau-Ponty and Technology.md",
+    "lecture notes/ECE-3710 (circuits)/3.4 Diodes.md",
     "Untitled.md",
-    "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-14-23.15.13.excalidraw.svg",
-    "lecture notes/ECE-3710 (circuits)/1.2. Resistive Circuits.md",
-    "lecture notes/ECE-3710 (circuits)/2.1 Intro to Electronics.md",
-    "independent study/neural networs/1. Multilayer Preceptron.md",
-    "lecture notes/ME-3322 (thermodynamics)/11. Air-Water Mixtures.md",
-    "lecture notes/ME-3322 (thermodynamics)/11. Psychrometrics.md",
-    "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
+    "lecture notes/ECE-3710 (circuits)/3.5 ACDC Conversion.md",
+    "exca.md",
+    "lecture notes/ECE-3710 (circuits)/3.6 MOSFETs.md",
+    "media/image-6.png",
+    "media/image-5.png",
+    "media/image-4.png",
+    "media/image-3.png",
+    "media/image-2.png",
+    "media/excalidraw/excalidraw-2025-04-20-19.09.40.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-04-20-19.09.40.excalidraw.svg",
+    "lecture notes/ECE-3710 (circuits)/3.3 Active Filters.md",
     "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
-    "private/UC Transfer Applications.md",
-    "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
-    "README.md",
-    "lecture notes/MSE-2001 (material science)/Exam Notes.md",
-    "lecture notes/ISYE-3025 (economics)/12. Income Taxes.md",
-    "lecture notes/ISYE-3025 (economics)/11. Deprecation.md",
-    "media/Pasted image 20250413181233.png",
-    "media/Pasted image 20250413180503.png",
+    "media/excalidraw/excalidraw-2025-04-20-19.04.49.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-04-20-19.04.49.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-04-20-19.00.59.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-04-20-19.00.59.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-04-20-18.56.06.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-04-20-18.56.06.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-04-20-18.54.25.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-04-20-18.54.25.excalidraw.svg",
     "productivity/School Tasks.md",
-    "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
+    "productivity/Personal Tasks.md",
+    "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
+    "media/excalidraw/excalidraw-2025-04-19-17.13.50.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-04-19-17.06.29.excalidraw.md",
+    "productivity/Morning Check.md",
+    "productivity/school/Fall 2025 Planning.md",
+    "lecture notes/ME-2016 (python)/Euler's Method.md",
+    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
+    "lecture notes/ME-2016 (python)/Numerical Integration.md",
+    "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
     "lecture notes/ME-2016 (python)/Regression.md",
-    "media/excalidraw/excalidraw-2025-03-31-17.02.45.excalidraw.svg",
-    "media/Pasted image 20250331165350.png",
-    "media/Pasted image 20250330183810.png",
-    "media/Pasted image 20250330182100.png",
-    "media/Pasted image 20250314162252.png",
-    "media/excalidraw/excalidraw-2025-03-10-21.39.25.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-03-10-09.53.51.excalidraw.svg",
+    "lecture notes/ME-2016 (python)/Interpolation.md",
+    "productivity/school/Spring 2025 Planning.md",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
