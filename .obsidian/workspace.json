@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "f747c409ea2a454a",
+        "id": "dbdfc9914e15d16f",
         "type": "tabs",
         "children": [
           {
-            "id": "2f6e0d89e93b6c25",
+            "id": "dffe20edda25833a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3710 (circuits)/3.6 MOSFETs.md",
+                "file": "private/daily-notes/Global Note.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Note"
+            }
+          },
+          {
+            "id": "f8c431cb2bf3f5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navier Stokes Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 MOSFETs"
+              "title": "Navier Stokes Equations"
+            }
+          },
+          {
+            "id": "8dd91380586d7d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "independent study/CFD/Cauchy Momentum Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cauchy Momentum Equation"
+            }
+          },
+          {
+            "id": "810b66a590850319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "independent study/CFD/Material Derivatives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material Derivatives"
+            }
+          },
+          {
+            "id": "8d985a17f4cbdb3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "independent study/math/Divergence Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Divergence Theorem"
+            }
+          },
+          {
+            "id": "0bafad15dbee32ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "independent study/classic mechanics/Galileo's Relativity Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Galileo's Relativity Principle"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bandpass",
+                "query": "Divergence ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,50 +286,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "edge-tts:Read note aloud": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f6e0d89e93b6c25",
+  "active": "810b66a590850319",
   "lastOpenFiles": [
-    "lecture notes/ECE-3710 (circuits)/3.4 Diodes.md",
-    "Untitled.md",
-    "lecture notes/ECE-3710 (circuits)/3.5 ACDC Conversion.md",
-    "exca.md",
-    "lecture notes/ECE-3710 (circuits)/3.6 MOSFETs.md",
-    "media/image-6.png",
-    "media/image-5.png",
-    "media/image-4.png",
-    "media/image-3.png",
-    "media/image-2.png",
-    "media/excalidraw/excalidraw-2025-04-20-19.09.40.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-20-19.09.40.excalidraw.svg",
-    "lecture notes/ECE-3710 (circuits)/3.3 Active Filters.md",
-    "lecture notes/ECE-3710 (circuits)/2.2 Frequency Response.md",
-    "media/excalidraw/excalidraw-2025-04-20-19.04.49.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-20-19.04.49.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-04-20-19.00.59.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-20-19.00.59.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-04-20-18.56.06.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-20-18.56.06.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-04-20-18.54.25.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-20-18.54.25.excalidraw.svg",
-    "productivity/School Tasks.md",
-    "productivity/Personal Tasks.md",
-    "lecture notes/ECE-3710 (circuits)/3.2 Op Amps.md",
-    "media/excalidraw/excalidraw-2025-04-19-17.13.50.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-04-19-17.06.29.excalidraw.md",
+    "independent study/CFD/Cauchy Momentum Equation.md",
+    "independent study/CFD/Material Derivatives.md",
+    "Navier Stokes Equations.md",
+    "independent study/Stress Tensors.md",
+    "independent study/math/Divergence Theorem.md",
+    "media/image-25.png",
+    "independent study/classic mechanics/Galileo's Relativity Principle.md",
+    "private/daily-notes/Global Note.md",
+    "independent study/CFD",
     "productivity/Morning Check.md",
-    "productivity/school/Fall 2025 Planning.md",
-    "lecture notes/ME-2016 (python)/Euler's Method.md",
-    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
-    "lecture notes/ME-2016 (python)/Numerical Integration.md",
-    "lecture notes/ECE-3710 (circuits)/1.3. Capacitive & Inductive Circuits.md",
-    "lecture notes/ME-2016 (python)/Regression.md",
-    "lecture notes/ME-2016 (python)/Interpolation.md",
-    "productivity/school/Spring 2025 Planning.md",
+    "productivity/Personal Tasks.md",
+    "independent study/math/multivariable calculus/Multivariable Chain Rule.md",
+    "independent study/classic mechanics/Lagrange's Equations.md",
+    "independent study/classic mechanics/Angular Momentum.md",
+    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
+    "independent study/classic mechanics/Conservation Laws.md",
+    "independent study/classic mechanics/Calculus of Variations.md",
+    "Untitled.md",
+    "media/image-24.png",
+    "independent study/classic mechanics/Untitled.md",
+    "Philosophy Research.md",
+    "Center of Mass.md",
+    "media/excalidraw/excalidraw-2025-05-17-22.49.27.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-05-17-22.49.27.excalidraw.svg",
+    "media/image-23.png",
+    "miscellaneous/Landau Video 3 Script.md",
+    "miscellaneous/Landau Video 2 Script.md",
+    "media/excalidraw/excalidraw-2025-05-17-21.23.14.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-05-17-21.23.14.excalidraw.svg",
+    "lecture notes/ME-2016 (python)/Root Finding.md",
+    "lecture notes/ME-2016 (python)/Spline Fitting.md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Textbook).md",
+    "media/image-22.png",
+    "media/image-21.png",
+    "media/image-20.png",
+    "media/image-19.png",
+    "media/image-18.png",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
@@ -267,7 +338,6 @@
     "independent study/math/calculus",
     "lecture notes/ME-2016 (python)",
     "independent study/math/multivariable calculus",
-    "lecture notes/PHIL-3127 (philosophy)/reading-notes",
-    "lecture notes/PHIL-3127 (philosophy)"
+    "lecture notes/PHIL-3127 (philosophy)/reading-notes"
   ]
 }

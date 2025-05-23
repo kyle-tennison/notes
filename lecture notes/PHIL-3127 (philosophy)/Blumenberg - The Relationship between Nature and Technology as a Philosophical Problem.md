@@ -1,0 +1,30 @@
+# Blumenberg - The Relationship between Nature and Technology as a Philosophical Problem
+
+
+- Written in the post-war era.
+- Written just after the Turing test
+- Theory has more "being" than its real form
+- Skill/technology can exist without theory 
+	- Technology is performative, it doesn't need to be based on some truth
+	- He questions why we feel the need to develop technology
+	- Isolation and abstraction is a big part of modern science, but this idea that you can abstract and isolate is not definite; you can argue that there is no such way to isolate something
+		- Mathematical equations are a way that we abstract away from the physical world
+- He says that we have to "think through our tools;" our physical bodies are not well equipped for anything without tools.
+	- This may be our drive to create technology
+	- Says that man is a technical animal
+	- Says that tools are "trapping us;" they aren't simply extensions of us but in some regard they are autonomous and we yield to them.
+- We have become so acquainted with modern technology that we become unfamiliar with nature itself. We differentiate between inside world and the outside world.
+	- We have created a new kind, which is why he argues that there is autonomy.
+	- There is a significant shift between the medieval world and now in thought of this topic
+- In many ways, everything has become strictly utilitarian and as cheep as possible. You can see this children's toys.
+- Talks about the Christian side of things; we aren't *from* nature, we're placed *into* nature; sees humans as part-divine. 
+	- Thinks that there's a need to create a world for ourselves—nature itself is not welcoming to us
+	- Thinks that christianity paved the way for technization
+- The infinite was only seen as a good thing in the medieval period after it was associated with the divine. 
+- The relationship and picture of God was shaped by technology; nowadays there is no physical interaction with God, he is completely transcended and the relationship is mostly hidden. 
+	- It used be the common to think that individual skill was bestowed upon an individual by a god. This contrasts with the contemporary practice of being "great" as an individual. The greeks would've seen this as arrogant. 
+	- Self-asserting individuals
+- Argues that there really is invention and not simply copies of nature. Argues that creative genius is real. 
+	- As creators, we don't depend on Christ to create.
+	- This leads to the idea that God is dead.
+- Suggests that myth serves to reconcile the fear and unpredictability of nature by framing it in anthropomorphic or divine terms

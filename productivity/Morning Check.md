@@ -8,16 +8,10 @@ For daily activities
 - [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
-	- [x] ECE-3710
-	- [x] ME-2016
-	- [x] ME-2110
-	- [x] ISYE-3025
-	- [x] APPH-1040
-	- [x] PHIL-3127
-	- [x] Calendar
-- [ ] Duolingo
-- [ ] Anki 
+- [ ] ~~Check Canvas, load [School Tasks](School%20Tasks.md)~~
+	- [ ] ~~Calendar~~
+- [x] Duolingo
+- [x] Anki 
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)

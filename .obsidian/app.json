@@ -3,5 +3,8 @@
   "promptDelete": false,
   "attachmentFolderPath": "media",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "media/"
+  ]
 }

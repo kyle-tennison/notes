@@ -1,8 +1,7 @@
-# Hoel and Carusi - Merleau-Ponty and Technology
+ # Hoel and Carusi - Merleau-Ponty and Technology
 
-
-- Talking about phenomenological stuff
-- Everything: tools, bodies, etc are tools in some sense
-- Technology and experience can be non-neutral 
-- Nature, body, art, language, are all the same idea
-	- They connect technology to art2
+- Talking about phenomenological topics
+- Everything—tools, bodies, etc.—is a tool in some sense
+- Technology and experience can be non-neutral
+- Nature, body, art, and language are based on the same idea
+	- They connect technology to art

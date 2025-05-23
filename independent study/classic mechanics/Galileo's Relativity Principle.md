@@ -121,8 +121,10 @@ $$m_i\frac{d \textbf v_i}{dt} = -\frac{\partial U}{\partial \textbf r_i}$$
 If we let $\frac{d \textbf v_i}{dt} = \textbf a_i$, and define $\textbf F = -\frac{\partial U}{\partial \textbf r_i}$, we obtain:
 
 $$m_i a_i = F$$
+^newtons-second-law
 
 which is **Newton's second law.**
+
 
 Like $U$, $\textbf F$ is also only dependent on coordinates. This might seem contradictory, but remember that this is restricted to a closed system. In a pendulum, for instance, it is evident how the force on a member is solely dependent on its position.
 

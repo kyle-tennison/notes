@@ -6,9 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Dentist Appointment
-- [ ] Housing
-- [ ] UC Financial Aid
 
 
 ## Blocked
@@ -17,6 +14,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Kinetic Pre-Move In
 
 
 ***
