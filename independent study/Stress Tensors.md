@@ -42,6 +42,75 @@ $$\nabla \cdot \boldsymbol{T} =
 
 
 Physically, this divergence is really just the *net force per unit volume*.
+^divergence-of-stress-tensor
+
+### Directional Forces
+
+![[image-26.png]]
+
+If you are trying to find the net force in the x axis (shown here), you need to account for how the force will change over the material element. For example, the green value at the bottom shows:
+
+$$-\sigma_{yx}dxdz$$
+
+This is the shear stress (Force/Area), times the area of the $dx\cdot dz$ face on the material element, given a partition of force in the x direction. Then, at the top is it's compliment stress (also in green), shown as:
+
+$$\left( \sigma_{yx}+\frac{\partial \sigma_{yx}}{\partial y}dy \right)dxdz$$
+
+Here, we need to add $(\partial \sigma_{yx}/\partial y)dy$ to account for the *change in stress over the element's size*. This is simply a first-order expansion of the Taylor Series. 
+
+## Stress Deviator Tensor
+
+^e76ff6
+
+A stress tensor can be expressed as the sum of two other stress tensors:
+
+1. A [*hydrostatic stress*](https://en.wikipedia.org/wiki/Hydrostatic_stress) tensor $\pi \delta_{ij}$ (i.e., just a tensor with 3 normal stresses). This tends to change the volume of the body.
+2. A *deviatoric component* $s_{ij}$ called the **stress deviator tensor**. This tends to deform the body.
+
+The stress tensor is simply the sum of these two partitions:
+
+$\sigma_{ij}=s_{ij}+\pi \delta_{ij}$ 
+
+where $\pi$ is the mean stress, given by:
+
+$$\pi = \frac{\sigma_{xx}+\sigma_{yy}+\sigma_{zz}}{3}$$
+this is also *one-third the trace (diagonal sum) of the stress tensor*. In $\mathbb{R}^3$, this works out to:
+
+
+$$\begin{aligned}
+\begin{bmatrix}
+s_{xx} & s_{xy} & s_{xz} \\
+s_{yx} & s_{yy} & s_{yz} \\
+s_{zx} & s_{zy} & s_{zz}
+\end{bmatrix}
+&=
+\begin{bmatrix}
+\sigma_{xx} & \sigma_{xy} & \sigma_{xz} \\
+\sigma_{yx} & \sigma_{yy} & \sigma_{yz} \\
+\sigma_{zx} & \sigma_{zy} & \sigma_{zz}
+\end{bmatrix}
+-
+\begin{bmatrix}
+\pi & 0 & 0 \\
+0 & \pi & 0 \\
+0 & 0 & \pi
+\end{bmatrix} \\
+&=
+\begin{bmatrix}
+\sigma_{xx} - \pi & \sigma_{xy} & \sigma_{xz} \\
+\sigma_{yx} & \sigma_{yy} - \pi & \sigma_{yz} \\
+\sigma_{zx} & \sigma_{zy} & \sigma_{zz} - \pi
+\end{bmatrix}.
+\end{aligned}$$
+
+
+Then, Pressure is then usually defined as:
+
+$$p=\zeta \nabla \cdot \vec u - \pi$$
+
+where $\zeta$ is the *volume viscosity* (a material property). 
+
+
 
 
 ## References
