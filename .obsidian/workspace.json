@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04e37ba171b92bbc",
+            "id": "96dc7353ac02845e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "independent study/math/Laplace Operator.md",
-                "mode": "source",
-                "source": false
+                "aFile": "independent study/CFD/Poisson's equation.md",
+                "bFile": "independent study/CFD/Poisson's equation.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Laplace Operator"
+              "icon": "diff",
+              "title": "Diff: Poisson's equation"
+            }
+          },
+          {
+            "id": "046b0b19f5d38b88",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "independent study/math/Laplace Operator.md",
+                "bFile": "independent study/math/Laplace Operator.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Laplace Operator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350,
-    "collapsed": true
+    "width": 350
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,41 +234,41 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "04e37ba171b92bbc",
+  "active": "046b0b19f5d38b88",
   "lastOpenFiles": [
-    "Navier Stokes Equations.md",
-    "Advection.md",
-    "independent study/CFD/CFD Overview.md",
     "independent study/CFD/Poisson's equation.md",
+    "independent study/math/multivariable calculus/Divergence Theorem.md",
+    "independent study/CFD/Navier Stokes Equations.md",
+    "miscellaneous/Landau Video 3 Script.md",
+    "miscellaneous/Landau Video 3.md",
+    "independent study/CFD/CFD Overview.md",
+    "independent study/CFD/Cauchy Momentum Equation.md",
+    "README.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "independent study/math/Laplace Operator.md",
+    "Advection.md",
     "lecture notes/ME-2016 (python)/Interpolation.md",
     "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
     "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
     "private/ansys/Conversion to Asyncio.md",
     "independent study/classic mechanics/Conservation Laws.md",
     "lecture notes/ME-2016 (python)/Root Finding.md",
-    "independent study/math/multivariable calculus/Divergence Theorem.md",
     "independent study/Stress Tensors.md",
     "independent study/math/calculus/Chain Rule.md",
     "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
-    "independent study/CFD/Cauchy Momentum Equation.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "media/image-30.png",
     "independent study/CFD/Material Derivatives.md",
     "media/image-29.png",
-    "Untitled 1.md",
     "media/image-28.png",
     "independent study/math/Invariants of Tensors.md",
     "media/image-27.png",
     "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
     "media/image-26.png",
-    "independent study/Generalized Momentum Conservation Principle.md",
-    "independent study/electromagnetism/Gyrator-Capacitor Model.md",
-    "private/daily-notes/Global Note.md",
     "media/image-25.png",
     "independent study/CFD",
-    "independent study/math/multivariable calculus/Multivariable Chain Rule.md",
     "media/image-24.png",
     "media/excalidraw/excalidraw-2025-05-17-22.49.27.excalidraw.svg",
     "media/image-23.png",

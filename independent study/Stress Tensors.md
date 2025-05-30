@@ -12,7 +12,7 @@ $$\textbf{T} \equiv \begin{bmatrix}
 \sigma_{zx} & \sigma_{zy} & \sigma_{zz} \\
 \end{bmatrix}$$
 
-Where $\textbf{T}$ is the **Stress Tensor**. 
+Where $\textbf{T}$ is the **Stress Tensor**.
 
 If you want to then find the *stress in any direction*, you can use:
 
@@ -22,12 +22,11 @@ where $\vec \sigma_n$ is the stress in the $\hat n$ direction.
 
 ## Net Forces
 
-
 The *net force* on a body can be described as:
 
 $$\vec F=\iint_S\vec \sigma_n dS = \iint_S\hat n \cdot \textbf{T}\;dS$$
 
-i.e., integrating over all surface stress (force/area) to get net force. Then, by the [Divergence Theorem](Divergence%20Theorem.md), this can be expressed as:
+i.e., integrating over all surface stress (force/area) to get the net force. Then, by the [Divergence Theorem](Divergence%20Theorem.md), this can be expressed as:
 
 $$\vec F = \iiint_{V}\nabla \cdot \textbf{T}\;dV$$
 
@@ -40,7 +39,6 @@ $$\nabla \cdot \boldsymbol{T} =
 \frac{\partial \sigma_{zx}}{\partial x} + \frac{\partial \sigma_{zy}}{\partial y} + \frac{\partial \sigma_{zz}}{\partial z}
 \end{bmatrix}$$
 
-
 Physically, this divergence is really just the *net force per unit volume*.
 ^divergence-of-stress-tensor
 
@@ -48,15 +46,15 @@ Physically, this divergence is really just the *net force per unit volume*.
 
 ![[image-26.png]]
 
-If you are trying to find the net force in the x axis (shown here), you need to account for how the force will change over the material element. For example, the green value at the bottom shows:
+If you are trying to find the net force along the x-axis (shown here), you need to account for how the force will change over the material element. For example, the green value at the bottom shows:
 
 $$-\sigma_{yx}dxdz$$
 
-This is the shear stress (Force/Area), times the area of the $dx\cdot dz$ face on the material element, given a partition of force in the x direction. Then, at the top is it's compliment stress (also in green), shown as:
+This is the shear stress (force/area) times the area of the $dx\cdot dz$ face on the material element, given a partition of force in the x direction. Then, at the top is its complementary stress (also in green), shown as:
 
 $$\left( \sigma_{yx}+\frac{\partial \sigma_{yx}}{\partial y}dy \right)dxdz$$
 
-Here, we need to add $(\partial \sigma_{yx}/\partial y)dy$ to account for the *change in stress over the element's size*. This is simply a first-order expansion of the Taylor Series. 
+Here, we need to add $\left(\frac{\partial \sigma_{yx}}{\partial y}\right)dy$ to account for the *change in stress over the element's size*. This is simply a first-order expansion of the Taylor series.
 
 ## Stress Deviator Tensor
 
@@ -74,8 +72,8 @@ $\sigma_{ij}=s_{ij}+\pi \delta_{ij}$
 where $\pi$ is the mean stress, given by:
 
 $$\pi = \frac{\sigma_{xx}+\sigma_{yy}+\sigma_{zz}}{3}$$
-this is also *one-third the trace (diagonal sum) of the stress tensor*. In $\mathbb{R}^3$, this works out to:
 
+This is also *one-third the trace (diagonal sum) of the stress tensor*. In $\mathbb{R}^3$, this works out to:
 
 $$\begin{aligned}
 \begin{bmatrix}
@@ -103,15 +101,11 @@ s_{zx} & s_{zy} & s_{zz}
 \end{bmatrix}.
 \end{aligned}$$
 
-
-Then, Pressure is then usually defined as:
+Then, pressure is usually defined as:
 
 $$p=\zeta \nabla \cdot \vec u - \pi$$
 
-where $\zeta$ is the *volume viscosity* (a material property). 
-
-
-
+where $\zeta$ is the *volume viscosity* (a material property).
 
 ## References
 

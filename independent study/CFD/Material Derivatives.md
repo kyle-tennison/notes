@@ -1,6 +1,6 @@
 # Material Derivatives
 
-Material derivatives are a continuum mechanics concept that describes the *rate of change* of some physical quantity of a **[Material Element](https://en.wikipedia.org/wiki/Fluid_parcel)** (i.e., an infinitesimal volume—aka a **Fluid Parcel**) that are within a velocity field that depends on space and time. 
+Material derivatives are a continuum mechanics concept that describes the *rate of change* of some physical quantity of a **[Material Element](https://en.wikipedia.org/wiki/Fluid_parcel)** (i.e., an infinitesimal volume—also called a **Fluid Parcel**) that is within a velocity field that depends on space and time.
 
 Other names for the material derivative include:
 
@@ -17,9 +17,9 @@ Other names for the material derivative include:
 
 For a macroscopic tensor field $y(\textbf{x}, t)$, the Material Derivative is defined as:
 
-$$\frac{Dy}{Dt} \equiv \frac{\partial y}{\partial t} +\textbf{u}\cdot \nabla y$$
+$$\frac{Dy}{Dt} \equiv \frac{\partial y}{\partial t} + \textbf{u}\cdot \nabla y$$
 
-where $\nabla y$ is the *[covariant derivative](https://en.wikipedia.org/wiki/Covariant_derivative)* of the tensor and $\textbf{u}(\textbf{x}, t)$ is the flow velocity. The $\textbf{u}\cdot \nabla y$ term can be thought of the directional derivative in the $\textbf{u}$ direction: $(\textbf{u}\cdot \nabla)y$.
+where $\nabla y$ is the *[covariant derivative](https://en.wikipedia.org/wiki/Covariant_derivative)* of the tensor and $\textbf{u}(\textbf{x}, t)$ is the flow velocity. The $\textbf{u}\cdot \nabla y$ term can be thought of as the directional derivative in the $\textbf{u}$ direction: $(\textbf{u}\cdot \nabla)y$.
 
 Really, conceptually, all the Material Derivative is doing is *combining local changes with global changes.* ChatGPT gave me a good example:
 
