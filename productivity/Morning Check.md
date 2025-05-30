@@ -10,7 +10,7 @@ For daily activities
 	- [x] Georgia Tech
 - [ ] ~~Check Canvas, load [School Tasks](School%20Tasks.md)~~
 	- [ ] ~~Calendar~~
-- [x] Duolingo
+- [ ] Duolingo
 - [x] Anki 
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar

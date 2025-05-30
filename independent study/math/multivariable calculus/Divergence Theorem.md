@@ -14,9 +14,9 @@ Let **F** be a continuously differentiable vector field defined on a closed, bou
 
 1. **Start from the divergence definition:**
 
-   \[
+   $$
    \nabla \cdot \mathbf{F} = \lim_{V \to 0} \frac{1}{V} \oint_{\partial V} \mathbf{F} \cdot \mathbf{n} \, dS
-   \]
+   $$
 
    This describes the average flux density exiting an infinitesimal volume.
 
@@ -24,17 +24,17 @@ Let **F** be a continuously differentiable vector field defined on a closed, bou
 
    Divide **V** into infinitesimal volume elements \( \delta V_i \). The total flux through **S** is the sum of the fluxes through the boundary of each \( \delta V_i \). Internal surface contributions cancel due to opposite orientations. Only the boundary surfaces contribute:
 
-   \[
-   \sum \oiint_{\partial (\delta V_i)} \mathbf{F} \cdot \mathbf{n} \, dS \to \oiint_{S} \mathbf{F} \cdot d\mathbf{S}
-   \]
+   $$
+   \sum \iint_{\partial (\delta V_i)} \mathbf{F} \cdot \mathbf{n} \, dS \to \iint_{S} \mathbf{F} \cdot d\mathbf{S}
+   $$
 
 3. **Transition to volume integral:**
 
-   By summing over all \( \delta V_i \), and taking the limit as \( \delta V_i \to 0 \):
+   By summing over all $\Delta V_i$, and taking the limit as $\Delta V_i \to 0$ :
 
-   \[
+   $$
    \iiint_{V} (\nabla \cdot \mathbf{F}) \, dV = \iint_{S} \mathbf{F} \cdot d\mathbf{S}
-   \]
+   $$
 
    Thus, proven.
 
