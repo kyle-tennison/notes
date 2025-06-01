@@ -24,6 +24,10 @@ alternatively expressed as:
 
 $$\boldsymbol \tau = \mu \left( \nabla \textbf u + (\nabla \textbf u)^T \right)+\lambda (\nabla \cdot \textbf u) \textbf I$$
 
+[^1]
+
+Read more at [Strain Rate Tensor](Strain%20Rate%20Tensor.md) and [Stress Tensors](Stress%20Tensors.md). 
+
 where $\mu$ and $\lambda$ are proportionality constants:
 - $\mu$ is the shear viscosity, usually called **viscosity**
 - $\lambda$ is the volume viscosity, usually called **bulk viscosity**
@@ -106,3 +110,6 @@ This is known as the **Pressure Poisson equation**.
 ## References
 
 - https://en.wikipedia.org/wiki/Derivation_of_the_Navier%E2%80%93Stokes_equations
+
+[^1]: [Definition by Strain Rate](Stress%20Tensors.md#Definition%20by%20Strain%20Rate)
+	

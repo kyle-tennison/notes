@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5dba2fbe309bb31f",
+        "id": "12ecb4f64b2346e5",
         "type": "tabs",
         "children": [
           {
-            "id": "96dc7353ac02845e",
+            "id": "a64cb76dd238556e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "independent study/CFD/Poisson's equation.md",
-                "bFile": "independent study/CFD/Poisson's equation.md",
-                "aRef": ""
+                "file": "independent study/CFD/Navier Stokes Equations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Poisson's equation"
+              "icon": "lucide-file",
+              "title": "Navier Stokes Equations"
             }
           },
           {
-            "id": "046b0b19f5d38b88",
+            "id": "592759f7fdb79ee9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "independent study/math/Laplace Operator.md",
-                "bFile": "independent study/math/Laplace Operator.md",
-                "aRef": ""
+                "file": "independent study/CFD/CFD Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Laplace Operator"
+              "icon": "lucide-file",
+              "title": "CFD Overview"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bulk vis",
+                "query": "\"Strain tensor\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -214,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 350,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,18 +236,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "046b0b19f5d38b88",
+  "active": "592759f7fdb79ee9",
   "lastOpenFiles": [
+    "independent study/CFD/Navier Stokes Equations.md",
+    "independent study/Strain Rate Tensor.md",
+    "independent study/Stress Tensors.md",
+    "independent study/CFD/Cauchy Momentum Equation.md",
+    "independent study/CFD/Material Derivatives.md",
+    "Command Reference.md",
+    "media/image-26.png",
     "independent study/CFD/Poisson's equation.md",
     "independent study/math/multivariable calculus/Divergence Theorem.md",
-    "independent study/CFD/Navier Stokes Equations.md",
     "miscellaneous/Landau Video 3 Script.md",
     "miscellaneous/Landau Video 3.md",
     "independent study/CFD/CFD Overview.md",
-    "independent study/CFD/Cauchy Momentum Equation.md",
     "README.md",
     "Untitled 1.md",
-    "Untitled.md",
     "independent study/math/Laplace Operator.md",
     "Advection.md",
     "lecture notes/ME-2016 (python)/Interpolation.md",
@@ -254,19 +260,15 @@
     "private/ansys/Conversion to Asyncio.md",
     "independent study/classic mechanics/Conservation Laws.md",
     "lecture notes/ME-2016 (python)/Root Finding.md",
-    "independent study/Stress Tensors.md",
     "independent study/math/calculus/Chain Rule.md",
     "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "media/image-30.png",
-    "independent study/CFD/Material Derivatives.md",
     "media/image-29.png",
     "media/image-28.png",
     "independent study/math/Invariants of Tensors.md",
     "media/image-27.png",
-    "lecture notes/ME-2016 (python)/Taylor Series Approximation.md",
-    "media/image-26.png",
     "media/image-25.png",
     "independent study/CFD",
     "media/image-24.png",

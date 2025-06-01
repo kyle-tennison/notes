@@ -63,7 +63,7 @@ Here, we need to add $\left(\frac{\partial \sigma_{yx}}{\partial y}\right)dy$ to
 A stress tensor can be expressed as the sum of two other stress tensors:
 
 1. A [*hydrostatic stress*](https://en.wikipedia.org/wiki/Hydrostatic_stress) tensor $\pi \delta_{ij}$ (i.e., just a tensor with 3 normal stresses). This tends to change the volume of the body.
-2. A *deviatoric component* $s_{ij}$ called the **stress deviator tensor**. This tends to deform the body.
+2. A *deviatoric component* $\boldsymbol \tau$ called the **stress deviator tensor**. This tends to deform the body.
 
 The stress tensor is simply the sum of these two partitions:
 
@@ -72,6 +72,9 @@ $\sigma_{ij}=s_{ij}+\pi \delta_{ij}$
 where $\pi$ is the mean stress, given by:
 
 $$\pi = \frac{\sigma_{xx}+\sigma_{yy}+\sigma_{zz}}{3}$$
+
+and $\delta_{ij}$ is the Kronecker delta (i.e. just the components of an identity matrix; $(\textbf I)_{ij} = \delta_{ij}$). 
+
 
 This is also *one-third the trace (diagonal sum) of the stress tensor*. In $\mathbb{R}^3$, this works out to:
 
@@ -101,11 +104,21 @@ s_{zx} & s_{zy} & s_{zz}
 \end{bmatrix}.
 \end{aligned}$$
 
-Then, pressure is usually defined as:
 
-$$p=\zeta \nabla \cdot \vec u - \pi$$
 
-where $\zeta$ is the *volume viscosity* (a material property).
+### Definition by Strain Rate 
+
+In fluids, the stress deviator tensor can be written in terms of the [Strain Rate Tensor](Strain%20Rate%20Tensor.md) (for reasons that are beyond my understanding). The idea is that two physical constants $A$ and $B$ exist that allow:
+
+$$\tau _{ij}= Ae_{ij}+B e_{kk}\delta{ij}$$
+
+where $e_{kk}$ is simply the trace of $\textbf e$. In vector form, this is:
+
+$$\boldsymbol \tau = A \textbf e + B (\;\textbf{tr(e)\;})\textbf I$$
+
+Physically, it is found that $A = 2 \mu$ and $B = \lambda$ , where $\mu$ is shear viscosity and $\lambda$ is bulk viscosity.
+
+
 
 ## References
 
