@@ -13,7 +13,7 @@ $$\nabla ^2 \Phi = 0$$
 ## Finite Difference Method
 ### Boundary Condition Types
 A **Dirichlet Boundary Condition**[^1] *fixes the solution* of a differential equation at the boundaries. These are called boundary conditions of the *first type*. For instance:
-
+d
 $$y''+y=0$$
 
 The boundaries would be:

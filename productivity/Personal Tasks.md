@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Kinetic Pre-Move In
 
 
 ## Blocked
@@ -14,7 +15,12 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Kinetic Pre-Move In
+- [ ] Payroll Register
+- [ ] Renew ragposium ssl
+- [ ] Apply to tesla jobs
+- [ ] Corporate Trainings
+- [ ] PTC Google Account
+- [ ] Reach out to CFD profs
 
 
 ***

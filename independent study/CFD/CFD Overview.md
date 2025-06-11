@@ -109,6 +109,7 @@ u (\partial F_y/\partial x)+ v(\partial F_y/\partial y)
 \end{bmatrix}
 $$
 
+
 In the [Navier Stokes Equations](Navier%20Stokes%20Equations.md), $(\textbf u \cdot \nabla)\textbf u$ represents *advection*. Because $\textbf F = \textbf u$ in this case, you can represent this in Python with:
 
 ```python

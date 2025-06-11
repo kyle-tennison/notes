@@ -4,35 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "12ecb4f64b2346e5",
+        "id": "b2868e5553be49a4",
         "type": "tabs",
         "children": [
           {
-            "id": "a64cb76dd238556e",
+            "id": "f317d7803e54d215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/CFD/Navier Stokes Equations.md",
-                "mode": "source",
+                "file": "productivity/Morning Check.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navier Stokes Equations"
+              "title": "Morning Check"
             }
           },
           {
-            "id": "592759f7fdb79ee9",
+            "id": "8d5793bd376630e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/CFD/CFD Overview.md",
+                "file": "independent study/neural networs/Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CFD Overview"
+              "title": "Reinforcement Learning"
+            }
+          },
+          {
+            "id": "4993227f426c8b25",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "productivity/Personal Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Personal Tasks"
             }
           }
         ],
@@ -68,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Strain tensor\"",
+                "query": "HIST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,45 +256,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "592759f7fdb79ee9",
+  "active": "8d5793bd376630e2",
   "lastOpenFiles": [
+    "productivity/Morning Check.md",
+    "independent study/neural networs/Reinforcement Learning.md",
+    "productivity/Personal Tasks.md",
+    "productivity/school/Fall 2025 Planning.md",
+    "productivity/School Tasks.md",
+    "independent study/CFD/Poisson's equation.md",
+    "independent study/CFD/Courant–Friedrichs–Lewy condition.md",
+    "independent study/CFD/CFD Overview.md",
+    "productivity/Simbot Notes.md",
     "independent study/CFD/Navier Stokes Equations.md",
+    "independent study/math/Laplace Operator.md",
+    "private/daily-notes/2025-06-03.md",
+    "Java Notes.md",
+    "media/image-31.png",
     "independent study/Strain Rate Tensor.md",
     "independent study/Stress Tensors.md",
     "independent study/CFD/Cauchy Momentum Equation.md",
     "independent study/CFD/Material Derivatives.md",
     "Command Reference.md",
     "media/image-26.png",
-    "independent study/CFD/Poisson's equation.md",
     "independent study/math/multivariable calculus/Divergence Theorem.md",
     "miscellaneous/Landau Video 3 Script.md",
     "miscellaneous/Landau Video 3.md",
-    "independent study/CFD/CFD Overview.md",
     "README.md",
     "Untitled 1.md",
-    "independent study/math/Laplace Operator.md",
     "Advection.md",
     "lecture notes/ME-2016 (python)/Interpolation.md",
     "lecture notes/ME-2016 (python)/Ordinary Differential Equations.md",
-    "lecture notes/ISYE-3025 (economics)/8. Present Worth Analysis.md",
-    "private/ansys/Conversion to Asyncio.md",
-    "independent study/classic mechanics/Conservation Laws.md",
-    "lecture notes/ME-2016 (python)/Root Finding.md",
-    "independent study/math/calculus/Chain Rule.md",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
-    "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "media/image-30.png",
     "media/image-29.png",
     "media/image-28.png",
-    "independent study/math/Invariants of Tensors.md",
     "media/image-27.png",
     "media/image-25.png",
     "independent study/CFD",
     "media/image-24.png",
     "media/excalidraw/excalidraw-2025-05-17-22.49.27.excalidraw.svg",
     "media/image-23.png",
-    "media/excalidraw/excalidraw-2025-05-17-21.23.14.excalidraw.svg",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
