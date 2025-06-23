@@ -5,16 +5,16 @@ Getting ready for the next day
 
 ---
 
-- [x] Hygiene
-	- [x] Shower
-	- [x] Brush Teeth
-	- [x] Skincare
-- [x] Tomorrow
-	- [x] Fill Google Calendar
-- [x] Fill out [Daily Habits](https://app.dailyhabits.xyz)
-- [x] Journal
+- [ ] Hygiene
+	- [ ] Shower
+	- [ ] Brush Teeth
+	- [ ] Skincare
+- [ ] Tomorrow
+	- [ ] Fill Google Calendar
+- [ ] Fill out [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] Journal
 
 *Reset checks:*
 ```python
-os.system("sed -i '' 's/\[x\]/[ ]/g' \"productivity/Night Check.md\"")
+os.system("sed -i '' 's/\\[x\\]/[ ]/g' \"productivity/Night Check.md\"")
 ```

@@ -6,21 +6,17 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Kinetic Pre-Move In
+- [ ] Budgetting
 
 
 ## Blocked
 
+- [ ] Fix ragposium
 
 
 ## In Progress
 
-- [ ] Payroll Register
-- [ ] Renew ragposium ssl
-- [ ] Apply to tesla jobs
-- [ ] Corporate Trainings
-- [ ] PTC Google Account
-- [ ] Reach out to CFD profs
+- [ ] Kinetic Pre-Move In
 
 
 ***
@@ -45,6 +41,9 @@ kanban-plugin: board
 - [ ] GTSR Research Compilation
 - [ ] Haircut
 - [ ] Storage Unit
+- [ ] Payroll Register
+- [ ] Apply to tesla jobs
+- [ ] Corporate Trainings
 
 %% kanban:settings
 ```

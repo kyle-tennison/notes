@@ -1,4 +1,4 @@
-# 2. Gradient Descent
+# Gradient Descent
 
 To start, assign all the weights randomly. Then, pass a sample to the network and compare the real output to the expected output. Next, square the differences between the two vectors, and then take the sum of the resulting values; this is the **cost** of the network, which roughly represents how poorly it performs. If the cost is near zero, then the network performs well.
 

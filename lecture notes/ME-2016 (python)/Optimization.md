@@ -19,7 +19,7 @@ If $f$ is modified by a constant $c$, the value $x^*$ that minimizes $f$ will al
 
 ## Gradient Descent
 
-Covered in my other note: [2. Gradient Descent](2.%20Gradient%20Descent.md)
+Covered in my other note: [Gradient Descent](Gradient%20Descent.md)
 
 The *first order* condition that $f'(x^*)=0$ can be expressed as:
 
