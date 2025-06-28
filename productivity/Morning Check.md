@@ -11,13 +11,13 @@ For daily activities
 	- [x] Georgia Tech
 - [ ] ~~Check Canvas, load [School Tasks](School%20Tasks.md)~~
 	- [ ] ~~Calendar~~
-- [x] Anki (5 min) 
-- [x] GRE Study (5 min)
-- [x] Duolingo
-- [x] [Personal Tasks](Personal%20Tasks.md)
+- [ ] Anki (5 min) 
+- [ ] GRE Study (5 min)
+- [ ] Duolingo
+- [ ] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
-- [x] [Daily Habits](https://app.dailyhabits.xyz)
-- [x] **Done**
+- [ ] [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] **Done**
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 

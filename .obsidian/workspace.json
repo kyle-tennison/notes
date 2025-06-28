@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12ecb4f64b2346e5",
+        "id": "71ab607a37fc3a94",
         "type": "tabs",
         "children": [
           {
-            "id": "a64cb76dd238556e",
+            "id": "68084f355f1c77ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/neural networs/Reinforcement Learning.md",
+                "file": "productivity/Morning Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reinforcement Learning"
-            }
-          },
-          {
-            "id": "72a2528da9bd1ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "independent study/ML Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML Resources"
+              "title": "Morning Check"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Preceptron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,45 +220,46 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a64cb76dd238556e",
+  "active": "68084f355f1c77ef",
   "lastOpenFiles": [
-    "media/image-33.png",
-    "media/image-32.png",
-    "independent study/neural networs/Vanishing Gradient Problem.md",
-    "independent study/neural networs/Multilayer Preceptron.md",
-    "independent study/neural networs/Gradient Descent.md",
-    "independent study/neural networs/Feedforward NN.md",
-    "independent study/neural networs/Deep Learning.md",
-    "independent study/neural networs/Convolutional Neural Networks.md",
+    "independent study/neural networs/SDG Optimization.md",
     "independent study/neural networs/Back Propagation.md",
-    "independent study/Java Notes.md",
-    "independent study/Command Reference.md",
+    "independent study/neural networs/U Nets.md",
+    "productivity/Morning Check.md",
+    "productivity/Personal Tasks.md",
+    "projects/ml-cfd/Existing Research.md",
+    "independent study/neural networs/General Adversarial Networks.md",
+    "independent study/neural networs/Vanishing Gradient Problem.md",
+    "independent study/neural networs/Gradient Descent.md",
+    "independent study/neural networs/Multilayer Perceptron.md",
+    "independent study/neural networs/Convolutional Neural Networks.md",
+    "independent study/neural networs/Convolution.md",
+    "media/image-38.png",
+    "Untitled 1.md",
+    "media/image-37.png",
+    "media/image-36.png",
+    "independent study/Stress Tensors.md",
+    "Untitled.md",
+    "projects/ml-cfd",
+    "media/same_padding_no_strides.gif",
+    "media/image-35.png",
+    "media/aa_copy.gif",
+    "media/image-34.png",
     "independent study/ML Resources.md",
     "independent study/neural networs/Reinforcement Learning.md",
-    "independent study/neural networs/SDG Optimization.md",
+    "media/image-33.png",
+    "media/image-32.png",
+    "independent study/neural networs/Feedforward NN.md",
+    "independent study/neural networs/Deep Learning.md",
+    "independent study/Java Notes.md",
+    "independent study/Command Reference.md",
     "independent study/neural networs/2. Gradient Descent.md",
     "independent study/reference.md",
     "independent study/neural networs/1. Multilayer Preceptron.md",
     "media/image-31.png",
     "independent study/CFD/Courant–Friedrichs–Lewy condition.md",
     "Java Notes.md",
-    "independent study/CFD/Navier Stokes Equations.md",
-    "independent study/CFD/CFD Overview.md",
-    "independent study/Strain Rate Tensor.md",
-    "independent study/Stress Tensors.md",
-    "independent study/CFD/Cauchy Momentum Equation.md",
-    "independent study/CFD/Material Derivatives.md",
-    "Command Reference.md",
-    "media/image-26.png",
-    "independent study/CFD/Poisson's equation.md",
-    "media/image-30.png",
-    "media/image-29.png",
-    "media/image-28.png",
-    "media/image-27.png",
-    "media/image-25.png",
     "independent study/CFD",
-    "media/image-24.png",
-    "media/excalidraw/excalidraw-2025-05-17-22.49.27.excalidraw.svg",
     "attachments",
     "independent study/neural networs",
     "private/ansys/adr/media",
@@ -280,7 +267,6 @@
     "lecture notes/APPH-1040 (wellness)",
     "independent study/math/calculus",
     "lecture notes/ME-2016 (python)",
-    "independent study/math/multivariable calculus",
-    "lecture notes/PHIL-3127 (philosophy)/reading-notes"
+    "independent study/math/multivariable calculus"
   ]
 }

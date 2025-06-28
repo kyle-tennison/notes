@@ -1,4 +1,4 @@
-# Multilayer Preceptron
+# Multilayer Perceptron
 
 
 A **neuron**, in the context of neural networks, is simply a node that can hold a value between 0 and 1. The number that a neuron holds is called the *activation*.

@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Budgetting
+- [ ] Remove myself from housing waitlist
 
 
 ## Blocked
