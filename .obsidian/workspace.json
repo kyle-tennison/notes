@@ -14,14 +14,35 @@
               "type": "markdown",
               "state": {
                 "file": "productivity/Morning Check.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Morning Check"
             }
+          },
+          {
+            "id": "1dbf1160435b7e74",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "productivity/Personal Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Personal Tasks"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,13 +241,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "68084f355f1c77ef",
+  "active": "1dbf1160435b7e74",
   "lastOpenFiles": [
+    "productivity/Morning Check.md",
+    "productivity/Personal Tasks.md",
+    "independent study/GRE Quant Notes.md",
+    "media/image-42.png",
+    "media/image-41.png",
+    "media/image-40.png",
+    "media/image-39.png",
     "independent study/neural networs/SDG Optimization.md",
     "independent study/neural networs/Back Propagation.md",
     "independent study/neural networs/U Nets.md",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
     "projects/ml-cfd/Existing Research.md",
     "independent study/neural networs/General Adversarial Networks.md",
     "independent study/neural networs/Vanishing Gradient Problem.md",
@@ -244,11 +270,8 @@
     "media/same_padding_no_strides.gif",
     "media/image-35.png",
     "media/aa_copy.gif",
-    "media/image-34.png",
     "independent study/ML Resources.md",
     "independent study/neural networs/Reinforcement Learning.md",
-    "media/image-33.png",
-    "media/image-32.png",
     "independent study/neural networs/Feedforward NN.md",
     "independent study/neural networs/Deep Learning.md",
     "independent study/Java Notes.md",
@@ -256,9 +279,6 @@
     "independent study/neural networs/2. Gradient Descent.md",
     "independent study/reference.md",
     "independent study/neural networs/1. Multilayer Preceptron.md",
-    "media/image-31.png",
-    "independent study/CFD/Courant–Friedrichs–Lewy condition.md",
-    "Java Notes.md",
     "independent study/CFD",
     "attachments",
     "independent study/neural networs",
