@@ -13,6 +13,7 @@ kanban-plugin: board
 
 - [ ] Kinetic Pre-Move In
 - [ ] Fix ragposium
+- [ ] Grader I9 Enrollment
 
 
 ## In Progress
