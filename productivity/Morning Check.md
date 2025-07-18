@@ -7,7 +7,7 @@ For daily activities
 
 - [x] Check Emails
 	- [x] Personal
-	- [x] PTC
+	- [ ] PTC
 	- [x] Georgia Tech
 - [ ] ~~Check Canvas, load [School Tasks](School%20Tasks.md)~~
 	- [ ] ~~Calendar~~
@@ -15,7 +15,7 @@ For daily activities
 - [ ] GRE Study (5 min)
 - [ ] Duolingo
 - [ ] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
+- [ ] Google Calendar
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
 - [ ] **Done**
 

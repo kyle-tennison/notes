@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71ab607a37fc3a94",
+        "id": "51194930efeb853c",
         "type": "tabs",
         "children": [
           {
-            "id": "68084f355f1c77ef",
+            "id": "f3e8feafe789beb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/Morning Check.md",
-                "mode": "source",
+                "file": "projects/ml-cfd/Existing Research.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morning Check"
+              "title": "Existing Research"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Preceptron",
+                "query": "HIST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,8 +153,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -163,8 +163,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -173,8 +173,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -204,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "password-protection:Lock password protection": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -211,54 +212,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "password-protection:Lock password protection": false,
+      "obsidian-kanban:Create new board": false,
       "edge-tts:Read note aloud": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "68084f355f1c77ef",
+  "active": "f3e8feafe789beb1",
   "lastOpenFiles": [
-    "independent study/neural networs/SDG Optimization.md",
-    "independent study/neural networs/Back Propagation.md",
-    "independent study/neural networs/U Nets.md",
     "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
-    "projects/ml-cfd/Existing Research.md",
-    "independent study/neural networs/General Adversarial Networks.md",
-    "independent study/neural networs/Vanishing Gradient Problem.md",
+    "independent study/math/Probability.md",
     "independent study/neural networs/Gradient Descent.md",
-    "independent study/neural networs/Multilayer Perceptron.md",
-    "independent study/neural networs/Convolutional Neural Networks.md",
-    "independent study/neural networs/Convolution.md",
-    "media/image-38.png",
-    "Untitled 1.md",
-    "media/image-37.png",
-    "media/image-36.png",
-    "independent study/Stress Tensors.md",
-    "Untitled.md",
+    "independent study/neural networs/Back Propagation.md",
+    "independent study/neural networs/Reinforcement Learning.md",
+    "projects/ml-cfd/Existing Research.md",
     "projects/ml-cfd",
     "media/same_padding_no_strides.gif",
+    "media/image-38.png",
+    "media/image-37.png",
+    "media/image-36.png",
     "media/image-35.png",
-    "media/aa_copy.gif",
     "media/image-34.png",
+    "media/aa_copy.gif",
+    "independent study/neural networs/U Nets.md",
+    "independent study/neural networs/SDG Optimization.md",
+    "independent study/neural networs/Multilayer Perceptron.md",
+    "independent study/neural networs/General Adversarial Networks.md",
+    "independent study/neural networs/Convolution.md",
     "independent study/ML Resources.md",
-    "independent study/neural networs/Reinforcement Learning.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "independent study/neural networs/Vanishing Gradient Problem.md",
+    "independent study/neural networs/Multilayer Preceptron.md",
+    "private/Pre-Grad Plan.md",
     "media/image-33.png",
     "media/image-32.png",
-    "independent study/neural networs/Feedforward NN.md",
+    "independent study/neural networs/Convolutional Neural Networks.md",
     "independent study/neural networs/Deep Learning.md",
-    "independent study/Java Notes.md",
+    "independent study/neural networs/Feedforward NN.md",
+    "productivity/Night Check.md",
     "independent study/Command Reference.md",
-    "independent study/neural networs/2. Gradient Descent.md",
-    "independent study/reference.md",
-    "independent study/neural networs/1. Multilayer Preceptron.md",
+    "independent study/Java Notes.md",
+    "private/misc/Note to Dr. Menon.md",
+    "private/misc",
+    "productivity/school/Fall 2025 Planning.md",
     "media/image-31.png",
-    "independent study/CFD/Courant–Friedrichs–Lewy condition.md",
-    "Java Notes.md",
     "independent study/CFD",
     "attachments",
     "independent study/neural networs",
@@ -266,7 +267,6 @@
     "projects/meal-planner",
     "lecture notes/APPH-1040 (wellness)",
     "independent study/math/calculus",
-    "lecture notes/ME-2016 (python)",
-    "independent study/math/multivariable calculus"
+    "lecture notes/ME-2016 (python)"
   ]
 }
