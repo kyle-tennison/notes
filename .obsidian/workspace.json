@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Existing Research"
             }
+          },
+          {
+            "id": "115dbe2b2fcc65e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,15 +235,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3e8feafe789beb1",
+  "active": "115dbe2b2fcc65e3",
   "lastOpenFiles": [
+    "projects/ml-cfd/Existing Research.md",
+    "conflict-files-obsidian-git.md",
+    "media/image-42.png",
+    "media/image-41.png",
+    "media/image-40.png",
+    "media/image-39.png",
+    "independent study/GRE Quant Notes.md",
     "productivity/Morning Check.md",
     "productivity/Personal Tasks.md",
     "independent study/math/Probability.md",
     "independent study/neural networs/Gradient Descent.md",
     "independent study/neural networs/Back Propagation.md",
     "independent study/neural networs/Reinforcement Learning.md",
-    "projects/ml-cfd/Existing Research.md",
     "projects/ml-cfd",
     "media/same_padding_no_strides.gif",
     "media/image-38.png",
@@ -236,7 +257,6 @@
     "media/image-36.png",
     "media/image-35.png",
     "media/image-34.png",
-    "media/aa_copy.gif",
     "independent study/neural networs/U Nets.md",
     "independent study/neural networs/SDG Optimization.md",
     "independent study/neural networs/Multilayer Perceptron.md",
@@ -248,18 +268,13 @@
     "independent study/neural networs/Vanishing Gradient Problem.md",
     "independent study/neural networs/Multilayer Preceptron.md",
     "private/Pre-Grad Plan.md",
-    "media/image-33.png",
-    "media/image-32.png",
     "independent study/neural networs/Convolutional Neural Networks.md",
     "independent study/neural networs/Deep Learning.md",
     "independent study/neural networs/Feedforward NN.md",
     "productivity/Night Check.md",
     "independent study/Command Reference.md",
     "independent study/Java Notes.md",
-    "private/misc/Note to Dr. Menon.md",
     "private/misc",
-    "productivity/school/Fall 2025 Planning.md",
-    "media/image-31.png",
     "independent study/CFD",
     "attachments",
     "independent study/neural networs",

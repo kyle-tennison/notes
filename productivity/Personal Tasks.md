@@ -7,17 +7,18 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Budgetting
-- [ ] Remove myself from housing waitlist
 
 
 ## Blocked
 
+- [ ] Kinetic Pre-Move In
 - [ ] Fix ragposium
+- [ ] Grader I9 Enrollment
 
 
 ## In Progress
 
-- [ ] Kinetic Pre-Move In
+- [ ] SimVascular Research
 
 
 ***
@@ -45,6 +46,7 @@ kanban-plugin: board
 - [ ] Payroll Register
 - [ ] Apply to tesla jobs
 - [ ] Corporate Trainings
+- [ ] Remove myself from housing waitlist
 
 %% kanban:settings
 ```
