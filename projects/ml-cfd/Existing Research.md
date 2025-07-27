@@ -54,4 +54,10 @@
 
 - "Attempts to apply neural networks to problems of fluid flow have been recently conducted by Tracey et al. (2015), Zhang & Duraisamy (2015), and Singh et al. (2017), who utilized shallow neural networks for turbulence modeling for Reynolds-averaged Navier-Stokes (RANS) simulations."
 - "Ling et al. (2016) employed deep neural networks to better model the Reynolds stress anisotropy tensor for RANS simulations. Guo et al. (2016) employed a convolutional neural network (CNN) to predict steady flow fields around bluff objects and reported reasonable prediction of steady flow fields with significantly reduced computational cost than that required for numerical simulations. Similarly, Miyanawala & Jaiman (2017) employed a CNN to predict aerodynamic force coefficients of bluff bodies, also with notably reduced computational costs."
-- 
+
+
+## Hybrid deep neural network based prediction method for unsteady flows with moving boundaries.
+
+- CNN with "convolutional Long-Short Term Memory neural network"
+- Han et al. 2019 came up with a hybrid deep NN that could acheive accurate unsteady flow prediction around moving boundaries
+- Seems to wa
