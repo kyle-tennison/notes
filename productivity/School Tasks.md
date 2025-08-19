@@ -10,9 +10,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] ECE-3710: Catch Up
-- [ ] ECE-3710: Lab 5
-- [ ] ECE-3710: Lab 6
 
 
 ## Complete
