@@ -5,14 +5,14 @@ For daily activities
 
 ## Checklist
 
-- [x] Check Emails
+- [ ] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [x] PTC
-- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
-	- [x] Calendar
+	- [ ] PTC
+- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [ ] Calendar
 - [ ] Anki (5 min) 
-- [x] GRE Study (5 min)
+- [ ] GRE Study (5 min)
 - [ ] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar
 - [ ] [Daily Habits](https://app.dailyhabits.xyz)
