@@ -11,14 +11,11 @@ kanban-plugin: board
 
 ## Blocked
 
-- [ ] Kinetic Pre-Move In
-- [ ] Fix ragposium
-- [ ] Grader I9 Enrollment
 
 
 ## In Progress
 
-- [ ] SimVascular Research
+- [ ] Fix Cannondale
 
 
 ***

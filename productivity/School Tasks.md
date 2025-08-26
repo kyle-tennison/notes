@@ -10,10 +10,16 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] ME 2202: HW 1
+- [ ] ME 3340: HW 1
 
 
 ## Complete
 
+- [ ] ECE 3077: HW 1
+- [ ] Office Hours Results
+- [ ] COE 3001: HW 1
+- [ ] COE 3001: intro post
 
 
 ***

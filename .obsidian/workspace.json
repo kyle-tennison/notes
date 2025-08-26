@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2567f96137e1b6",
+        "id": "7b0e391a896a4542",
         "type": "tabs",
         "children": [
           {
-            "id": "21a49f02578042e6",
+            "id": "d4cefd037bcd3e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3077 (statistics)/1. Probability Models.md",
+                "file": "lecture notes/ME-2202 (dynamics)/0. Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Probability Models"
+              "title": "0. Review"
+            }
+          },
+          {
+            "id": "2b0193ff85ebfe13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Cartesian Particle Motion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -222,9 +236,29 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "21a49f02578042e6",
+  "active": "2b0193ff85ebfe13",
   "lastOpenFiles": [
+    "lecture notes/ME-2202 (dynamics)/0. Review.md",
+    "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
+    "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
+    "media/IMG_0245.jpeg",
+    "media/IMG_0244.jpeg",
+    "media/IMG_0244.heic",
+    "media/excalidraw/excalidraw-2025-08-26-14.45.04.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-08-26-14.45.04.excalidraw.svg",
+    "productivity/School Tasks.md",
+    "productivity/Personal Tasks.md",
     "productivity/Morning Check.md",
+    "lecture notes/ECE-3077 (statistics)/2. Independence.md",
+    "lecture notes/ECE-3077 (statistics)/1. Probability Models.md",
+    "media/excalidraw/excalidraw-2025-08-25-11.18.56.excalidraw.md",
+    "private/KD_ML/Overview.md",
+    "media/excalidraw/excalidraw-2025-08-25-11.18.56.excalidraw.svg",
+    "private/KD_ML",
+    "private",
+    "lecture notes/ME-2202 (dynamics)",
+    "media/excalidraw/excalidraw-2025-08-20-13.36.57.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-08-20-13.36.57.excalidraw.svg",
     "lecture notes/ME-3077 (fluids)/0. Forces & Fluid Properties.md",
     "media/excalidraw/excalidraw-2025-08-19-12.10.02.excalidraw.md",
     "media/excalidraw/excalidraw-2025-08-19-12.10.02.excalidraw.svg",
@@ -232,19 +266,11 @@
     "media/IMG_0176-10.jpeg",
     "media/IMG_0176-9.jpeg",
     "media/IMG_0176-8.jpeg",
-    "media/IMG_0176-7.jpeg",
-    "media/IMG_0176-6.jpeg",
-    "media/IMG_0176-5.jpeg",
-    "media/IMG_0176-4.jpeg",
     "media/IMG_0176.heic",
-    "media/IMG_0176-3.jpeg",
     "media/excalidraw/excalidraw-2025-08-19-11.41.56.excalidraw.md",
     "lecture notes/ME-3077 (fluids)",
-    "lecture notes/ECE-3077 (statistics)/1. Probability Models.md",
     "lecture notes/ECE-3077 (statistics)",
     "Untitled 2.md",
-    "productivity/School Tasks.md",
-    "productivity/Personal Tasks.md",
     "projects/ml-cfd/Existing Research.md",
     "independent study/CFD/Navier Stokes Equations.md",
     "conflict-files-obsidian-git.md",
@@ -256,18 +282,7 @@
     "projects/ml-cfd",
     "independent study/neural networs/U Nets.md",
     "independent study/neural networs/SDG Optimization.md",
-    "independent study/neural networs/Multilayer Perceptron.md",
-    "independent study/neural networs/General Adversarial Networks.md",
-    "independent study/neural networs/Convolution.md",
-    "independent study/ML Resources.md",
-    "Untitled 1.md",
-    "independent study/neural networs/Vanishing Gradient Problem.md",
-    "independent study/neural networs/Multilayer Preceptron.md",
     "private/misc",
-    "independent study/CFD",
-    "attachments",
-    "independent study/neural networs",
-    "private/ansys/adr/media",
-    "projects/meal-planner"
+    "independent study/CFD"
   ]
 }
