@@ -58,6 +58,10 @@
 
 ## Hybrid deep neural network based prediction method for unsteady flows with moving boundaries.
 
+
+> https://arxiv.org/abs/2006.00690
+
+
 - CNN with "convolutional Long-Short Term Memory neural network"
 - Han et al. 2019 came up with a hybrid deep NN that could acheive accurate unsteady flow prediction around moving boundaries
 - Seems to wa

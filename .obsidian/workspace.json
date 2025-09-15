@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0e391a896a4542",
+        "id": "88b87c5eb7440ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "d4cefd037bcd3e82",
+            "id": "f6da4359c31e165d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2202 (dynamics)/0. Review.md",
-                "mode": "source",
+                "file": "productivity/Morning Check.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Review"
-            }
-          },
-          {
-            "id": "2b0193ff85ebfe13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Cartesian Particle Motion"
+              "title": "Morning Check"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HIST",
+                "query": "\"center of mass\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +87,7 @@
       {
         "id": "e9266d9815b96815",
         "type": "tabs",
-        "dimension": 71.94444444444444,
+        "dimension": 53.65141187925999,
         "children": [
           {
             "id": "1e6da7bc1ed643d8",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture notes/CS-1371 (matlab)/Structs.md",
+                "file": "productivity/Morning Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Structs"
+              "title": "Backlinks for Morning Check"
             }
           },
           {
@@ -188,17 +173,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "9542ba238383c760",
         "type": "tabs",
-        "dimension": 28.055555555555557,
+        "dimension": 46.34858812074001,
         "children": [
           {
             "id": "f5a72b7c13a40200",
@@ -236,53 +220,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2b0193ff85ebfe13",
+  "active": "f6da4359c31e165d",
   "lastOpenFiles": [
-    "lecture notes/ME-2202 (dynamics)/0. Review.md",
-    "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
-    "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
-    "media/IMG_0245.jpeg",
-    "media/IMG_0244.jpeg",
-    "media/IMG_0244.heic",
-    "media/excalidraw/excalidraw-2025-08-26-14.45.04.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-08-26-14.45.04.excalidraw.svg",
-    "productivity/School Tasks.md",
-    "productivity/Personal Tasks.md",
+    "l.md",
+    "Untitled.md",
+    "Untitled 3.md",
     "productivity/Morning Check.md",
+    "productivity/School Tasks.md",
+    "projects/ml-cfd/Existing Research.md",
+    "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
+    "lecture notes/ECE-3077 (statistics)/4. Discrete Random Variables.md",
+    "lecture notes/ME-2202 (dynamics)/2. Kinematics of Particles.md",
+    "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
+    "productivity/Personal Tasks.md",
+    "Untitled 2.md",
     "lecture notes/ECE-3077 (statistics)/2. Independence.md",
     "lecture notes/ECE-3077 (statistics)/1. Probability Models.md",
-    "media/excalidraw/excalidraw-2025-08-25-11.18.56.excalidraw.md",
-    "private/KD_ML/Overview.md",
-    "media/excalidraw/excalidraw-2025-08-25-11.18.56.excalidraw.svg",
+    "lecture notes/ECE-3077 (statistics)/3. Combinatorics.md",
+    "Untitled 1.md",
+    "media/IMG_0337.jpeg",
+    "media/excalidraw/excalidraw-2025-09-10-12.46.36.excalidraw.md",
+    "lecture notes/ME-3077 (fluids)/6. Equation of Hydrostatics.md",
+    "lecture notes/ME-3077 (fluids)/5. Fluid at rest.md",
+    "lecture notes/ME-3077 (fluids)/4. Momentum Equation.md",
+    "independent study/CFD/Cauchy Momentum Equation.md",
+    "lecture notes/ME-3077 (fluids)/3. Similarity.md",
+    "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
+    "lecture notes/ME-3077 (fluids)/2. Dimensionless Numbers.md",
+    "media/IMG_0321.jpeg",
+    "media/image-46.png",
+    "media/image-45.png",
+    "independent study/classic mechanics/Conservation Laws.md",
+    "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.svg",
+    "media/image-44.png",
+    "media/excalidraw/excalidraw-2025-09-02-11.37.01.excalidraw.svg",
+    "media/image-43.png",
+    "media/excalidraw/excalidraw-2025-09-01-16.44.04.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-09-01-16.41.26.excalidraw.svg",
+    "lecture notes/COE-3001 (def bods)",
+    "media/IMG_0244.heic",
     "private/KD_ML",
     "private",
     "lecture notes/ME-2202 (dynamics)",
-    "media/excalidraw/excalidraw-2025-08-20-13.36.57.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-08-20-13.36.57.excalidraw.svg",
-    "lecture notes/ME-3077 (fluids)/0. Forces & Fluid Properties.md",
-    "media/excalidraw/excalidraw-2025-08-19-12.10.02.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-08-19-12.10.02.excalidraw.svg",
-    "media/IMG_0176_0.jpeg",
-    "media/IMG_0176-10.jpeg",
-    "media/IMG_0176-9.jpeg",
-    "media/IMG_0176-8.jpeg",
     "media/IMG_0176.heic",
-    "media/excalidraw/excalidraw-2025-08-19-11.41.56.excalidraw.md",
     "lecture notes/ME-3077 (fluids)",
     "lecture notes/ECE-3077 (statistics)",
-    "Untitled 2.md",
-    "projects/ml-cfd/Existing Research.md",
-    "independent study/CFD/Navier Stokes Equations.md",
-    "conflict-files-obsidian-git.md",
-    "independent study/GRE Quant Notes.md",
-    "independent study/math/Probability.md",
-    "independent study/neural networs/Gradient Descent.md",
-    "independent study/neural networs/Back Propagation.md",
-    "independent study/neural networs/Reinforcement Learning.md",
     "projects/ml-cfd",
-    "independent study/neural networs/U Nets.md",
-    "independent study/neural networs/SDG Optimization.md",
-    "private/misc",
-    "independent study/CFD"
+    "private/misc"
   ]
 }

@@ -10,22 +10,28 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] ME 2202: HW 1
-- [ ] ME 3340: HW 1
 
 
 ## Complete
 
-- [ ] ECE 3077: HW 1
-- [ ] Office Hours Results
-- [ ] COE 3001: HW 1
-- [ ] COE 3001: intro post
+- [ ] Schedule Appointment with Mary
 
 
 ***
 
 ## Archive
 
+- [ ] ME 3340: Quiz 1
+- [ ] ME 3340: HW 2 (Review)
+- [ ] ME 2202: HW 2
+- [ ] ME 3340: HW 1 (Review)
+- [ ] ECE 3077: HW 2
+- [ ] ECE 3077: HW 1
+- [ ] COE 3001: HW 3
+- [ ] ME 2202: HW 1
+- [ ] Office Hours Results
+- [ ] COE 3001: HW 1
+- [ ] COE 3001: intro post
 - [ ] ME2110: HW 4 @{2025-02-17}
 - [ ] ECE-3710: 2.1-2.5 @{2025-02-17}
 - [ ] ISYE-3025: Exam Study

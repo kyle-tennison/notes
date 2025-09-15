@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Budgetting
 
 
 ## Blocked
@@ -15,7 +14,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Fix Cannondale
+- [ ] Budgetting
 
 
 ***
