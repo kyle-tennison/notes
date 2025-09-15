@@ -76,7 +76,6 @@ where $M_0$ is the bending moment at $x_0$.
 
 ### Tricks
 
-God, I'm literally citing ChatGPT, but it looks like for a point load, the change in shear is equal to the magnitude of that point load.
 
 For instance,
 ![|411](../../media/Pasted%20image%2020241115105719.webp)

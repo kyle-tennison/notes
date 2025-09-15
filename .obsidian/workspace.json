@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Morning Check"
             }
+          },
+          {
+            "id": "6e3f8391d93079e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/COE-3001 (def bods)/3. Beams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Beams"
+            }
+          },
+          {
+            "id": "756d3050a4482dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/COE-2001 (statics)/Beams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beams"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"center of mass\"",
+                "query": "Shear moment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +103,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -95,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "productivity/Morning Check.md",
+                "file": "lecture notes/COE-3001 (def bods)/1. Axial Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Morning Check"
+              "title": "Backlinks for 1. Axial Bar"
             }
           },
           {
@@ -220,12 +251,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f6da4359c31e165d",
+  "active": "6e3f8391d93079e2",
   "lastOpenFiles": [
-    "l.md",
-    "Untitled.md",
-    "Untitled 3.md",
+    "lecture notes/COE-2001 (statics)/Beams.md",
+    "lecture notes/COE-3001 (def bods)/3. Beams.md",
     "productivity/Morning Check.md",
+    "lecture notes/COE-3001 (def bods)/1. Axial Bar.md",
+    "lecture notes/COE-3001 (def bods)/2. Torsion Bar.md",
+    "media/image-48.png",
+    "media/excalidraw/excalidraw-2025-09-15-19.20.40.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-09-15-19.20.40.excalidraw.svg",
+    "media/image-47.png",
+    "media/excalidraw/excalidraw-2025-09-15-19.14.43.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-09-15-19.14.43.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-09-15-19.09.28.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-09-15-19.09.28.excalidraw.svg",
+    "lecture notes/COE-3001 (def bods)/0. Traction & Stress.md",
+    "l.md",
+    "Untitled 3.md",
     "productivity/School Tasks.md",
     "projects/ml-cfd/Existing Research.md",
     "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
@@ -242,22 +285,10 @@
     "media/excalidraw/excalidraw-2025-09-10-12.46.36.excalidraw.md",
     "lecture notes/ME-3077 (fluids)/6. Equation of Hydrostatics.md",
     "lecture notes/ME-3077 (fluids)/5. Fluid at rest.md",
-    "lecture notes/ME-3077 (fluids)/4. Momentum Equation.md",
-    "independent study/CFD/Cauchy Momentum Equation.md",
-    "lecture notes/ME-3077 (fluids)/3. Similarity.md",
-    "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
-    "lecture notes/ME-3077 (fluids)/2. Dimensionless Numbers.md",
     "media/IMG_0321.jpeg",
     "media/image-46.png",
     "media/image-45.png",
-    "independent study/classic mechanics/Conservation Laws.md",
-    "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.md",
     "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.svg",
-    "media/image-44.png",
-    "media/excalidraw/excalidraw-2025-09-02-11.37.01.excalidraw.svg",
-    "media/image-43.png",
-    "media/excalidraw/excalidraw-2025-09-01-16.44.04.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-09-01-16.41.26.excalidraw.svg",
     "lecture notes/COE-3001 (def bods)",
     "media/IMG_0244.heic",
     "private/KD_ML",
