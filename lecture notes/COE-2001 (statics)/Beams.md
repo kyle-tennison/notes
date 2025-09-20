@@ -1,4 +1,4 @@
-# Beams
+ # Beams
 Beams are members that specifically *resist bending*. Their loads are typically applied perpendicular to their longitudinal axis.
 
 Many beam problems will be statically indeterminate, so it's important to look at the number of knowns versus the number of unknowns. 
@@ -85,3 +85,4 @@ The corresponding shear-moment diagram is:
 ![|346](../../media/Pasted%20image%2020241115105734.webp)
 
 Notice that, as we cross the point load, the shear drops by exactly $4\ kN$, which is exactly the magnitude of that point load.
+

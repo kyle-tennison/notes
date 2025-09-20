@@ -8,7 +8,7 @@ For daily activities
 - [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [ ] PTC
+	- [x] PTC
 - [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [ ] Calendar
 - [ ] Anki (5 min) 

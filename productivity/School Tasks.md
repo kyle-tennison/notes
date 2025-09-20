@@ -14,7 +14,6 @@ kanban-plugin: board
 
 ## Complete
 
-- [ ] Schedule Appointment with Mary
 
 
 ***

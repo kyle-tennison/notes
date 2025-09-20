@@ -1,3 +1,4 @@
+# Primary Theory
 ## Deuterium-Deuterium Fusion
 
 Fusors that operate for this purpose often use a deuterium-tritium reaction, which can generate more energy upon fusion. However, *tritium is extremely scarce* and there is no way for an amateur to easily obtain it. Deuterium is not so scarce, but it may still be difficult to source.
