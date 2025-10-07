@@ -6,14 +6,22 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Catch up Def Bods
+- [ ] Catch up Statistics
+- [ ] Catch up Dynamics
 
 
 ## In Progress
 
+- [ ] Catch up Fluids
 
 
 ## Complete
 
+- [ ] Study for Dynamics Exam
+- [ ] Study for ECE
+- [ ] Study for Defbods Exam
+- [ ] Study for Fluids Exam
 
 
 ***

@@ -1,3 +1,4 @@
+# Beams
  # Beams
 Beams are members that specifically *resist bending*. Their loads are typically applied perpendicular to their longitudinal axis.
 

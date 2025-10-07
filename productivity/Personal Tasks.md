@@ -15,6 +15,8 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Budgetting
+- [ ] Change White Oak Addresses
+- [ ] Ragposium Featured Project
 
 
 ***

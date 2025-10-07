@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab49fc80b692401",
+        "id": "4802d72db2e70945",
         "type": "tabs",
         "children": [
           {
-            "id": "1de23b8dfac69fc4",
+            "id": "e73f74eeeed8c9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
+                "file": "lecture notes/ME-3077 (fluids)/7. Fluid Kinematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Kinetics of Particles"
+              "title": "7. Fluid Kinematics"
             }
           },
           {
-            "id": "a5d089cda07c1436",
+            "id": "3975a4875d5b5b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
+                "file": "independent study/CFD/Material Derivatives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Rigid Body Motion"
+              "title": "Material Derivatives"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inertia",
+                "query": "fluid parcel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +77,23 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "cf43aae7d60f5f70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -225,43 +235,45 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5d089cda07c1436",
+  "active": "e73f74eeeed8c9be",
   "lastOpenFiles": [
-    "Untitled.md",
-    "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
-    "media/image-10.png",
-    "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
-    "lecture notes/ECE-3077 (statistics)/4. Discrete Random Variables.md",
+    "media/image-4.png",
+    "media/image-3.png",
+    "media/image-2.png",
+    "independent study/CFD/Material Derivatives.md",
+    "lecture notes/ME-3077 (fluids)/7. Fluid Kinematics.md",
     "productivity/Morning Check.md",
-    "productivity/School Tasks.md",
-    "lecture notes/ECE-3077 (statistics)/3. Combinatorics.md",
-    "lecture notes/ME-3077 (fluids)/6. Equation of Hydrostatics.md",
-    "media/IMG_0412.jpeg",
-    "lecture notes/ME-3077 (fluids)/4. Momentum Equation.md",
-    "lecture notes/ME-3077 (fluids)/5. Fluid at rest.md",
-    "lecture notes/COE-3001 (def bods)/3. Beams.md",
     "productivity/Personal Tasks.md",
+    "lecture notes/ME-3077 (fluids)/6. Equation of Hydrostatics.md",
+    "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
+    "productivity/School Tasks.md",
+    "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
+    "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
+    "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
+    "lecture notes/COE-3001 (def bods)/4. Transformations.md",
+    "media/stress-rot.png",
+    "lecture notes/COE-3001 (def bods)/3. Beams.md",
+    "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.md",
+    "lecture notes/ME-2202 (dynamics)/2. Kinematics of Particles.md",
+    "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
+    "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
+    "lecture notes/ECE-3077 (statistics)/misc/4. Discrete Random Variables.md",
+    "lecture notes/ECE-3077 (statistics)/misc",
+    "lecture notes/ECE-3077 (statistics)/3. Combinatorics.md",
+    "lecture notes/ECE-3077 (statistics)/2. Independence.md",
     "lecture notes/COE-2001 (statics)/Beams.md",
-    "miscellaneous/Statics HW 8 confused.md",
-    "projects/fusor/Primary Theory.md",
-    "lecture notes/COE-2001 (statics)/Misc Notes.md",
-    "media/excalidraw/excalidraw-2025-09-15-19.51.30.excalidraw.md",
+    "lecture notes/COE-3001 (def bods)/0. Traction & Stress.md",
+    "Untitled.md",
+    "lecture notes/COE-3001 (def bods)/2. Torsion Bar.md",
+    "lecture notes/ME-3077 (fluids)/0. Forces & Fluid Properties.md",
+    "independent study/Stress Tensors.md",
+    "media/image-10.png",
+    "media/IMG_0412.jpeg",
     "media/excalidraw/excalidraw-2025-09-15-19.51.30.excalidraw.svg",
     "media/image-49.png",
-    "lecture notes/COE-3001 (def bods)/1. Axial Bar.md",
-    "lecture notes/COE-3001 (def bods)/2. Torsion Bar.md",
     "media/image-48.png",
-    "media/excalidraw/excalidraw-2025-09-15-19.20.40.excalidraw.md",
     "media/excalidraw/excalidraw-2025-09-15-19.20.40.excalidraw.svg",
     "media/image-47.png",
-    "media/excalidraw/excalidraw-2025-09-15-19.14.43.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-09-15-19.14.43.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-09-15-19.09.28.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-09-15-19.09.28.excalidraw.svg",
-    "lecture notes/COE-3001 (def bods)/0. Traction & Stress.md",
-    "l.md",
-    "Untitled 3.md",
-    "media/IMG_0337.jpeg",
     "lecture notes/COE-3001 (def bods)",
     "media/IMG_0244.heic",
     "private/KD_ML",
@@ -270,7 +282,6 @@
     "media/IMG_0176.heic",
     "lecture notes/ME-3077 (fluids)",
     "lecture notes/ECE-3077 (statistics)",
-    "projects/ml-cfd",
-    "private/misc"
+    "projects/ml-cfd"
   ]
 }
