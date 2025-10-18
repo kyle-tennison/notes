@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Graduate Petition
 
 
 ## Blocked
@@ -14,9 +15,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Budgetting
 - [ ] Change White Oak Addresses
-- [ ] Ragposium Featured Project
 
 
 ***
@@ -45,6 +44,7 @@ kanban-plugin: board
 - [ ] Apply to tesla jobs
 - [ ] Corporate Trainings
 - [ ] Remove myself from housing waitlist
+- [ ] Ragposium Featured Project
 
 %% kanban:settings
 ```

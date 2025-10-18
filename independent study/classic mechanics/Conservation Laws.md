@@ -124,7 +124,7 @@ substituting this gives:
 $$\frac{sin(\theta_1)}{sin(\theta_2)}=\frac{1}{v_1}\sqrt{\frac{mv_1^2+2(U_1-U_2)}{m}}=\underbrace{\sqrt{1+\frac{2(U_1-U_2)}{v_1^2m}}}_{\text{solution}}$$
 
 
-	## Center of Mass
+## Center of Mass
 
 The momentum of a system will change depending on the frame's velocity relative to the motion. There will always be a frame that can satisfy:
 

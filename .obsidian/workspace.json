@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e73f74eeeed8c9be",
+            "id": "935c551cd40c25e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-3077 (fluids)/7. Fluid Kinematics.md",
-                "mode": "source",
+                "file": "productivity/Morning Check.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Fluid Kinematics"
+              "title": "Morning Check"
             }
           },
           {
-            "id": "3975a4875d5b5b01",
+            "id": "3a504a25f4476cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "independent study/CFD/Material Derivatives.md",
+                "file": "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Material Derivatives"
+              "title": "4. Rigid Body Motion"
+            }
+          },
+          {
+            "id": "43f8f17f2824cac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Plane Kinematics of Rigid Bodies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Plane Kinematics of Rigid Bodies"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fluid parcel",
+                "query": "3057",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "097b8aa3e71d6798",
@@ -102,7 +116,6 @@
       {
         "id": "e9266d9815b96815",
         "type": "tabs",
-        "dimension": 53.65141187925999,
         "children": [
           {
             "id": "1e6da7bc1ed643d8",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture notes/COE-3001 (def bods)/1. Axial Bar.md",
+                "file": "5. Plane Kinematics of Rigid Bodies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Axial Bar"
+              "title": "Backlinks for 5. Plane Kinematics of Rigid Bodies"
             }
           },
           {
@@ -195,12 +208,11 @@
         ]
       },
       {
-        "id": "9542ba238383c760",
+        "id": "4bc68fa6d6abba27",
         "type": "tabs",
-        "dimension": 46.34858812074001,
         "children": [
           {
-            "id": "f5a72b7c13a40200",
+            "id": "e73f74eeeed8c9be",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -213,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350,
-    "collapsed": true
+    "width": 354
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,45 +246,45 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e73f74eeeed8c9be",
+  "active": "43f8f17f2824cac2",
   "lastOpenFiles": [
+    "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
+    "5. Plane Kinematics of Rigid Bodies.md",
+    "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
+    "productivity/School Tasks.md",
+    "productivity/Morning Check.md",
+    "productivity/Personal Tasks.md",
+    "lecture notes/COE-3001 (def bods)/4. Transformations.md",
+    "independent study/classic mechanics/Galileo's Relativity Principle.md",
+    "lecture notes/ME-3077 (fluids)/8. Finite Control Volume Analysis.md",
+    "independent study/CFD/Cauchy Momentum Equation.md",
+    "lecture notes/ME-3077 (fluids)/7. Fluid Kinematics.md",
+    "independent study/classic mechanics/Conservation Laws.md",
+    "independent study/classic mechanics/Calculus of Variations.md",
+    "independent study/classic mechanics/Lagrange's Equations.md",
+    "independent study/CFD/Material Derivatives.md",
+    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
+    "independent study/classic mechanics/Angular Momentum.md",
+    "lecture notes/ME-3077 (fluids)/0. Forces & Fluid Properties.md",
+    "4. Extra.md",
+    "media/image-7.png",
+    "media/image-6.png",
+    "media/image-5.png",
     "media/image-4.png",
     "media/image-3.png",
     "media/image-2.png",
-    "independent study/CFD/Material Derivatives.md",
-    "lecture notes/ME-3077 (fluids)/7. Fluid Kinematics.md",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
     "lecture notes/ME-3077 (fluids)/6. Equation of Hydrostatics.md",
     "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
-    "productivity/School Tasks.md",
     "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
     "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
     "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
-    "lecture notes/COE-3001 (def bods)/4. Transformations.md",
     "media/stress-rot.png",
     "lecture notes/COE-3001 (def bods)/3. Beams.md",
     "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.md",
-    "lecture notes/ME-2202 (dynamics)/2. Kinematics of Particles.md",
-    "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
-    "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
-    "lecture notes/ECE-3077 (statistics)/misc/4. Discrete Random Variables.md",
     "lecture notes/ECE-3077 (statistics)/misc",
-    "lecture notes/ECE-3077 (statistics)/3. Combinatorics.md",
-    "lecture notes/ECE-3077 (statistics)/2. Independence.md",
-    "lecture notes/COE-2001 (statics)/Beams.md",
-    "lecture notes/COE-3001 (def bods)/0. Traction & Stress.md",
-    "Untitled.md",
-    "lecture notes/COE-3001 (def bods)/2. Torsion Bar.md",
-    "lecture notes/ME-3077 (fluids)/0. Forces & Fluid Properties.md",
-    "independent study/Stress Tensors.md",
     "media/image-10.png",
     "media/IMG_0412.jpeg",
     "media/excalidraw/excalidraw-2025-09-15-19.51.30.excalidraw.svg",
-    "media/image-49.png",
-    "media/image-48.png",
-    "media/excalidraw/excalidraw-2025-09-15-19.20.40.excalidraw.svg",
-    "media/image-47.png",
     "lecture notes/COE-3001 (def bods)",
     "media/IMG_0244.heic",
     "private/KD_ML",
