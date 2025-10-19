@@ -8,7 +8,7 @@ For daily activities
 - [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [x] PTC
+	- [ ] PTC
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] COE 3001
 	- [x] ME 2202
@@ -19,8 +19,8 @@ For daily activities
 - [ ] Anki (5 min) 
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
-- [x] [Daily Habits](https://app.dailyhabits.xyz)
-- [x] **Done**
+- [ ] [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] **Done**
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 

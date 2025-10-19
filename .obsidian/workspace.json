@@ -13,44 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/Morning Check.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morning Check"
-            }
-          },
-          {
-            "id": "3a504a25f4476cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
+                "file": "lecture notes/ME-3077 (fluids)/2. Equation of Hydrostatics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Rigid Body Motion"
+              "title": "2. Equation of Hydrostatics"
             }
           },
           {
-            "id": "43f8f17f2824cac2",
+            "id": "e2518c81aadef905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Plane Kinematics of Rigid Bodies.md",
+                "file": "lecture notes/ME-3077 (fluids)/3. Bernoulli Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Plane Kinematics of Rigid Bodies"
+              "title": "3. Bernoulli Equation"
+            }
+          },
+          {
+            "id": "3534aaceb1a09801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/ME-3077 (fluids)/4. Fluid Kinematics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Fluid Kinematics"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3057",
+                "query": "Taylor series",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Plane Kinematics of Rigid Bodies.md",
+                "file": "lecture notes/ME-3077 (fluids)/3. Bernoulli Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Plane Kinematics of Rigid Bodies"
+              "title": "Backlinks for 3. Bernoulli Equation"
             }
           },
           {
@@ -246,53 +246,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "43f8f17f2824cac2",
+  "active": "e2518c81aadef905",
   "lastOpenFiles": [
+    "media/image-52.png",
+    "media/image-51.png",
+    "lecture notes/ME-3077 (fluids)/2. Equation of Hydrostatics.md",
+    "lecture notes/ME-3077 (fluids)/3. Bernoulli Equation.md",
+    "lecture notes/ME-3077 (fluids)/4. Fluid Kinematics.md",
+    "lecture notes/ME-3322 (thermodynamics)/11. Air-Water Mixtures.md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Textbook).md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Lecture).md",
+    "lecture notes/ME-3322 (thermodynamics)/9. Future of Refrigeration Cycles.md",
+    "lecture notes/ME-3322 (thermodynamics)/0. Pump Work Approximation.md",
+    "lecture notes/ME-3322 (thermodynamics)/0. Exam Notes.md",
+    "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
+    "independent study/classic mechanics/Galileo's Relativity Principle.md",
+    "productivity/School Tasks.md",
+    "media/image-50.png",
+    "lecture notes/ME-3077 (fluids)/5. Finite Control Volume Analysis.md",
+    "lecture notes/ME-3077 (fluids)/7. Buckingham Pi Theorem.md",
+    "lecture notes/ME-3077 (fluids)/misc/5. Fluid at rest.md",
+    "lecture notes/ME-3077 (fluids)/misc/4. Momentum Equation.md",
+    "lecture notes/ME-3077 (fluids)/misc/3. Similarity.md",
+    "lecture notes/ME-3077 (fluids)/misc/2. Dimensionless Numbers.md",
+    "lecture notes/ME-3077 (fluids)/misc/0. Forces & Fluid Properties.md",
+    "productivity/Morning Check.md",
+    "lecture notes/ME-3077 (fluids)/misc",
+    "productivity/Personal Tasks.md",
     "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
     "5. Plane Kinematics of Rigid Bodies.md",
-    "lecture notes/ME-2202 (dynamics)/3. Kinetics of Particles.md",
-    "productivity/School Tasks.md",
-    "productivity/Morning Check.md",
-    "productivity/Personal Tasks.md",
-    "lecture notes/COE-3001 (def bods)/4. Transformations.md",
-    "independent study/classic mechanics/Galileo's Relativity Principle.md",
-    "lecture notes/ME-3077 (fluids)/8. Finite Control Volume Analysis.md",
-    "independent study/CFD/Cauchy Momentum Equation.md",
-    "lecture notes/ME-3077 (fluids)/7. Fluid Kinematics.md",
-    "independent study/classic mechanics/Conservation Laws.md",
-    "independent study/classic mechanics/Calculus of Variations.md",
-    "independent study/classic mechanics/Lagrange's Equations.md",
-    "independent study/CFD/Material Derivatives.md",
-    "independent study/classic mechanics/Landu-Lifshitz Course on Mechanics.md",
-    "independent study/classic mechanics/Angular Momentum.md",
-    "lecture notes/ME-3077 (fluids)/0. Forces & Fluid Properties.md",
-    "4. Extra.md",
+    "Untitled.md",
+    "README.md",
+    "media/Untitled.png",
+    "media/Untitled.pdf",
+    "media/image-43.png",
+    "media/image-21.png",
+    "media/image-12.png",
     "media/image-7.png",
     "media/image-6.png",
     "media/image-5.png",
     "media/image-4.png",
-    "media/image-3.png",
-    "media/image-2.png",
-    "lecture notes/ME-3077 (fluids)/6. Equation of Hydrostatics.md",
-    "lecture notes/ME-3077 (fluids)/1. Buckingham Pi Theorem.md",
-    "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
-    "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
-    "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
-    "media/stress-rot.png",
-    "lecture notes/COE-3001 (def bods)/3. Beams.md",
-    "media/excalidraw/excalidraw-2025-09-02-15.53.56.excalidraw.md",
     "lecture notes/ECE-3077 (statistics)/misc",
-    "media/image-10.png",
-    "media/IMG_0412.jpeg",
-    "media/excalidraw/excalidraw-2025-09-15-19.51.30.excalidraw.svg",
     "lecture notes/COE-3001 (def bods)",
     "media/IMG_0244.heic",
     "private/KD_ML",
     "private",
     "lecture notes/ME-2202 (dynamics)",
     "media/IMG_0176.heic",
-    "lecture notes/ME-3077 (fluids)",
-    "lecture notes/ECE-3077 (statistics)",
-    "projects/ml-cfd"
+    "lecture notes/ME-3077 (fluids)"
   ]
 }

@@ -6,39 +6,34 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ME-3340: HW 7 @{2025-10-12}
-- [ ] ME-3340: Ch. 5 Reading
-- [ ] ME-3340: HW 7 @{2025-10-12}
-- [ ] ECE-3077: Information Theory and Source Coding Reading @{2025-10-10}
-- [ ] ECE-3077: 3.1-3.2 Reading @{2025-10-11}
-- [ ] ECE-3077: 3.3 Reading @{2025-10-12}
-- [ ] ECE-3077: 3.4 Reading @{2025-10-13}
-- [ ] ECE-3077: HW 6 @{2025-10-15}
-
-
-## In Progress
-
-- [ ] COE-3001: Notes catch up @{2025-10-09}
-
-
-## Priority
-
-- [ ] ME-2202: 5/5 Reading @10/09{2025-10-09}
-- [ ] ME-2202: 5/6 Reading @{2025-10-09}
-- [ ] ME-2202: 5/7 Reading
-- [ ] ME-2202: 6/1 Reading @{2025-10-10}
 - [ ] ME-2202: 6/2 Reading @{2025-10-10}
 - [ ] ME-2202: 6/3 Reading @{2025-10-10}
 - [ ] ME-2202: 6/5 Reading @{2025-10-10}
 - [ ] ME-2202: 6/6 Reading @{2025-10-10}
-- [ ] ME-2202: HW 7 @{2025-10-18}
+- [ ] COE-3001: Notes catch up @{2025-10-09}
+
+
+## In Progress
+
+
+
+## Priority
+
+- [ ] ME-3340: Ch. 5 Reading
+- [ ] ECE-3077: Information Theory and Source Coding Reading @{2025-10-10}
+- [ ] ECE-3077: 3.1-3.2 Reading @{2025-10-11}
+- [ ] ECE-3077: 3.3 Reading @{2025-10-12}
+- [ ] ECE-3077: 3.4 Reading @{2025-10-13}
 
 
 ## Complete
 
 **Complete**
-- [x] COE-3001: HW 10
-- [x] ECE-3741: Makeup Lab @{2025-10-10}
+- [x] ME-2202: 5/7 Reading
+- [x] ME-2202: 5/5 Reading @10/09{2025-10-09}
+- [x] ME-2202: 5/6 Reading @{2025-10-09}
+- [x] ME-2202: HW 7 @{2025-10-18}
+- [x] ME-2202: 6/1 Reading @{2025-10-10}
 
 
 ***
@@ -125,6 +120,11 @@ kanban-plugin: board
 - [ ] Study for Dynamics Exam
 - [ ] Study for Defbods Exam
 - [ ] Study for Fluids Exam
+- [x] COE-3001: HW 10
+- [x] ECE-3741: Makeup Lab @{2025-10-10}
+- [ ] ME-3340: HW 7 @{2025-10-12}
+- [ ] ME-3340: HW 7 @{2025-10-12}
+- [ ] ECE-3077: HW 6 @{2025-10-15}
 
 %% kanban:settings
 ```
