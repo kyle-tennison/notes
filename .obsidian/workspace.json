@@ -4,49 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "4802d72db2e70945",
+        "id": "abc27f5d1c62ec7c",
         "type": "tabs",
         "children": [
           {
-            "id": "935c551cd40c25e8",
+            "id": "ad2371d0b0c0bb8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-3077 (fluids)/2. Equation of Hydrostatics.md",
+                "file": "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Equation of Hydrostatics"
+              "title": "2. Discrete Random Variables"
             }
           },
           {
-            "id": "e2518c81aadef905",
+            "id": "f3f54d01f7b385bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-3077 (fluids)/3. Bernoulli Equation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Bernoulli Equation"
+              "title": "README"
             }
           },
           {
-            "id": "3534aaceb1a09801",
+            "id": "8e69727ebf105ed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ME-3077 (fluids)/4. Fluid Kinematics.md",
+                "file": "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Fluid Kinematics"
+              "title": "1. Sample Space & Probability"
+            }
+          },
+          {
+            "id": "789022559385f11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Sample Space & Probability"
+            }
+          },
+          {
+            "id": "62ad5f53f0b11522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Sample Space & Probability"
             }
           }
         ],
@@ -123,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture notes/ME-3077 (fluids)/3. Bernoulli Equation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Bernoulli Equation"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -246,13 +274,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e2518c81aadef905",
+  "active": "f3f54d01f7b385bc",
   "lastOpenFiles": [
-    "media/image-52.png",
-    "media/image-51.png",
+    "Untitled.md",
+    "README.md",
+    "lecture notes/ME-2202 (dynamics)/6. Plane Kinetics of Rigid Bodies.md",
+    "lecture notes/ME-2202 (dynamics)/5. Plane Kinematics of Rigid Bodies.md",
+    "lecture notes/ECE-3710 (circuits)/4. Extra.md",
+    "lecture notes/ECE-3077 (statistics)/2.* Information and Source Coding.md",
+    "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
+    "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
+    "productivity/School Tasks.md",
+    "lecture notes/ME-3077 (fluids)/4. Fluid Kinematics.md",
+    "lecture notes/ME-3077 (fluids)/5. Finite Control Volume Analysis.md",
+    "independent study/CFD/Cauchy Momentum Equation.md",
     "lecture notes/ME-3077 (fluids)/2. Equation of Hydrostatics.md",
     "lecture notes/ME-3077 (fluids)/3. Bernoulli Equation.md",
-    "lecture notes/ME-3077 (fluids)/4. Fluid Kinematics.md",
+    "media/image-52.png",
+    "media/image-51.png",
     "lecture notes/ME-3322 (thermodynamics)/11. Air-Water Mixtures.md",
     "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Textbook).md",
     "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Lecture).md",
@@ -261,22 +300,12 @@
     "lecture notes/ME-3322 (thermodynamics)/0. Exam Notes.md",
     "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
     "independent study/classic mechanics/Galileo's Relativity Principle.md",
-    "productivity/School Tasks.md",
     "media/image-50.png",
-    "lecture notes/ME-3077 (fluids)/5. Finite Control Volume Analysis.md",
     "lecture notes/ME-3077 (fluids)/7. Buckingham Pi Theorem.md",
     "lecture notes/ME-3077 (fluids)/misc/5. Fluid at rest.md",
     "lecture notes/ME-3077 (fluids)/misc/4. Momentum Equation.md",
     "lecture notes/ME-3077 (fluids)/misc/3. Similarity.md",
-    "lecture notes/ME-3077 (fluids)/misc/2. Dimensionless Numbers.md",
-    "lecture notes/ME-3077 (fluids)/misc/0. Forces & Fluid Properties.md",
-    "productivity/Morning Check.md",
     "lecture notes/ME-3077 (fluids)/misc",
-    "productivity/Personal Tasks.md",
-    "lecture notes/ME-2202 (dynamics)/4. Rigid Body Motion.md",
-    "5. Plane Kinematics of Rigid Bodies.md",
-    "Untitled.md",
-    "README.md",
     "media/Untitled.png",
     "media/Untitled.pdf",
     "media/image-43.png",
@@ -285,7 +314,6 @@
     "media/image-7.png",
     "media/image-6.png",
     "media/image-5.png",
-    "media/image-4.png",
     "lecture notes/ECE-3077 (statistics)/misc",
     "lecture notes/COE-3001 (def bods)",
     "media/IMG_0244.heic",
