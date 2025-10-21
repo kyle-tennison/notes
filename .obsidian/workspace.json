@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "abc27f5d1c62ec7c",
+        "id": "07f7be8659e8be74",
         "type": "tabs",
         "children": [
           {
-            "id": "ad2371d0b0c0bb8b",
+            "id": "38436cd84c975acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
+                "file": "lecture notes/ME-3077 (fluids)/5. Finite Control Volume Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Discrete Random Variables"
-            }
-          },
-          {
-            "id": "f3f54d01f7b385bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8e69727ebf105ed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Sample Space & Probability"
-            }
-          },
-          {
-            "id": "789022559385f11e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Sample Space & Probability"
-            }
-          },
-          {
-            "id": "62ad5f53f0b11522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Sample Space & Probability"
+              "title": "5. Finite Control Volume Analysis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Taylor series",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lecture notes/ME-3077 (fluids)/5. Finite Control Volume Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 5. Finite Control Volume Analysis"
             }
           },
           {
@@ -274,17 +217,31 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f3f54d01f7b385bc",
+  "active": "38436cd84c975acc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
+    "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
+    "lecture notes/ECE-3077 (statistics)/3. General Random Variables.md",
+    "^conditioning-exapnd.md",
+    "media/IMG_0694.jpeg",
+    "lecture notes/ECE-3077 (statistics)/2.* Information and Source Coding.md",
+    "media/image-54.png",
+    "media/excalidraw/excalidraw-2025-10-20-08.52.30.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-10-20-08.52.30.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-10-20-08.49.13.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-10-20-08.49.13.excalidraw.svg",
+    "media/excalidraw/excalidraw-2025-10-20-08.44.26.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-10-20-08.44.26.excalidraw.svg",
+    "media/image-53.png",
+    "productivity/School Tasks.md",
+    "productivity/Morning Check.md",
+    "productivity/Personal Tasks.md",
+    "media/excalidraw/excalidraw-2025-10-19-21.24.58.excalidraw.md",
+    "media/excalidraw/excalidraw-2025-10-19-21.24.58.excalidraw.svg",
     "README.md",
     "lecture notes/ME-2202 (dynamics)/6. Plane Kinetics of Rigid Bodies.md",
     "lecture notes/ME-2202 (dynamics)/5. Plane Kinematics of Rigid Bodies.md",
     "lecture notes/ECE-3710 (circuits)/4. Extra.md",
-    "lecture notes/ECE-3077 (statistics)/2.* Information and Source Coding.md",
-    "lecture notes/ECE-3077 (statistics)/2. Discrete Random Variables.md",
-    "lecture notes/ECE-3077 (statistics)/1. Sample Space & Probability.md",
-    "productivity/School Tasks.md",
     "lecture notes/ME-3077 (fluids)/4. Fluid Kinematics.md",
     "lecture notes/ME-3077 (fluids)/5. Finite Control Volume Analysis.md",
     "independent study/CFD/Cauchy Momentum Equation.md",
@@ -297,23 +254,9 @@
     "lecture notes/ME-3322 (thermodynamics)/9. Refrigeration Cycles (Lecture).md",
     "lecture notes/ME-3322 (thermodynamics)/9. Future of Refrigeration Cycles.md",
     "lecture notes/ME-3322 (thermodynamics)/0. Pump Work Approximation.md",
-    "lecture notes/ME-3322 (thermodynamics)/0. Exam Notes.md",
-    "lecture notes/ME-3322 (thermodynamics)/0. Control Volume Work.md",
-    "independent study/classic mechanics/Galileo's Relativity Principle.md",
     "media/image-50.png",
-    "lecture notes/ME-3077 (fluids)/7. Buckingham Pi Theorem.md",
-    "lecture notes/ME-3077 (fluids)/misc/5. Fluid at rest.md",
-    "lecture notes/ME-3077 (fluids)/misc/4. Momentum Equation.md",
-    "lecture notes/ME-3077 (fluids)/misc/3. Similarity.md",
     "lecture notes/ME-3077 (fluids)/misc",
-    "media/Untitled.png",
     "media/Untitled.pdf",
-    "media/image-43.png",
-    "media/image-21.png",
-    "media/image-12.png",
-    "media/image-7.png",
-    "media/image-6.png",
-    "media/image-5.png",
     "lecture notes/ECE-3077 (statistics)/misc",
     "lecture notes/COE-3001 (def bods)",
     "media/IMG_0244.heic",

@@ -15,12 +15,12 @@ For daily activities
 	- [x] ECE 3741
 	- [x] ME 3340
 	- [x] ECE 3077
-	- [x] Calendar
+	- [ ] Calendar
 - [ ] Anki (5 min) 
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
-- [ ] [Daily Habits](https://app.dailyhabits.xyz)
-- [ ] **Done**
+- [x] [Daily Habits](https://app.dailyhabits.xyz)
+- [x] **Done**
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 
