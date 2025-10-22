@@ -1,8 +1,8 @@
 # Morning Check
-For daily activities
 
-![](../media/Pasted%20image%2020241106071600.png)
+![|640x268](../media/Pasted%20image%2020241106071600.png)
 
+---
 ## Checklist
 
 - [x] Check Emails
@@ -25,7 +25,20 @@ For daily activities
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 
 
-### Priority
+### Work Status
+
+
+| Class                       | Status                                                                                                                  |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **COE 3001** (Def Bods)     | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+| **ME 2202** (Dynamics)      | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+| **ECE 3741** (Circuits Lab) | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+| **ME 3340** (Fluids)        | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+| **ECE 3077** (Statistics)   | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+| **Research**                | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+| **PTC**                     | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+
+
 
 
 
