@@ -1,4 +1,15 @@
+---
+status: 🔥 Ahead
+status1: ⚠️ Behind
+status2: ⚠️ Behind
+status3: ⚠️ Behind
+status4: ⚠️ Behind
+status5: ⚠️ Behind
+status6: ⚠️ Behind
+status7: ⚠️ Behind
+---
 # Morning Check
+	# Morning Check
 
 ![|640x268](../media/Pasted%20image%2020241106071600.png)
 
@@ -24,24 +35,76 @@
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 
+---
 
 ### Work Status
 
+**COE 3001** (Deformable Bodes)
 
-| Class                       | Status                                                                                                                  |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **COE 3001** (Def Bods)     | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
-| **ME 2202** (Dynamics)      | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
-| **ECE 3741** (Circuits Lab) | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
-| **ME 3340** (Fluids)        | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
-| **ECE 3077** (Statistics)   | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
-| **Research**                | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
-| **PTC**                     | <select> <option>✅✅ Ahead</option> <option>✅ On-Schedule</option> <option><strong>⚠️ Behind</strong></option> </select> |
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status1]
+```
+
+**COE 2001** (Dynamics)
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status2]
+```
+
+**ECE 3741** (Circuits Lab)
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status3]
+```
+
+**ME 3340** (Fluids)
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status4]
+```
+
+**ECE 3077** (Statistics)
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status5]
+```
+
+**Research**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status6]
+```
+
+**PTC**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status7]
+```
 
 
-
-
-
+---
 
 *Reset checks:*
 ```python
