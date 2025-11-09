@@ -6,36 +6,37 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ME-2202: 6/2 Reading @{2025-10-10}
-- [ ] ME-2202: 6/3 Reading @{2025-10-10}
-- [ ] ME-2202: 6/5 Reading @{2025-10-10}
-- [ ] ME-2202: 6/6 Reading @{2025-10-10}
-- [ ] COE-3001: Notes catch up @{2025-10-09}
+- [ ] ME-2202: HW 9
+- [ ] ME-2202: Reading 7/1
+- [ ] ME-2202: Reading 7/2
+- [ ] ME-2202: Reading 7/3
+- [ ] ME-2202: Reading 7/4
+- [ ] ME-2202: Reading 7/5
+- [ ] ME-2202: Reading 7/6
+- [ ] COE-3001: Creative Assignment 3
+- [ ] ME-3340: Ch. 6 Reading
 
 
 ## In Progress
 
+- [ ] ME-2202: HW 7 (Review)
+- [ ] ME-2202: HW 8 (Review)
+- [ ] ME-3340: Fluids HW 10
+- [ ] ME-3340: Fluids HW 11
 
 
 ## Priority
 
-- [ ] ECE-3077: Information Theory and Source Coding Reading @{2025-10-10}
-- [ ] ECE-3077: 3.1-3.2 Reading @{2025-10-11}
-- [ ] ECE-3077: 3.3 Reading @{2025-10-12}
-- [ ] ECE-3077: 3.4 Reading @{2025-10-13}
-- [ ] ME-3340: Ch. 5.2Reading
-- [ ] ME-3340: Ch. 5.3 Reading
+- [ ] ME-2202: HW 6 (Review)
+- [ ] ME-3340: Fluids HW 9
+- [ ] ME-3340: Ch. 8 Reading
 
 
 ## Complete
 
 **Complete**
-- [x] ME-3340: Ch. 3.1 Reading
-- [x] ME-3340: Ch. 3.2 Reading
-- [x] ME-3340: Ch. 3.3 Reading
-- [x] ME-3340: Ch. 3.4 Reading
-- [x] ME-3340: Ch. 3.5 Reading
-- [x] ME-3340: Ch. 5.1 Reading
+- [x] COE-3001: HW 16
+- [x] COE-3001: HW 15
 
 
 ***
@@ -132,6 +133,20 @@ kanban-plugin: board
 - [x] ME-2202: 5/6 Reading @{2025-10-09}
 - [x] ME-2202: HW 7 @{2025-10-18}
 - [x] ME-2202: 6/1 Reading @{2025-10-10}
+- [x] ECE-3077: 3.1-3.2 Reading @{2025-10-11}
+- [x] ECE-3077: 3.3 Reading @{2025-10-12}
+- [x] ECE-3077: 3.4 Reading @{2025-10-13}
+- [x] ECE-3077: Information Theory and Source Coding Reading @{2025-10-10}
+- [x] ME-3340: Ch. 3.1 Reading
+- [x] ME-3340: Ch. 3.2 Reading
+- [x] ME-3340: Ch. 3.3 Reading
+- [x] ME-3340: Ch. 3.4 Reading
+- [x] ME-3340: Ch. 3.5 Reading
+- [x] ME-3340: Ch. 5.1 Reading
+- [x] ME-2202: 6/2 Reading @{2025-10-10}
+- [x] ME-2202: 6/3 Reading @{2025-10-10}
+- [x] ME-2202: 6/6 Reading @{2025-10-10}
+- [x] ME-2202: 6/5 Reading @{2025-10-10}
 
 %% kanban:settings
 ```

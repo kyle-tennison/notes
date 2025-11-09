@@ -1,5 +1,5 @@
 # Beams
- # Beams
+
 Beams are members that specifically *resist bending*. Their loads are typically applied perpendicular to their longitudinal axis.
 
 Many beam problems will be statically indeterminate, so it's important to look at the number of knowns versus the number of unknowns. 

@@ -1,15 +1,16 @@
 ---
 status: 🔥 Ahead
-status1: ⚠️ Behind
+status1: ✅ On-Schedule
 status2: ⚠️ Behind
 status3: ⚠️ Behind
 status4: ⚠️ Behind
 status5: ⚠️ Behind
 status6: ⚠️ Behind
-status7: ⚠️ Behind
+status7: ✅ On-Schedule
+status8: ✅ On-Schedule
 ---
 # Morning Check
-	# Morning Check
+
 
 ![|640x268](../media/Pasted%20image%2020241106071600.png)
 
@@ -19,16 +20,16 @@ status7: ⚠️ Behind
 - [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [ ] PTC
+	- [x] PTC
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] COE 3001
 	- [x] ME 2202
 	- [x] ECE 3741
 	- [x] ME 3340
 	- [x] ECE 3077
-	- [ ] Calendar
+	- [x] Calendar
 - [ ] Anki (5 min) 
-- [x] [Personal Tasks](Personal%20Tasks.md)
+- [ ] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
 - [x] [Daily Habits](https://app.dailyhabits.xyz)
 - [x] **Done**
@@ -83,6 +84,15 @@ INPUT[inlineSelect(
   option('✅ On-Schedule'),
   option('⚠️ Behind')
 ):status5]
+```
+
+**Grading**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status8]
 ```
 
 **Research**

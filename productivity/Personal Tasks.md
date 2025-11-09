@@ -6,7 +6,9 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Change White Oak Addresses
 - [ ] Graduate Petition
+- [ ] Book flight back to california
 
 
 ## Blocked
@@ -15,7 +17,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Change White Oak Addresses
 
 
 ***
