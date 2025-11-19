@@ -19,24 +19,20 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] ME-2202: HW 7 (Review)
 - [ ] ME-2202: HW 8 (Review)
 - [ ] ME-3340: Fluids HW 10
 - [ ] ME-3340: Fluids HW 11
+- [ ] ME-3340: Fluids HW 9
+- [ ] ME-3340: Ch. 8 Reading
 
 
 ## Priority
 
-- [ ] ME-2202: HW 6 (Review)
-- [ ] ME-3340: Fluids HW 9
-- [ ] ME-3340: Ch. 8 Reading
 
 
 ## Complete
 
 **Complete**
-- [x] COE-3001: HW 16
-- [x] COE-3001: HW 15
 
 
 ***
@@ -147,6 +143,10 @@ kanban-plugin: board
 - [x] ME-2202: 6/3 Reading @{2025-10-10}
 - [x] ME-2202: 6/6 Reading @{2025-10-10}
 - [x] ME-2202: 6/5 Reading @{2025-10-10}
+- [x] COE-3001: HW 16
+- [x] COE-3001: HW 15
+- [x] ME-2202: HW 6 (Review)
+- [x] ME-2202: HW 7 (Review)
 
 %% kanban:settings
 ```

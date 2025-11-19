@@ -1,13 +1,13 @@
 ---
 status: 🔥 Ahead
-status1: ✅ On-Schedule
+status1: ⚠️ Behind
 status2: ⚠️ Behind
-status3: ⚠️ Behind
+status3: ✅ On-Schedule
 status4: ⚠️ Behind
 status5: ⚠️ Behind
 status6: ⚠️ Behind
 status7: ✅ On-Schedule
-status8: ✅ On-Schedule
+status8: ⚠️ Behind
 ---
 # Morning Check
 
@@ -21,18 +21,17 @@ status8: ✅ On-Schedule
 	- [x] Personal
 	- [x] Georgia Tech
 	- [x] PTC
-- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
+- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] COE 3001
 	- [x] ME 2202
-	- [x] ECE 3741
 	- [x] ME 3340
-	- [x] ECE 3077
-	- [x] Calendar
+	- [ ] ECE 3077
+	- [ ] Calendar
 - [ ] Anki (5 min) 
 - [ ] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
-- [x] [Daily Habits](https://app.dailyhabits.xyz)
-- [x] **Done**
+- [ ] Google Calendar
+- [ ] [Daily Habits](https://app.dailyhabits.xyz)
+- [ ] **Done**
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 
