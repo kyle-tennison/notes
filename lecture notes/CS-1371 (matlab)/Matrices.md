@@ -1,3 +1,4 @@
+# Matrices
 ## Basics
 You can concatenate row vectors horizontally with `[vec1 vec2]`.
 You can create a matrix by using `;` to delineate new lines:

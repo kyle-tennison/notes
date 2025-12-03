@@ -6,28 +6,25 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ME-2202: HW 9
-- [ ] ME-2202: Reading 7/1
-- [ ] ME-2202: Reading 7/2
-- [ ] ME-2202: Reading 7/3
-- [ ] ME-2202: Reading 7/4
-- [ ] ME-2202: Reading 7/5
-- [ ] ME-2202: Reading 7/6
-- [ ] COE-3001: Creative Assignment 3
-- [ ] ME-3340: Ch. 6 Reading
+- [ ] ECE-3077: Notes 13
+- [ ] ECE-3077: Notes 14
+- [ ] ECE-3077: Notes 15
+- [ ] ECE-3077: Notes 16
+- [ ] ECE-3077: Notes 17
+- [ ] ECE-3077: HW 9
+- [ ] ECE-3077: HW 10
 
 
 ## In Progress
 
-- [ ] ME-2202: HW 8 (Review)
-- [ ] ME-3340: Fluids HW 10
-- [ ] ME-3340: Fluids HW 11
-- [ ] ME-3340: Fluids HW 9
-- [ ] ME-3340: Ch. 8 Reading
+- [ ] ME-2202: Exam Regrade
+- [ ] ME-2202: HW 10
+- [ ] ME-2202: Reading 7/6
 
 
 ## Priority
 
+- [ ] COE-3001: Study
 
 
 ## Complete
@@ -147,6 +144,17 @@ kanban-plugin: board
 - [x] COE-3001: HW 15
 - [x] ME-2202: HW 6 (Review)
 - [x] ME-2202: HW 7 (Review)
+- [x] ME-3340: Ch. 8 Reading
+- [x] ME-3340: Fluids HW 9
+- [x] ME-3340: Fluids HW 11
+- [x] ME-2202: HW 9
+- [x] ME-2202: Reading 7/1
+- [x] ME-2202: Reading 7/2
+- [x] ME-2202: Reading 7/3
+- [x] ME-2202: Reading 7/4
+- [x] ME-2202: Reading 7/5
+- [x] COE-3001: Creative Assignment 3
+- [x] ME-3340: Ch. 6 Reading
 
 %% kanban:settings
 ```

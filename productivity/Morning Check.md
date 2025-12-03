@@ -17,16 +17,15 @@ status8: ⚠️ Behind
 ---
 ## Checklist
 
-- [x] Check Emails
+- [ ] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [x] PTC
-- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [ ] PTC
+- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] COE 3001
 	- [x] ME 2202
-	- [x] ME 3340
-	- [ ] ECE 3077
-	- [ ] Calendar
+	- [x] ECE 3077
+	- [x] Calendar
 - [ ] Anki (5 min) 
 - [ ] [Personal Tasks](Personal%20Tasks.md)
 - [ ] Google Calendar
