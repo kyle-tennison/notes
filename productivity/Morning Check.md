@@ -3,9 +3,9 @@ status: 🔥 Ahead
 status1: ⚠️ Behind
 status2: ⚠️ Behind
 status3: ✅ On-Schedule
-status4: ⚠️ Behind
+status4: ✅ On-Schedule
 status5: ⚠️ Behind
-status6: ⚠️ Behind
+status6: ✅ On-Schedule
 status7: ✅ On-Schedule
 status8: ⚠️ Behind
 ---
@@ -22,76 +22,22 @@ status8: ⚠️ Behind
 	- [x] Georgia Tech
 	- [ ] PTC
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
-	- [x] COE 3001
-	- [x] ME 2202
-	- [x] ECE 3077
+	- [x] ME 3057: Experimental Methods
+	- [x] ME 3345: Heat Transfer
+	- [x] ME 3180: Machine Design
+	- [x] ME 3017: System Dynamics
 	- [x] Calendar
-- [ ] Anki (5 min) 
-- [ ] [Personal Tasks](Personal%20Tasks.md)
-- [ ] Google Calendar
-- [ ] [Daily Habits](https://app.dailyhabits.xyz)
-- [ ] **Done**
+- [x] Anki (5 min) 
+- [x] [Personal Tasks](Personal%20Tasks.md)
+- [x] Google Calendar
+- [x] Track Habits
+- [x] **Done**
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 
 ---
 
 ### Work Status
-
-**COE 3001** (Deformable Bodes)
-
-```meta-bind
-INPUT[inlineSelect(
-  option('🔥 Ahead'),
-  option('✅ On-Schedule'),
-  option('⚠️ Behind')
-):status1]
-```
-
-**COE 2001** (Dynamics)
-```meta-bind
-INPUT[inlineSelect(
-  option('🔥 Ahead'),
-  option('✅ On-Schedule'),
-  option('⚠️ Behind')
-):status2]
-```
-
-**ECE 3741** (Circuits Lab)
-```meta-bind
-INPUT[inlineSelect(
-  option('🔥 Ahead'),
-  option('✅ On-Schedule'),
-  option('⚠️ Behind')
-):status3]
-```
-
-**ME 3340** (Fluids)
-```meta-bind
-INPUT[inlineSelect(
-  option('🔥 Ahead'),
-  option('✅ On-Schedule'),
-  option('⚠️ Behind')
-):status4]
-```
-
-**ECE 3077** (Statistics)
-```meta-bind
-INPUT[inlineSelect(
-  option('🔥 Ahead'),
-  option('✅ On-Schedule'),
-  option('⚠️ Behind')
-):status5]
-```
-
-**Grading**
-```meta-bind
-INPUT[inlineSelect(
-  option('🔥 Ahead'),
-  option('✅ On-Schedule'),
-  option('⚠️ Behind')
-):status8]
-```
 
 **Research**
 ```meta-bind

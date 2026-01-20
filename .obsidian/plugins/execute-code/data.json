@@ -62,7 +62,7 @@
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonFileExtension": "py",
-  "pythonInject": "from sympy import symbols, solve, Eq \nimport os\nos.chdir('/Users/kyletennison/obsidian/notes')",
+  "pythonInject": "from sympy import symbols, solve, Eq \nimport sympy as sp\nimport numpy as np\nimport os\nos.chdir('/Users/kyletennison/obsidian/notes')",
   "shellPath": "bash",
   "shellArgs": "",
   "shellFileExtension": "sh",

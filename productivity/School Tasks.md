@@ -6,30 +6,19 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ECE-3077: Notes 13
-- [ ] ECE-3077: Notes 14
-- [ ] ECE-3077: Notes 15
-- [ ] ECE-3077: Notes 16
-- [ ] ECE-3077: Notes 17
-- [ ] ECE-3077: HW 9
-- [ ] ECE-3077: HW 10
+- [ ] ME-3345: Week 1&2 Reading
+- [ ] ME-3180: Homework 1
 
 
 ## In Progress
 
-- [ ] ME-2202: Exam Regrade
-- [ ] ME-2202: HW 10
-- [ ] ME-2202: Reading 7/6
-
-
-## Priority
-
-- [ ] COE-3001: Study
+- [ ] ME-3180: Quiz 1 study
 
 
 ## Complete
 
 **Complete**
+- [x] ME-3057: Podcast Episode Annotations
 
 
 ***
@@ -155,6 +144,17 @@ kanban-plugin: board
 - [x] ME-2202: Reading 7/5
 - [x] COE-3001: Creative Assignment 3
 - [x] ME-3340: Ch. 6 Reading
+- [x] ME-2202: Exam Regrade
+- [x] ME-2202: HW 10
+- [x] ME-2202: Reading 7/6
+- [x] ECE-3077: Notes 13
+- [x] ECE-3077: Notes 12
+- [x] ECE-3077: Notes 14
+- [x] ECE-3077: Notes 15
+- [x] ECE-3077: Notes 16
+- [x] ECE-3077: Notes 17
+- [x] ECE-3077: HW 10
+- [x] ECE-3077: HW 9
 
 %% kanban:settings
 ```

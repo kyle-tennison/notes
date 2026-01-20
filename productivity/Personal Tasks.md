@@ -6,17 +6,29 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Change White Oak Addresses
-- [ ] Graduate Petition
-- [ ] Book flight back to california
+- [ ] GRE Planning
+- [ ] Program Applications
 
 
 ## Blocked
 
+- [ ] Go through boxes at folsom
 
 
 ## In Progress
 
+- [ ] Catch up anki
+- [ ] Professor Reach Out
+
+
+## Done
+
+- [ ] Graduate Petition
+- [ ] Fix portfolio site
+- [ ] Change White Oak Addresses
+- [ ] Renew Drivers License
+- [ ] Prune next semester schedule
+- [ ] Schedule flight back to atlanta
 
 
 ***
@@ -46,9 +58,10 @@ kanban-plugin: board
 - [ ] Corporate Trainings
 - [ ] Remove myself from housing waitlist
 - [ ] Ragposium Featured Project
+- [ ] Book flight back to california
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

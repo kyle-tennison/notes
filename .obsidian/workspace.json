@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d048b56c871974",
+        "id": "dc660856fa9cdbba",
         "type": "tabs",
         "children": [
           {
-            "id": "2d3ea8adbef9d212",
+            "id": "9208b5aaa4e4b864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture notes/COE-3001 (def bods)/8. Bending.md",
-                "mode": "source",
-                "source": false
+                "file": "productivity/Morning Check.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8. Bending"
+              "title": "Morning Check"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transfo",
+                "query": "\"fundamental theorem of\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture notes/COE-3001 (def bods)/7. Thermoelasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7. Thermoelasticity"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -221,53 +220,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2d3ea8adbef9d212",
+  "active": "284968d57bb71a47",
   "lastOpenFiles": [
-    "Untitled 4.md",
-    "lecture notes/COE-3001 (def bods)/8. Bending.md",
-    "lecture notes/COE-3001 (def bods)/3. Beams.md",
-    "lecture notes/COE-3001 (def bods)/1. Axial Bar.md",
-    "lecture notes/COE-3001 (def bods)/6. Strain.md",
-    "lecture notes/COE-3001 (def bods)/7. Thermoelasticity.md",
+    "Untitled.canvas",
+    "productivity/Morning Check.md",
     "lecture notes/COE-2001 (statics)/Beams.md",
+    "lecture notes/ME-3180 (machine design)/3. Load and Stress Analysis.md",
+    "media/ME-3180-demo3.png",
+    "media/excalidraw/excalidraw-2026-01-20-14.52.17.excalidraw.md",
+    "media/Pasted Image 20260120145250_227.png",
+    "media/excalidraw/excalidraw-2026-01-20-14.52.17.excalidraw.svg",
+    "media/Pasted Image 20260120145219_096.png",
+    "media/image-84.png",
+    "media/excalidraw/excalidraw-2026-01-19-20.30.11.excalidraw.md",
+    "lecture notes/ME-3180 (machine design)/L3. Superposition.md",
+    "productivity/Personal Tasks.md",
+    "lecture notes/ME-3180 (machine design)/L2. More Materials Review.md",
+    "productivity/School Tasks.md",
+    "media/excalidraw/excalidraw-2026-01-19-20.30.11.excalidraw.svg",
+    "media/image-83.png",
+    "media/ME-3180-demo2.png",
+    "media/image-82.png",
+    "media/image-81.png",
+    "media/excalidraw/excalidraw-2026-01-19-17.06.14.excalidraw.md",
+    "miscellaneous/Landau Video 2 Script.md",
+    "lecture notes/ME-3180 (machine design)/L1. Introduction.md",
+    "lecture notes/ME-3017 (system dynamics)/L2. Laplace Transformation.md",
+    "lecture notes/ME-3345 (heat transfer)/L1. Introduction.md",
+    "lecture notes/ME-3345 (heat transfer)/L2. Thermodynamics.md",
     "lecture notes/COE-3001 (def bods)/4. Transformations.md",
     "lecture notes/COE-3001 (def bods)/5. Material Failure.md",
-    "lecture notes/COE-3001 (def bods)/0. Traction & Stress.md",
-    "lecture notes/COE-3001 (def bods)/2. Torsion Bar.md",
-    "productivity/Morning Check.md",
-    "lecture notes/ME-2202 (dynamics)/Frame Rotations.md",
-    "lecture notes/ME-2202 (dynamics)/hw/hw11.md",
-    "media/excalidraw/excalidraw-2025-12-02-00.28.44.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-12-02-00.28.44.excalidraw.svg",
-    "media/Pasted Image 20251202002947_708.png",
-    "media/excalidraw/excalidraw-2025-12-01-21.48.03.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-12-01-22.39.18.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-12-01-22.39.18.excalidraw.svg",
-    "media/excalidraw/excalidraw-2025-12-01-21.48.03.excalidraw.svg",
-    "media/Pasted Image 20251201214938_316.png",
-    "media/excalidraw/excalidraw-2025-12-01-21.14.11.excalidraw.md",
-    "media/excalidraw/excalidraw-2025-12-01-21.14.11.excalidraw.svg",
-    "media/Pasted Image 20251201211546_838.png",
-    "lecture notes/ME-2202 (dynamics)/7. Three Dimensional Dynamics.md",
-    "lecture notes/ME-2202 (dynamics)/1. Cartesian Particle Motion.md",
-    "media/excalidraw/excalidraw-2025-11-27-10.45.29.excalidraw.md",
-    "lecture notes/ME-2202 (dynamics)/6. Plane Kinetics of Rigid Bodies.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
-    "media/excalidraw/excalidraw-2025-11-27-10.45.29.excalidraw.svg",
-    "lecture notes/ME-2202 (dynamics)/5. Plane Kinematics of Rigid Bodies.md",
-    "media/Pasted Image 20251124232850_328.png",
-    "media/Pasted Image 20251124231750_306.png",
+    "media/excalidraw/excalidraw-2026-01-15-14.26.51.excalidraw.md",
+    "media/excalidraw/excalidraw-2024-11-12-09.03.56.excalidraw.md",
+    "lecture notes/ME-3180 (machine design)",
+    "lecture notes/(machine design)/L1. Introduction.md",
+    "lecture notes/(machine design)",
+    "lecture notes/ME-3017 (system dynamics)/L1. Introduction.md",
+    "media/excalidraw/excalidraw-2026-01-14-15.54.21.excalidraw.md",
+    "lecture notes/ME-3057 (experimental methods)/L1. Introduction.md",
+    "lecture notes/ME-3057 (experimental methods)",
+    "media/excalidraw/excalidraw-2026-01-14-09.56.11.excalidraw.md",
+    "lecture notes/ME-3017 (system dynamics)",
+    "lecture notes/MSE-2001 (material science)/excalidraw-2026-01-12-10.42.10.excalidraw.md",
+    "lecture notes/ME-3345 (heat transfer)",
+    "lecture notes/GLR (ga history)",
     "lecture notes/ME-3077 (fluids)/hw",
     "lecture notes/ME-2202 (dynamics)/hw",
     "lecture notes/ME-3077 (fluids)/misc",
-    "media/Untitled.pdf",
-    "lecture notes/ECE-3077 (statistics)/misc",
-    "lecture notes/COE-3001 (def bods)",
-    "media/IMG_0244.heic",
-    "private/KD_ML",
-    "private",
-    "lecture notes/ME-2202 (dynamics)"
+    "media/Untitled.pdf"
   ]
 }

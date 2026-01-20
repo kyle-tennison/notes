@@ -27,6 +27,7 @@ $$S'=\int_{t_0}^{t_1}L'(q, \dot q, t) dt = \int_{t_0}^{t_1} L(q, \dot q, t) dt +
 Then, via the fundamental theorem of calculus, which is:
 
 $$\int_a^b f(x) dx = F(b)-F(a)$$
+^fundamental-theorem-of-calc
 
 where $\frac{dF}{dx}=f$, we can say that:
 

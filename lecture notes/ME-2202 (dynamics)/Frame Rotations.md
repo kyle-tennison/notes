@@ -33,7 +33,7 @@ $$\mathbf R^{\rm T} =\begin{bmatrix}
 
 Now, in this above example, **we are rotating the frame, not the vector**. In cases like this, were we are performing a counter-clockwise *frame rotation* of $\theta$, we may re-express $\mathbf v$ in a new frame as:
 
-$$\mathbf v_{B} = \mathbf R \mathbf v_{I}$$
+$$\mathbf v_{B} = \mathbf R^{\rm T} \mathbf v_{I}$$
 
 The difference here is that:
 
@@ -56,3 +56,23 @@ $$\mathbf v_B = \mathbf R^{\rm T}\mathbf v_I =
 $$
 
 which agrees with what we found trigonometrically. 
+
+Alternatively, you can define $\hat I_B$ and $\hat J_B$ in terms of $\hat I$ and $\hat J$:
+
+$$\binom{\hat I_B}{\hat J_B} = \mathbf R^{\rm T} \binom{\hat I}{\hat J}$$
+
+In this case, 
+$$\hat I_B = \cos (\theta) \hat I - \sin (\theta) \hat J,\quad \hat J_B=\sin (\theta) \hat I + \cos (\theta) \hat J$$
+
+To go vice versa, you just flip the direction of theta:
+
+$$\binom{\hat I}{\hat J} = \mathbf R\binom{\hat I_B}{\hat J_B}$$
+
+and now:
+
+$$\underline{\hat I = \cos (\theta) \hat I_B + \sin (\theta) \hat J_B},\quad \hat J=-\sin (\theta) \hat I_B + \cos (\theta) \hat J_B$$
+
+So, to express $\mathbf v= v \hat I$ in the $B$ frame, we can use the underlined expression above:
+
+$$\mathbf v = v\cos(\theta)\hat I_B + v \sin (\theta) \hat J_B$$
+
