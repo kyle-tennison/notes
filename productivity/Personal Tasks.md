@@ -6,25 +6,28 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] GRE Planning
-- [ ] Program Applications
+- [ ] GRE Planning / Study
+- [ ] Unenroll from Rentistry
 
 
 ## Blocked
 
 - [ ] Go through boxes at folsom
+- [ ] Professor Reach Out
+- [ ] Program Applications
 
 
 ## In Progress
 
 - [ ] Catch up anki
-- [ ] Professor Reach Out
+- [ ] BS/MS Application
 
 
 ## Done
 
 - [ ] Graduate Petition
 - [ ] Fix portfolio site
+- [ ] Present for Caroline's 23rd
 - [ ] Change White Oak Addresses
 - [ ] Renew Drivers License
 - [ ] Prune next semester schedule

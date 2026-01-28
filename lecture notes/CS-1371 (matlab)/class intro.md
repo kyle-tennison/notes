@@ -1,3 +1,4 @@
+# class intro
 ## Syllabus Notes
 
 Head TA is Rebecca Ho  

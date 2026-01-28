@@ -1,12 +1,12 @@
 ---
 status: 🔥 Ahead
 status1: ⚠️ Behind
-status2: ⚠️ Behind
-status3: ✅ On-Schedule
+status2: ✅ On-Schedule
+status3: ⚠️ Behind
 status4: ✅ On-Schedule
-status5: ⚠️ Behind
+status5: ✅ On-Schedule
 status6: ✅ On-Schedule
-status7: ✅ On-Schedule
+status7: ⚠️ Behind
 status8: ⚠️ Behind
 ---
 # Morning Check
@@ -38,6 +38,42 @@ Check and modify the calendar. After checking **Done**, be sure to follow the pl
 ---
 
 ### Work Status
+
+**ME 3057: Experimental Methods**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status2]
+```
+
+**ME 3345: Heat Transfer**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status3]
+```
+
+**ME 3180: Machine Design**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status4]
+```
+
+**ME 3017: System Dynamics**
+```meta-bind
+INPUT[inlineSelect(
+  option('🔥 Ahead'),
+  option('✅ On-Schedule'),
+  option('⚠️ Behind')
+):status5]
+```
 
 **Research**
 ```meta-bind

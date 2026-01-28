@@ -9,6 +9,7 @@ for each Cartesian coordinate $x_i$.
 In 2D, this is:
 
 $$\nabla^2 f = \frac{\partial^2 f}{\partial x^2} + \frac{\partial^2 f}{\partial y^2}$$
+^scalar-laplacian
 
 Using this operator is said to be *"taking the Laplacian."*
 

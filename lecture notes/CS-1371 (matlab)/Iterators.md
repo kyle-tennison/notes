@@ -14,7 +14,7 @@ This will turn `str` into "gnitsettesting"
 
 What is a cell array?
 
-# Cell Arrays
+# Iterators
 
 A cell array is a way to store multiple data types in an array.
 
