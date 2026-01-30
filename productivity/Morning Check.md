@@ -17,7 +17,7 @@ status8: ⚠️ Behind
 ---
 ## Checklist
 
-- [ ] Check Emails
+- [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
 	- [ ] PTC
