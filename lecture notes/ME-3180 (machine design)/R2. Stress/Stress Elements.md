@@ -75,7 +75,7 @@ These are the **plane-stress transformation equations**.
 
 Taking the derivative of Eq. 1 gives:
 $$\tan2\phi_p = \frac{2 \tau_{xy}}{\sigma_x - \sigma_y} \tag 3$$
-^principle-shear-direction
+^principal-shear-direction
 
 A quick note on this:
 
@@ -91,7 +91,7 @@ If we set $\tan (x) = c$ where $c$ is any real number, we can define *two* value
 1. One of these values contains the *maximum normal stress* $\large \sigma_1$
 2. The other contains the *minimum normal stress* $\large \sigma_2$ 
 
-And, the angle between the two will always be $90^\circ$. These are the **principle stresses** and $\phi_p$ are their **principle directions**. 
+And, the angle between the two will always be $90^\circ$. These are the **principal stresses** and $\phi_p$ are their **principal directions**. 
 
 Something similar can be done for shear stresses. By taking the derivative of Eq. 2 with respect to $\phi$ gives:
 
@@ -106,11 +106,11 @@ $$\sigma= \frac{\sigma_x+\sigma_y}{2}$$
 
 ---
 
-Notice that $\tan 2\phi_p$ and $\tan 2\phi_s$ are negative reciprocals. This means that the $2\phi_p$ and $2\phi_s$ angles are $90^\circ$ apart. This means that *the angle between the surfaces with the maximum shear stresses are ±45° to the surfaces with the principle stresses.*
+Notice that $\tan 2\phi_p$ and $\tan 2\phi_s$ are negative reciprocals. This means that the $2\phi_p$ and $2\phi_s$ angles are $90^\circ$ apart. This means that *the angle between the surfaces with the maximum shear stresses are ±45° to the surfaces with the principal stresses.*
 
 ---
 
-Quantities for these principle stresses and "extreme-value" shear stresses are found with:
+Quantities for these principal stresses and "extreme-value" shear stresses are found with:
 
 $$\sigma_1, \sigma_2 = \frac{\sigma _x + \sigma_y}{2} \pm \sqrt{\left( \frac{\sigma_x-\sigma_y}{2}\right)^2+\tau_{xy}^2}$$
 
@@ -118,25 +118,27 @@ and
 
 $$\tau_1,\tau_ 2= \pm \sqrt{\left(\frac{\sigma_x-\sigma_y}{2}\right)^2+\tau^2_{xy}}$$
 
+Notes on finding $\sigma_3$ are in [Detour: Trying to find if $\sigma_3 = 0$ in 2D](#Detour%20Trying%20to%20find%20if%20$%20sigma_3%20=%200$%20in%202D). 
+
 ## Triaxial Stress
 
-There is a 3D analog to the 2D "angle" where there is no shear stress: it is possible to take a stress element at a particular orientation such that it has no shear stress on any of its faces. Each face will have only principle normal stress, noted as $\sigma_1, \sigma_2, \sigma_3$, such that $\sigma_1 > \sigma_2 > \sigma_3$. 
+There is a 3D analog to the 2D "angle" where there is no shear stress: it is possible to take a stress element at a particular orientation such that it has no shear stress on any of its faces. Each face will have only principal normal stress, noted as $\sigma_1, \sigma_2, \sigma_3$, such that $\sigma_1 > \sigma_2 > \sigma_3$. 
 
-You can use *Mohr's Circle for Triaxial Stesses* to find these by plotting,
+You can use *Mohr's Circle for Triaxial Stresses* to find these by plotting,
 
 ![[image-86.png]]
 
-Or, you can follow the [Eigenvalue Analysis for Principle Stress](4.%20Transformations.md#Eigenvalue%20Analysis%20for%20Principle%20Stress) from COE-3001. 
+Or, you can follow the [Eigenvalue Analysis for Principal Stress](4.%20Transformations.md#Eigenvalue%20Analysis%20for%20Principal%20Stress) from COE-3001. 
 
 ![[image-87.png]]
 
 > Figure 2-5 in 8th edition. 
 
-Kind of hard to interpret this graph, but the two axes are normal stress and shear stress. We can see where $\tau=0$, we have our principle stresses, and $\sigma_1$ is evidently the greatest, followed by $\sigma_2$ and then $\sigma_3$. 
+Kind of hard to interpret this graph, but the two axes are normal stress and shear stress. We can see where $\tau=0$, we have our principal stresses, and $\sigma_1$ is evidently the greatest, followed by $\sigma_2$ and then $\sigma_3$. 
 
-We can see the values $\tau_{1/3}, \tau_{2/3}, \tau_{1/2}$; these are the *principle shear stresses.* Wording in the book is not 100% clear, but I believe the subscript of $\tau_{m/n}$ means that the shear stress acts at the 45° plane to the plane of $\sigma_m$ and $\sigma_n$. The (b) figure above shows for $m=1, n=2$. Again, not 100% sure.s
+We can see the values $\tau_{1/3}, \tau_{2/3}, \tau_{1/2}$; these are the *principal shear stresses.* Wording in the book is not 100% clear, but I believe the subscript of $\tau_{m/n}$ means that the shear stress acts at the 45° plane to the plane of $\sigma_m$ and $\sigma_n$. The (b) figure above shows for $m=1, n=2$. Again, not 100% sure.s
 
-We can solve the values of the principle shear stresses relatively easily using geometry from Mohr's Circle:
+We can solve the values of the principal shear stresses relatively easily using geometry from Mohr's Circle:
 
 $$\tau_{2/3} = \frac{\sigma_2-\sigma_3}{2}, \quad \tau_{1/3} = \frac{\sigma_1-\sigma_3}{2}, \quad \tau_{1/2}= \frac{\sigma_1-\sigma_2}{2}$$
 
@@ -159,7 +161,6 @@ $$\tau_{xy}=\tau_{yx}\qquad \tau_{zy}=\tau_{yz}\qquad \tau_{xz}=\tau_{zx}$$
 All this means really is that our stress tensor needs to be symmetric.
 
 ```python
-
 import random
 o_xx, o_yy, o_zz, t_xy, t_yz, t_xz = np.random.rand((6))
 
@@ -177,7 +178,48 @@ Playing with this shows that, despite the Mohr's Circle diagram, $\sigma_3$ isn'
 
 > Note: I actually can't find an instance where $\sigma_1$ is negative.
 
+#### Detour: Trying to find if $\sigma_3 = 0$ in 2D
 
+spoiler: it doesn't
+
+```python
+import random
+o_xx, o_yy, t_xy = np.random.rand((3))
+o_zz, t_xz, t_yz = 0, 0, 0
+
+sigma = np.array([[o_xx, t_xy, t_xz],
+                  [t_xy, o_yy, t_yz],
+                  [t_xz, t_yz, o_zz]])
+              
+eigenvalues, eigenvectors = np.linalg.eig(sigma)
+
+o1, o2, o3 = sorted(eigenvalues, reverse=True)
+print(o1, o2, o3)
+```
+
+> Take the following with a grain of salt lowky
+
+**2D principle stresses are not the same as 3D principle stresses.** Let's denote 2D principle stresses with a tilde: $\tilde \sigma_1, \tilde \sigma_2$. In 2D, there are only these two principle stresses.
+
+However, if we want to expand our 2D plane element into 3D, there will be three principle stresses instead of two; we'll call these $\sigma_1, \sigma_2, \sigma_3$. Now, the confusing but critical part is that:
+
+*The 3D $\sigma_2$ is not necessarily equal to the 2D $\tilde \sigma_2$.*
+
+To find the 3D principle stresses $\sigma_1, \sigma_2, \sigma_3$ **specifically from a 2D plane element**, you need to first find the 2D principle stresses with the equation from [Mohr's Circle for Plane Stress](#Mohr's%20Circle%20for%20Plane%20Stress):
+
+$$\tilde \sigma_1, \tilde \sigma_2 = \frac{\sigma _x + \sigma_y}{2} \pm \sqrt{\left( \frac{\sigma_x-\sigma_y}{2}\right)^2+\tau_{xy}^2} \tag{a}$$
+
+Then, we we look to see:
+
+- If $\tilde \sigma_2 > 0$, then 
+$$\sigma_1 = \tilde \sigma_1 , \quad \sigma_2 = \tilde \sigma_2, \quad \sigma_3 = 0$$
+- If $\tilde \sigma_2 < 0$, then
+
+$$\sigma_1 = \tilde \sigma_1, \quad \sigma_2 = 0, \quad \sigma_3= \tilde \sigma_2$$
+
+Here's why this happens:
+
+When we expand a 2D element into 3D, one of the principle stresses will be zero; this is why we can work with just two principle stresses in 2D. However, principle stresses by definition need to be ordered such that $\sigma_1 \ge \sigma_2 \ge \sigma_3$. So all this is really doing is figuring out how to assign these indices while obeying this inequality. 
 
 ### Octahedral Stresses
 
@@ -185,9 +227,9 @@ Playing with this shows that, despite the Mohr's Circle diagram, $\sigma_3$ isn'
 
 Very difficult to picture in my opinion.
 
-If you take a stress element, then slice it with a plane that forms equal angles to each of the 3 principle stresses, then analyze the stresses on that plane, you will see the *octahedral stresses.*
+If you take a stress element, then slice it with a plane that forms equal angles to each of the 3 principal stresses, then analyze the stresses on that plane, you will see the *octahedral stresses.*
 
-This allows you to represent all of the principle stresses with two numbers, $\tau_{\rm oct}$ and $\sigma_{\rm oct}$. 
+This allows you to represent all of the principal stresses with two numbers, $\tau_{\rm oct}$ and $\sigma_{\rm oct}$. 
 
 There are a few different ways to calculate these, depending on which values you have:
 

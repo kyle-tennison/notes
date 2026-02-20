@@ -20,6 +20,8 @@
   legend('Sine Curve');               % Add legend
   ```
 
+If there are multiple plots, **legend** will take positional arguments for the labels of each plot, in the order they are defined.
+
 The pattern for plot style follows `{color} {linetype} {marker type}`. 
 
 For example,

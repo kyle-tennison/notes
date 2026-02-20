@@ -20,7 +20,7 @@ status8: ⚠️ Behind
 - [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [ ] PTC
+	- [x] PTC
 - [x] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] ME 3057: Experimental Methods
 	- [x] ME 3345: Heat Transfer

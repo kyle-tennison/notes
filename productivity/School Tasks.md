@@ -6,19 +6,35 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] ME-3345: Week 1&2 Reading
-- [ ] ME-3180: Homework 1
+- [ ] ME-3017: Report
+- [ ] ME-3017: Block 3 HW
+- [ ] ME-3345: HW 2
 
 
 ## In Progress
 
-- [ ] ME-3180: Quiz 1 study
+- [ ] ME-3345: Ch. 3 Reading
+- [ ] ME-3345: Study Sheet
+- [ ] ME-3345: Ch. 4 Reading
 
 
 ## Complete
 
 **Complete**
+- [x] ME-3057: Block 2 Reading
+- [x] ME-3057: Block 2 Outline
+- [x] ME-3180: Buckling Reading
+- [x] ME-3180: HW 4
+- [x] ME-3017: PS 2
+- [x] ME-3057: Report 1
+- [x] ME-3057: Block 2 HW
+- [x] ME-3180: HW 2
+- [x] ME-3180: Homework 2
+- [x] ME-3017: PS1
+- [x] ME-3180: Homework 1
 - [x] ME-3057: Podcast Episode Annotations
+- [x] ME-3345: Week 1&2 Reading
+- [x] ME-3180: Quiz 1 study
 
 
 ***

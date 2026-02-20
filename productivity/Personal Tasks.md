@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] GRE Planning / Study
 - [ ] Unenroll from Rentistry
+- [ ] Update AWS Billing
+- [ ] PURA Award Application
 
 
 ## Blocked
@@ -20,14 +22,15 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Catch up anki
-- [ ] BS/MS Application
 
 
 ## Done
 
 - [ ] Graduate Petition
+- [ ] BS/MS Application
 - [ ] Fix portfolio site
 - [ ] Present for Caroline's 23rd
+- [ ] Upcoming Exam Dates
 - [ ] Change White Oak Addresses
 - [ ] Renew Drivers License
 - [ ] Prune next semester schedule

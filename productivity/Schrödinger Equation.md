@@ -22,4 +22,8 @@ Because of the particle-wave duality, this classical approach will not work for 
 
 ```vid
 https://www.youtube.com/watch?v=WcNiA06WNvI
+Title: Schrodinger Equation. Get the Deepest Understanding.
+Author: Alexander (gottespfad.de)
+Thumbnail: https://i.ytimg.com/vi/WcNiA06WNvI/mqdefault.jpg
+AuthorUrl: https://www.youtube.com/@aleksandr-physics
 ```

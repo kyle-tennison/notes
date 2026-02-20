@@ -16,7 +16,7 @@ $$\kappa \approx \frac{d^2y}{dx^2}$$
 If we substitute this into the [bending equation](Bending%20Stress.md#^radius-of-curvature-bending-eq) $\displaystyle {\frac{1}{\rho}} = \frac{M}{EI}$, we get:
 
 $$\frac{M}{EI} = \frac{d^2y}{dx^2}$$
-
+^moment-flexure-relation
 This is also [shown here](8.%20Bending.md#^curvature-equation) in COE-3001.
 
 Subsequent differentiations give:
