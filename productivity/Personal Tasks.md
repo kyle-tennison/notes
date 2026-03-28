@@ -9,7 +9,8 @@ kanban-plugin: board
 - [ ] GRE Planning / Study
 - [ ] Unenroll from Rentistry
 - [ ] Update AWS Billing
-- [ ] PURA Award Application
+- [ ] Tau Beta Pi Scholarship App
+- [ ] Kinetic Sublet
 
 
 ## Blocked
@@ -27,6 +28,8 @@ kanban-plugin: board
 ## Done
 
 - [ ] Graduate Petition
+- [ ] PURA Award Application
+- [ ] Video
 - [ ] BS/MS Application
 - [ ] Fix portfolio site
 - [ ] Present for Caroline's 23rd

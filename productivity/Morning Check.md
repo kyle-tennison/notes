@@ -1,12 +1,12 @@
 ---
 status: 🔥 Ahead
 status1: ⚠️ Behind
-status2: ✅ On-Schedule
+status2: ⚠️ Behind
 status3: ⚠️ Behind
 status4: ✅ On-Schedule
-status5: ✅ On-Schedule
+status5: ⚠️ Behind
 status6: ✅ On-Schedule
-status7: ⚠️ Behind
+status7: ✅ On-Schedule
 status8: ⚠️ Behind
 ---
 # Morning Check
@@ -17,7 +17,7 @@ status8: ⚠️ Behind
 ---
 ## Checklist
 
-- [x] Check Emails
+- [ ] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
 	- [x] PTC
@@ -27,7 +27,7 @@ status8: ⚠️ Behind
 	- [x] ME 3180: Machine Design
 	- [x] ME 3017: System Dynamics
 	- [x] Calendar
-- [x] Anki (5 min) 
+- [ ] Anki (5 min) 
 - [x] [Personal Tasks](Personal%20Tasks.md)
 - [x] Google Calendar
 - [x] Track Habits
