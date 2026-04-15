@@ -1,7 +1,7 @@
 ---
 status: 🔥 Ahead
 status1: ⚠️ Behind
-status2: ⚠️ Behind
+status2: ✅ On-Schedule
 status3: ⚠️ Behind
 status4: ✅ On-Schedule
 status5: ⚠️ Behind
@@ -17,21 +17,21 @@ status8: ⚠️ Behind
 ---
 ## Checklist
 
-- [ ] Check Emails
+- [x] Check Emails
 	- [x] Personal
 	- [x] Georgia Tech
-	- [x] PTC
-- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [ ] PTC
+- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
 	- [x] ME 3057: Experimental Methods
 	- [x] ME 3345: Heat Transfer
 	- [x] ME 3180: Machine Design
 	- [x] ME 3017: System Dynamics
-	- [x] Calendar
+	- [ ] Calendar
 - [ ] Anki (5 min) 
 - [x] [Personal Tasks](Personal%20Tasks.md)
-- [x] Google Calendar
-- [x] Track Habits
-- [x] **Done**
+- [ ] Google Calendar
+- [ ] Track Habits
+- [ ] **Done**
 
 Check and modify the calendar. After checking **Done**, be sure to follow the plan you have set for the day. Don't make any changes unless absolutely necessary.
 

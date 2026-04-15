@@ -44,11 +44,15 @@ $$
 \end{bmatrix}
 $$
 
+^surface-forces
+
 In differential form, this can be expressed as $\textbf{F}_p=(\nabla \cdot \boldsymbol{\sigma})dxdydz$.
 
 Then, the body forces ($\textbf{F}_m$) can be expressed as:
 
 $$\textbf{F}_m=\textbf{f}\rho\;dxdydz$$ 
+^body-forces
+
 where $\textbf{f}$ is an acceleration field.
 
 Now, if we put this into the $\textbf{F}=\boldsymbol{\dot p}$ balance, we get:
@@ -75,6 +79,7 @@ If we say that $\boldsymbol{\dot u}$ contains both the local change and global c
 
 $$\underbrace{\frac{D\textbf{u}}{Dt}=\frac{1}{\rho}\nabla\cdot\boldsymbol{\sigma}+\textbf{f}}_{\text{Definition}}$$
 
+> I kinda hate this last step. "If we say." Must be a better way to justify this
 #### Intuition
 
 Effectively, we've just summed surface and body forces together, then expressed it as a change in momentum/velocity.

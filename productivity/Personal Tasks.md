@@ -8,9 +8,9 @@ kanban-plugin: board
 
 - [ ] GRE Planning / Study
 - [ ] Unenroll from Rentistry
-- [ ] Update AWS Billing
 - [ ] Tau Beta Pi Scholarship App
 - [ ] Kinetic Sublet
+- [ ] Fall Registration
 
 
 ## Blocked
@@ -29,6 +29,7 @@ kanban-plugin: board
 
 - [ ] Graduate Petition
 - [ ] PURA Award Application
+- [ ] Update AWS Billing
 - [ ] Video
 - [ ] BS/MS Application
 - [ ] Fix portfolio site
