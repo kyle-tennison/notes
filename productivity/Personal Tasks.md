@@ -8,15 +8,16 @@ kanban-plugin: board
 
 - [ ] GRE Planning / Study
 - [ ] Unenroll from Rentistry
-- [ ] Tau Beta Pi Scholarship App
-- [ ] Kinetic Sublet
-- [ ] Fall Registration
+- [ ] Final Advising Checkpoint
+- [ ] GLR
+- [ ] MIT URTC Info
 
 
 ## Blocked
 
 - [ ] Go through boxes at folsom
 - [ ] Professor Reach Out
+- [ ] Tau Beta Pi Scholarship App
 - [ ] Program Applications
 
 
@@ -29,7 +30,10 @@ kanban-plugin: board
 
 - [ ] Graduate Petition
 - [ ] PURA Award Application
+- [ ] cadence
 - [ ] Update AWS Billing
+- [ ] Degree Works Follow Up
+- [ ] Fall Registration
 - [ ] Video
 - [ ] BS/MS Application
 - [ ] Fix portfolio site

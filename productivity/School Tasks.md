@@ -15,11 +15,6 @@ kanban-plugin: board
 ## Complete
 
 **Complete**
-- [x] ME3345: March 16 Notes
-- [x] ME3345: March 4 Notes
-- [x] ME3345: March 9 Notes
-- [x] ME3345: March 11 Notes
-- [x] ME3345: March 18 Notes
 
 
 ***
@@ -176,6 +171,11 @@ kanban-plugin: board
 - [x] ME-3017: Report
 - [x] ME-3345: Study Sheet
 - [x] ME-3345: Ch. 3 Reading
+- [x] ME3345: March 16 Notes
+- [x] ME3345: March 4 Notes
+- [x] ME3345: March 9 Notes
+- [x] ME3345: March 11 Notes
+- [x] ME3345: March 18 Notes
 
 %% kanban:settings
 ```

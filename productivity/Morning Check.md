@@ -21,15 +21,12 @@ status8: ⚠️ Behind
 	- [x] Personal
 	- [x] Georgia Tech
 	- [ ] PTC
-- [ ] Check Canvas, load [School Tasks](School%20Tasks.md)
-	- [x] ME 3057: Experimental Methods
-	- [x] ME 3345: Heat Transfer
-	- [x] ME 3180: Machine Design
-	- [x] ME 3017: System Dynamics
+- [x] Check Canvas, load [School Tasks](School%20Tasks.md)
+	- [ ] ME 3345: Heat Transfer
 	- [ ] Calendar
 - [ ] Anki (5 min) 
 - [x] [Personal Tasks](Personal%20Tasks.md)
-- [ ] Google Calendar
+- [x] Google Calendar
 - [ ] Track Habits
 - [ ] **Done**
 
