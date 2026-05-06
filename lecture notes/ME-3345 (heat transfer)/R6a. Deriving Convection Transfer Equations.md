@@ -116,6 +116,7 @@ $$
 + \mu \left(\frac{\partial^2u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2}\right)
 + X
 $$
+^scalar-ns-x
 
 $$
 \rho\left(v\frac{\partial v}{\partial x}+v\frac{\partial v}{\partial y}\right)
