@@ -20,3 +20,8 @@ $$L_T = \cases{2d+ \frac 14 \qquad L\le6\text{ in} \\2d+\frac 12 \qquad L>6\text
 
 The grip length $l$ includes everything that the bolt holds onto, including washers. For the case of a bolt that is threaded into a hole, the effective grip length is:
 
+
+
+---
+
+gave up hard but we got an A anyways fuck it we ball

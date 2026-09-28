@@ -6,36 +6,61 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] GRE Planning / Study
-- [ ] Unenroll from Rentistry
-- [ ] Final Advising Checkpoint
-- [ ] GLR
-- [ ] MIT URTC Info
 
 
 ## Blocked
 
 - [ ] Go through boxes at folsom
-- [ ] Professor Reach Out
-- [ ] Tau Beta Pi Scholarship App
-- [ ] Program Applications
 
 
 ## In Progress
 
 - [ ] Catch up anki
+- [ ] GLR
 
 
-## Done
+## Complete
 
+- [ ] Review google calendar schedule
+- [ ] MIT URTC Poster
+- [ ] Supplier form
+- [ ] Put assignments on calendar
+- [ ] IKEA Stuff
+- [ ] Systems HW
+- [ ] Drop off PTC box
+- [ ] Review Course Syllabi
+
+
+***
+
+## Archive
+
+- [ ] Onshape Hours
+- [ ] Onshape Presentation
+- [ ] Unenroll from Rentistry
+- [ ] Respond to research guy
+- [ ] SMCCD Download
+- [ ] Respond to research guy
+- [ ] Pre-Appointment Stuff
+- [ ] Conference Slides
+- [ ] Cardiologist
+- [ ] Book Flights
+- [ ] Final Advising Checkpoint
+- [ ] Cancel Amazon Subscriptions
 - [ ] Graduate Petition
 - [ ] PURA Award Application
+- [ ] Boston Apartment
 - [ ] cadence
+- [ ] CIOS
+- [ ] Folsom trip(s) plan
 - [ ] Update AWS Billing
+- [ ] Send dad address
 - [ ] Degree Works Follow Up
+- [ ] Summer Planning
 - [ ] Fall Registration
 - [ ] Video
 - [ ] BS/MS Application
+- [ ] Email Methods TA
 - [ ] Fix portfolio site
 - [ ] Present for Caroline's 23rd
 - [ ] Upcoming Exam Dates
@@ -43,12 +68,6 @@ kanban-plugin: board
 - [ ] Renew Drivers License
 - [ ] Prune next semester schedule
 - [ ] Schedule flight back to atlanta
-
-
-***
-
-## Archive
-
 - [ ] Housing Application
 - [ ] Spring Registration Planning
 - [ ] Timecard @{2024-11-09}
@@ -73,6 +92,13 @@ kanban-plugin: board
 - [ ] Remove myself from housing waitlist
 - [ ] Ragposium Featured Project
 - [ ] Book flight back to california
+- [ ] GLR
+- [ ] GRE Planning / Study
+- [ ] GRE Identification
+- [ ] Professor Reach Out
+- [ ] Program Applications
+- [ ] Tau Beta Pi Scholarship App
+- [ ] MIT URTC Info
 
 %% kanban:settings
 ```

@@ -5,7 +5,7 @@
 
 ![[image-39.png]]
 
-This pivots on the idea that every end-start comination will add up to the same thing. For an even set of numbers, this is very easy; for an odd set, you need to individually include the number in the middle.
+This pivots on the idea that every end-start combination will add up to the same thing. For an even set of numbers, this is very easy; for an odd set, you need to individually include the number in the middle.
 
 The middle number will be $\text{ceil}(\text{end}/2)$. 
 
@@ -29,7 +29,7 @@ For factorials, any combination of factors is also a factor:
 
 You can use any number of these factors to "build" a factor.
 
-You can also think of "decomposing" factors into more factors. For instance, you can decompose $4$ into $2^2$, or $8$ into $2^3$. Now, you effectively have five $2$ factors, so any value between $2^0$ and $2^5$ will be a factor if $15!$. 
+You can also think of "decomposing" factors into more factors. For instance, you can decompose $4$ into $2^2$, or $8$ into $2^3$. Now, you effectively have five $2$ factors, so any value between $2^0$ and $2^5$ will be a factor if $15!$. 🔴
 
 ---
 

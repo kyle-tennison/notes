@@ -6,12 +6,13 @@
   "table-editor-obsidian",
   "execute-code",
   "password-protection",
-  "edge-tts",
   "obsidian-thumbnails",
   "obsidian-advanced-slides",
   "obsidian-filename-heading-sync",
   "terminal",
   "image-converter",
   "obsidian-meta-bind-plugin",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "system3-relay",
+  "voice"
 ]

@@ -1,4 +1,6 @@
-# 1. Colonial Period
+# Georgia History
+
+## 1. Colonial Period
 
 ## James Edward Oglethorpe
 
@@ -10,7 +12,26 @@
 - Started in Savannah, originally banned slavery and granted religious freedom
 - Battle of Bloody Marsh: Fought against the Spanish to protect the colony
 - Envisioned Georgia as a place for the "worthy poor"
+
+
+## Mico Tomochichi
+
+- Cheiv of the Yamacraw indians
+- Welcomed the settlers 
+- Accompanied Oglethrope to england
+
+## Colonial Period Slavery 
+
+- Banned slavery for military and economic reasons
+- Didn't think it was necessary either—they could do it on their own
+	- The Trustees thought this
+	- Settlers complained about not being able to use slavery
+- In 1735 slavery was prohibited
+- Europeans argued that west africans were more able to do the work than europeans. Impossible to be content otherwise. 
 - 
+
+
+
 
 Sources:
 
